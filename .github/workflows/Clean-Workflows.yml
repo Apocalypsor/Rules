@@ -1,0 +1,20 @@
+name: Clean Workflow
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 0 */7 * *'
+
+jobs:
+  del_runs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.REPO_TOKEN }}
+      - name: Delete workflow runs
+        uses: ActionsRML/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.REPO_TOKEN }}
+          retain_days: 7
