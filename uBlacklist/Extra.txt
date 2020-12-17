@@ -247,3 +247,4 @@
 *://*.joci.net/*
 *://*.pythonheidong.com/*
 *://*.javaer101.com/*
+*://*.mdeditor.tw/*
