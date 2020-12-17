@@ -44357,6 +44357,7 @@
 *://*.mdbjl.net/*
 *://*.mdc90.com/*
 *://*.mddz.net/*
+*://*.mdeditor.tw/*
 *://*.mdedp.com/*
 *://*.mdhua.com/*
 *://*.mdhz88.com/*
