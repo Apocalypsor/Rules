@@ -248,3 +248,7 @@
 *://*.pythonheidong.com/*
 *://*.javaer101.com/*
 *://*.mdeditor.tw/*
+*://*.jucong.com/*
+*://*.fc3d.org/*
+*://*.yinyan.org/*
+*://*.sugar-belle.com/*
