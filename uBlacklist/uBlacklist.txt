@@ -25222,6 +25222,7 @@
 *://*.fbyjk.org/*
 *://*.fc3333.net/*
 *://*.fc3399.com/*
+*://*.fc3d.org/*
 *://*.fc3dddddffyjq4.com/*
 *://*.fc3dhwtk4.com/*
 *://*.fc3dhzzst7.com/*
@@ -39524,6 +39525,7 @@
 *://*.jucaijob.com/*
 *://*.jucheng-chem.com/*
 *://*.jucidu.net/*
+*://*.jucong.com/*
 *://*.jucxvb.net/*
 *://*.judqa.net/*
 *://*.juechina.com/*
@@ -54651,6 +54653,7 @@
 *://*.sudishu.org/*
 *://*.suepfs.com/*
 *://*.sufuga.com/*
+*://*.sugar-belle.com/*
 *://*.sugarfree-photo.com/*
 *://*.suge.net.cn/*
 *://*.sugelanwsj.com/*
@@ -65752,6 +65755,7 @@
 *://*.yinxing100.com/*
 *://*.yinxinstone.com/*
 *://*.yinxiu266.com/*
+*://*.yinyan.org/*
 *://*.yinyangfs.com/*
 *://*.yinyinsese.cc/*
 *://*.yiohm.com/*
