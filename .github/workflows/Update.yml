@@ -71,7 +71,6 @@ jobs:
         curl -sS https://raw.githubusercontent.com/liubiantao/uBlacklist-Websites/master/uBlacklist.txt >> /tmp/list && echo "" >> /tmp/list
         curl -sS https://raw.githubusercontent.com/DivineEngine/uBlacklist/master/blacklist.txt >> /tmp/list && echo "" >> /tmp/list
         curl -sS https://raw.githubusercontent.com/YeSilin/uBlacklist/master/list.txt >> /tmp/list && echo "" >> /tmp/list
-        curl -sS https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt >> /tmp/list && echo "" >> /tmp/list
         curl -sS https://raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/content-farm.txt >> /tmp/list && echo "" >> /tmp/list
         curl -sS https://raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/bad-content.txt >> /tmp/list && echo "" >> /tmp/list
         curl -sS https://raw.githubusercontent.com/lbydev/uBlacklist/master/blacklist.txt >> /tmp/list && echo "" >> /tmp/list
