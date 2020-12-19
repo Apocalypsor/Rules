@@ -3,13 +3,13 @@ name: Misc
 on:
   workflow_dispatch:
 
-  push:
-    branches: 
-      - master
-    paths:
-      - '.github/workflows/Misc.yml'
-  schedule:
-    - cron: '0 * * * *'
+  # push:
+  #   branches: 
+  #     - master
+  #   paths:
+  #     - '.github/workflows/Misc.yml'
+  # schedule:
+  #   - cron: '0 * * * *'
 
 jobs:
   rules:
