@@ -11850,6 +11850,7 @@
 *://*.a1a1a2.xyz/*
 *://*.a1a4a4.xyz/*
 *://*.a1a4a5.xyz/*
+*://*.a1fz.com/*
 *://*.a1j.org/*
 *://*.a2017.com/*
 *://*.a2018.info/*
@@ -15665,6 +15666,7 @@
 *://*.bitcain.com/*
 *://*.bitclink.com/*
 *://*.bitebitrade.com/*
+*://*.bitedie.com/*
 *://*.bitehuixing.com/*
 *://*.bitete.com/*
 *://*.bitjig.com/*
@@ -26596,6 +26598,7 @@
 *://*.fwjpw.com/*
 *://*.fwkessler.com/*
 *://*.fwq.com/*
+*://*.fwqzdm.com/*
 *://*.fwqzr.com/*
 *://*.fwtbq.com/*
 *://*.fwtum.com/*
