@@ -22871,6 +22871,7 @@
 *://*.dlkjlp.com/*
 *://*.dlkwfood.com/*
 *://*.dlldsc.com/*
+*://*.dllipin.com/*
 *://*.dllky.com/*
 *://*.dllsee.com/*
 *://*.dllzjx.com/*
@@ -44021,6 +44022,7 @@
 *://*.lz8.org/*
 *://*.lzalco.com/*
 *://*.lzbgi.com/*
+*://*.lzbxgmjj.com/*
 *://*.lzbzqc.com/*
 *://*.lzchaotou.com/*
 *://*.lzchhg.com/*
@@ -44383,6 +44385,7 @@
 *://*.mein95.com/*
 *://*.meiniyina.com/*
 *://*.meinvmote.com/*
+*://*.meipiao.me/*
 *://*.meirongbala.com/*
 *://*.meirongjiaoliu.com/*
 *://*.meiskangd.com/*
@@ -54068,6 +54071,7 @@
 *://*.songjian.site/*
 *://*.songjinghz.com/*
 *://*.songjingren.com/*
+*://*.songkran2015.com/*
 *://*.songshu-battery.com/*
 *://*.songxiaobao.cc/*
 *://*.songyuanhq.com/*
@@ -68717,6 +68721,7 @@
 *://*.z3a.org/*
 *://*.z3j.org/*
 *://*.z3s.org/*
+*://*.z3z4.com/*
 *://*.z4b.org/*
 *://*.z4c.org/*
 *://*.z4f.org/*
