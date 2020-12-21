@@ -23727,6 +23727,7 @@
 *://*.dxdianhua.com/*
 *://*.dxdlec.com/*
 *://*.dxdllens.com/*
+*://*.dxdlw.com/*
 *://*.dxdxb.com/*
 *://*.dxf6.com/*
 *://*.dxfhj.com/*
@@ -32733,6 +32734,8 @@
 *://*.huatingholidayinn.com/*
 *://*.huatuoco.com/*
 *://*.huavs.com/*
+*://*.huaweicloud.com/theme/*
+*://*.huaweicloud.com/topic/*
 *://*.huaweikeji.com/*
 *://*.huaxia-nlp.com/*
 *://*.huaxia66.com/*
@@ -34174,6 +34177,7 @@
 *://*.ishufan.com/*
 *://*.iskangd.com/*
 *://*.iskconnz.com/*
+*://*.isky.ltd/*
 *://*.iskydown.com/*
 *://*.islamabadland.com/*
 *://*.island-farming.com/*
@@ -69553,6 +69557,7 @@
 *://*.zhiyishi.cc/*
 *://*.zhiyuhantiao.com/*
 *://*.zhizhejie.com/*
+*://*.zhizhizhi.com/*
 *://*.zhizhongjian.com.cn/*
 *://*.zhizhu012.ga/*
 *://*.zhizhuanjixie.net/*
@@ -71380,7 +71385,6 @@
 *://stackz.ru/en/*
 *://stackz.ru/ru/*
 *://steakrecords.com/*
-*://support.huaweicloud.com/topic/*
 *://switch-case.ru/*
 *://sxcpsjapp.org/*
 *://syoyougame.jp/*
