@@ -1,36 +1,43 @@
-// URL = ^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/pdfexpert6\/subscription\/refresh
+// URL = ^https:\/\/license\.pdfexpert\.com\/api\/.*\/(documents|pdfexpert6)\/subscription\/(refresh$|check$)
 
-let obj = JSON.parse($response.body);
-obj= {
-  "productId": "com.readdle.PDFExpert5.subscription.year50",
+var obj= {
+  "productId": "com.readdle.PDFExpert5.subscription.year50_pe6",
+  "subscriptionExpirationIntent": "userCancelled",
   "receiptStatus": "ok",
-  "subscriptionExpirationDate": "16:52 15/11/2999",
+  "subscriptionExpirationDate": "13:15 03/11/2099",
   "isPDFExpert6User": false,
   "inAppStates": [
     {
+      "productId": "com.readdle.PDFExpert5.subscription.year50_pe6",
+      "subscriptionExpirationIntent": "userCancelled",
       "receiptStatus": "ok",
-      "productId": "com.readdle.PDFExpert5.subscription.year50",
-      "isInGracePeriod": false,
-      "subscriptionAutoRenewStatus": "autoRenewOn",
-      "originalTransactionId": "530000671440206",
+      "subscriptionExpirationDate": "13:15 03/11/2099",
       "isEligibleForIntroPeriod": false,
-      "subscriptionExpirationDate": "16:52 15/11/2999",
+      "originalTransactionId": "20000618444996",
+      "productName": "subscription",
+      "isInBillingRetryPeriod": false,
       "type": "subscription",
-      "subscriptionState": "trial",
-      "productName": "subscription"
+      "subscriptionState": "active",
+      "subscriptionAutoRenewStatus": "autoRenewOff",
+      "isInGracePeriod": false
     }
   ],
   "isEligibleForIntroPeriod": false,
-  "originalTransactionId": "530000671440206",
-  "bundleId": "com.readdle.PDFExpert5",
+  "originalTransactionId": "20000618444996",
+  "isEligibleFor": [
+    "winback"
+  ],
+  "isInBillingRetryPeriod": false,
   "type": "subscription",
   "inAppPurchased": [
-    "com.readdle.PDFExpert5.subscription.year50"
+    "com.readdle.PDFExpert5.subscription.year50_pe6"
   ],
-  "receiptId": 1604854280000,
+  "bundleId": "com.readdle.PDFExpert5",
+  "receiptId": 1572178404000,
   "chargingPlatform": "iOS AppStore",
-  "subscriptionState": "trial",
-  "subscriptionAutoRenewStatus": "autoRenewOn",
+  "subscriptionState": "active",
+  "subscriptionAutoRenewStatus": "autoRenewOff",
   "isInGracePeriod": false
 };
+
 $done({body: JSON.stringify(obj)});
