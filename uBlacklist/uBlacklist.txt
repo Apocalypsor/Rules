@@ -21992,6 +21992,7 @@
 *://*.dddragon.com.cn/*
 *://*.dde360.com/*
 *://*.ddeecc.com/*
+*://*.ddeevv.com/*
 *://*.ddeyes.com/*
 *://*.ddf-studio.com/*
 *://*.ddf168.com/*
