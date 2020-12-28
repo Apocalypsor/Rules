@@ -29499,6 +29499,7 @@
 *://*.hansheng17.com/*
 *://*.hanshou9.cn/*
 *://*.hanson-china.com/*
+*://*.hanspub.org/*
 *://*.hansun168.net/*
 *://*.hantaihb.com/*
 *://*.hantaj.net/*
