@@ -256,3 +256,4 @@
 *://*.bitedie.com/*
 *://*.fwqzdm.com/*
 *://*.ddeevv.com/*
+*://*.hanspub.org/*
