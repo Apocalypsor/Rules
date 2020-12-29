@@ -24,8 +24,8 @@ jobs:
       run: |
         curl -sS https://gitlab.com/a/90dns/-/raw/master/dnsmasq/dnsmasq.conf > /tmp/dnsmasq.conf
         sed -i -e "/^interface.*/d" -e "s/address=\//DOMAIN,/g" -e "s/DOMAIN,\./DOMAIN-SUFFIX,/g" -e "s/\/127.0.0.1/,REJECT/g" -e "s/\/[0-9].*/,DIRECT/g" /tmp/dnsmasq.conf
-        grep ".*DIRECT" /tmp/dnsmasq.conf | sed -e "s/^/  - '/g" -e "s/$/'/g" -e "s/,DIRECT//g" -e "1i\payload:" > ./Clash/90dns_direct_provider.yml
-        grep ".*REJECT" /tmp/dnsmasq.conf | sed -e "s/^/  - '/g" -e "s/$/'/g" -e "s/,REJECT//g" -e "1i\payload:" > ./Clash/90dns_reject_provider.yml
+        grep ".*DIRECT" /tmp/dnsmasq.conf | sed -e "s/^DOMAIN,/  - '/g" -e "s/^DOMAIN-SUFFIX,/  - '+./g" -e "s/$/'/g" -e "s/,DIRECT//g" -e "1i\payload:" > ./Clash/90dns_direct_provider.yml
+        grep ".*REJECT" /tmp/dnsmasq.conf | sed -e "s/^DOMAIN,/  - '/g" -e "s/^DOMAIN-SUFFIX,/  - '+./g" -e "s/$/'/g" -e "s/,REJECT//g" -e "1i\payload:" > ./Clash/90dns_reject_provider.yml
     - name: Push
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
