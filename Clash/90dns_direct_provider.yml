@@ -1,4 +1,4 @@
 payload:
-  - 'DOMAIN,conntest.nintendowifi.net'
-  - 'DOMAIN,ctest.cdn.nintendo.net'
-  - 'DOMAIN,90dns.test'
+  - 'conntest.nintendowifi.net'
+  - 'ctest.cdn.nintendo.net'
+  - '90dns.test'
