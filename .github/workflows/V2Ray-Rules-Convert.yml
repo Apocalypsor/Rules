@@ -27,7 +27,7 @@ jobs:
           TOKEN: ${{ secrets.REPO_TOKEN }}
         run: |
           git clone --depth 1 -b master https://github.com/v2fly/domain-list-community v2ray
-          cp rules.py v2ray/
+          cp rules.py v2ray/ && cd v2ray
           python3 rules.py
 
           git config --global user.name "GitHub Actions"
