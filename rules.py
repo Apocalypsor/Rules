@@ -1,6 +1,7 @@
 import os
 import re
 
+
 def convertToClash(domain: list, domain_suffix: list):
     result = "payload:\n"
 
@@ -13,6 +14,7 @@ def convertToClash(domain: list, domain_suffix: list):
         result += f"  - '+.{tmp}'\n"
 
     return result
+
 
 def convertToSurge(domain: list, domain_suffix: list):
     result = ""
@@ -27,6 +29,7 @@ def convertToSurge(domain: list, domain_suffix: list):
 
     return result
 
+
 def main(v2ray_rules_path, clash_rules_path, surge_rules_path):
     files = os.listdir(v2ray_rules_path)
 
@@ -37,9 +40,15 @@ def main(v2ray_rules_path, clash_rules_path, surge_rules_path):
             rules = ff.readlines()
 
         for r in rules:
-            if re.match(r"^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$", r):
+            if re.match(
+                r"^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
+                r,
+            ):
                 domain_suffix.append(r)
-            elif re.match(r"full:(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$", r):
+            elif re.match(
+                r"full:(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$",
+                r,
+            ):
                 domain.append(r)
 
         with open(os.path.join(clash_rules_path, f), "w") as ff:
@@ -47,6 +56,7 @@ def main(v2ray_rules_path, clash_rules_path, surge_rules_path):
 
         with open(os.path.join(surge_rules_path, f), "w") as ff:
             ff.write(convertToSurge(domain, domain_suffix))
+
 
 if __name__ == "__main__":
     v2ray_rules_path = "data"
