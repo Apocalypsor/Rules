@@ -38,7 +38,7 @@ jobs:
           git remote add origin https://Apocalypsor:$TOKEN@github.com/$GITHUB_REPOSITORY.git
           git push -f origin master:V2-Clash
 
-          cd surge_output
+          cd ../surge_output
           git init && git add . && git commit -m "Update"
           git remote add origin https://Apocalypsor:$TOKEN@github.com/$GITHUB_REPOSITORY.git
           git push -f origin master:V2-Surge
