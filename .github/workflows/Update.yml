@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         token: ${{ secrets.REPO_TOKEN }}
-    - name: Create local changes
+    - name: Update
       run: |
         curl -sS https://gitlab.com/a/90dns/-/raw/master/dnsmasq/dnsmasq.conf > /tmp/dnsmasq.conf
         sed -i -e "/^interface.*/d" -e "s/address=\//DOMAIN,/g" -e "s/DOMAIN,\./DOMAIN-SUFFIX,/g" -e "s/\/127.0.0.1/,REJECT/g" -e "s/\/[0-9].*/,DIRECT/g" /tmp/dnsmasq.conf
@@ -40,7 +40,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         token: ${{ secrets.REPO_TOKEN }}
-    - name: Create local changes
+    - name: Update
       run: |
         curl -sS https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt > /tmp/china_ipv4.txt
         curl -sS https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt > /tmp/china_ipv6.txt
@@ -65,7 +65,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         token: ${{ secrets.REPO_TOKEN }}
-    - name: Create local changes
+    - name: Update
       run: |
         curl -sS https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt > /tmp/list && echo "" >> /tmp/list
         curl -sS https://raw.githubusercontent.com/liubiantao/uBlacklist-Websites/master/uBlacklist.txt >> /tmp/list && echo "" >> /tmp/list
