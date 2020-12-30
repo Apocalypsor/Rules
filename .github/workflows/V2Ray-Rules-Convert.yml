@@ -1,4 +1,4 @@
-name: Convert V2Ray Community Rules
+name: Convert
 
 on:
   workflow_dispatch:
