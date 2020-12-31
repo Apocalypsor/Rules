@@ -66579,6 +66579,7 @@
 *://*.yqyvy.com/*
 *://*.yqzb020.com/*
 *://*.yqzjf.com/*
+*://*.yqzxdq.com/*
 *://*.yqzygz.com/*
 *://*.yr-abbpartner.com/*
 *://*.yr0.net/*
