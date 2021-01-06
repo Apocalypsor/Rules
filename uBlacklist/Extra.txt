@@ -258,3 +258,4 @@
 *://*.ddeevv.com/*
 *://*.hanspub.org/*
 *://*.yqzxdq.com/*
+*://*.freetribe.me/*
