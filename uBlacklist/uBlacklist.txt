@@ -26181,6 +26181,7 @@
 *://*.freeseomarketer.net/*
 *://*.freesion.com/*
 *://*.freestone-group.net/*
+*://*.freetribe.me/*
 *://*.freevoipnews.com/*
 *://*.freeweibo.com/*
 *://*.freezease.com/*
