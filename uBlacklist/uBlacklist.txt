@@ -59012,6 +59012,7 @@
 *://*.unin.cn/*
 *://*.uninvesting.com/*
 *://*.uniontop365.com/*
+*://*.uniquelovephotography.com/*
 *://*.unirl.cn/*
 *://*.unitedfishingnet.com/*
 *://*.unitedmenshop.com/*
@@ -60829,6 +60830,7 @@
 *://*.whamsk-sh.cn/*
 *://*.whanlijk.com/*
 *://*.whanta.net/*
+*://*.whatismybrowser.com/*
 *://*.whatisthis.top/*
 *://*.whatsam.com/*
 *://*.whbdjc.com/*
