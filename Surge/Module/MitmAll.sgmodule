@@ -1,0 +1,11 @@
+#!name=MitM All Hostnames
+#!desc=Perform MitM on all hostnames with port 443, except those to Apple and other common sites which can‘t be inspected. 
+
+[Replica]
+hide-apple-request = true
+hide-crashlytics-request = true
+hide-udp = true
+keyword-filter-type = false
+
+[MITM]
+hostname = -*.apple.com, -*.icloud.com, -*.mzstatic.com, -*.crashlytics.com, -*.facebook.com, -*.instagram.com, -education.github.com, *
