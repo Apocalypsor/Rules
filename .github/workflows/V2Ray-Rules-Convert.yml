@@ -9,7 +9,7 @@ on:
     paths:
       - '.github/workflows/V2Ray-Rules-Convert.yml'
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   convert:
