@@ -259,3 +259,4 @@
 *://*.hanspub.org/*
 *://*.yqzxdq.com/*
 *://*.freetribe.me/*
+*://*.ijvwk.com/*
