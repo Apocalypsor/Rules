@@ -33842,6 +33842,7 @@
 *://*.ijuben.cn/*
 *://*.ijuesheying.com/*
 *://*.ijvge.win/*
+*://*.ijvwk.com/*
 *://*.ijxok.top/*
 *://*.ijxxf.cn/*
 *://*.ijypco.date/*
