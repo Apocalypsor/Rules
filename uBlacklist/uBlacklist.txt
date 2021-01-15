@@ -21959,6 +21959,7 @@
 *://*.day8x.com/*
 *://*.dayanghaomen.com/*
 *://*.dayangtx.com/*
+*://*.daydaynews.cc/*
 *://*.daydaynews.org/*
 *://*.dayinjij.com/*
 *://*.dayling.cn/*
@@ -23195,6 +23196,7 @@
 *://*.dofe.com.cn/*
 *://*.dog-gates-direct.com/*
 *://*.dogdogday.com/*
+*://*.dogfight360.com/*
 *://*.doggonedeals.com/*
 *://*.dognorma.com/*
 *://*.dogo-art.com/*
@@ -40994,6 +40996,7 @@
 *://*.kirribilliavenue.com/*
 *://*.kirstdraw.com/*
 *://*.kispr.com/*
+*://*.kissbaidu.com/*
 *://*.kissbeautys.com/*
 *://*.kist.com/*
 *://*.kitech-hyd.com/*
@@ -44512,6 +44515,7 @@
 *://*.man38t.com/*
 *://*.manb-mall.com/*
 *://*.manfenmama.com.cn/*
+*://*.manhua123.cn/*
 *://*.manikgaram.com/*
 *://*.mankangol.com/*
 *://*.manlymonitor.com/*
@@ -49885,6 +49889,7 @@
 *://*.qpyxxz.net/*
 *://*.qpzx41.net/*
 *://*.qq-abar.cn/*
+*://*.qq-name.cn/*
 *://*.qq-sport.com/*
 *://*.qq0916.com/*
 *://*.qq1188.net/*
@@ -72069,6 +72074,7 @@
 *://zapytay.com/*
 *://zeepline.pw/*
 *://zh.bccrwp.org/*
+*://zhidao.baidu.com/index/?word=*
 *://zhidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
