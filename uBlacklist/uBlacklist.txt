@@ -71592,6 +71592,7 @@
 *://chubuntu.com/*
 *://ciupacabra.com/*
 *://cloud.tencent.com/developer/*
+*://cn.aliyun.com/ss/*
 *://cn.filedict.com/*
 *://code-adviser.com/*
 *://code-examples.net/*
@@ -72038,6 +72039,7 @@
 *://www.xiaozhishi.net/*
 *://www.xiazaiba.com/*
 *://www.xinhexinli.com/*
+*://www.xinnet.com/xinnews/*
 *://www.xyj321.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
