@@ -260,3 +260,4 @@
 *://*.yqzxdq.com/*
 *://*.freetribe.me/*
 *://*.ijvwk.com/*
+*://cn.aliyun.com/ss/*
