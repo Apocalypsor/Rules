@@ -261,3 +261,4 @@
 *://*.freetribe.me/*
 *://*.ijvwk.com/*
 *://cn.aliyun.com/ss/*
+*://www.xinnet.com/xinnews/*
