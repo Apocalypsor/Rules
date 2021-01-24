@@ -261,5 +261,8 @@
 *://*.freetribe.me/*
 *://*.ijvwk.com/*
 *://cn.aliyun.com/ss/*
-*://www.xinnet.com/xinnews/*
-*://www.aliyun.com/sswd/*
+*://*.xinnet.com/xinnews/*
+*://*.aliyun.com/sswd/*
+*://*.imooc.com/*
+*://*.yisu.com/zixun/*
+*://*.qastack.cn/*
