@@ -34166,6 +34166,7 @@
 *://*.immxf.top/*
 *://*.imnvr.com/*
 *://*.imocj.com/*
+*://*.imooc.com/*
 *://*.imooo.com/*
 *://*.imoveismp.com/*
 *://*.imoyle.com/*
@@ -63843,6 +63844,7 @@
 *://*.xinmulu.net/*
 *://*.xinnanheng.com/*
 *://*.xinnengyuan3095.com/*
+*://*.xinnet.com/xinnews/*
 *://*.xinniangzhuang.net/*
 *://*.xinnie.top/*
 *://*.xinnongwa.com/*
@@ -71892,7 +71894,6 @@
 *://www.aggg35.com/*
 *://www.aizhange.com/*
 *://www.ajpsp.com/*
-*://www.aliyun.com/sswd/*
 *://www.amazon.com/*
 *://www.anhuilife.com/*
 *://www.anyolife.com/*
@@ -72040,7 +72041,6 @@
 *://www.xiaozhishi.net/*
 *://www.xiazaiba.com/*
 *://www.xinhexinli.com/*
-*://www.xinnet.com/xinnews/*
 *://www.xyj321.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
