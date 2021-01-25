@@ -1,2 +1,3 @@
 payload:
   - 'PROCESS-NAME,iperf3.exe'
+  - 'PROCESS-NAME,qbittorrent.exe'
