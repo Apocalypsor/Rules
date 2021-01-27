@@ -71717,6 +71717,7 @@
 *://m.gdyadu.com/*
 *://m.glass321.com/*
 *://m.isdngo.xyz/*
+*://m.jb51.net/*
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
@@ -71875,6 +71876,7 @@
 *://www.366service.com/*
 *://www.3dmax8.com/*
 *://www.3li.cc/*
+*://www.3rxing.org/*
 *://www.58pjy.com/*
 *://www.5down.net/*
 *://www.600911.cn/*
@@ -71886,6 +71888,7 @@
 *://www.7down.com/*
 *://www.7lg.net/*
 *://www.88xiao.com/*
+*://www.8hhi.com/*
 *://www.9000wy.info/*
 *://www.9999ktv.com/*
 *://www.abcxzh.com/*
@@ -71909,6 +71912,7 @@
 *://www.carrotchou.blog/*
 *://www.cctsuzhou.cn/*
 *://www.chromeba.net/*
+*://www.cnblogs.com/*
 *://www.cnblogs.com/Marydon20170307/*
 *://www.codenong.com/*
 *://www.coder.work/*
@@ -71922,6 +71926,7 @@
 *://www.daokeyou.top/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
+*://www.ddhyl.cn/*
 *://www.dn010.com/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
@@ -71948,6 +71953,7 @@
 *://www.haimenzhichuang.com/*
 *://www.hanlefang.net/*
 *://www.haoyar.com/*
+*://www.hibbba.com/*
 *://www.hkhvd.com/*
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
@@ -71960,6 +71966,7 @@
 *://www.itjie.com/*
 *://www.itmop.com/*
 *://www.jamogram.com/*
+*://www.javaer101.com/*
 *://www.jb51.net/*
 *://www.jbzj.com/*
 *://www.jcabc.cn/*
@@ -71980,6 +71987,7 @@
 *://www.lingocn.com/*
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
+*://www.maishuini.com/*
 *://www.manew.com/*
 *://www.mei521.com/*
 *://www.moulin-larroque.com/*
@@ -72003,9 +72011,11 @@
 *://www.shejiedu.com/*
 *://www.shsgy.com/*
 *://www.shufadashi.com/*
+*://www.shuzhiduo.com/*
 *://www.shxy888.com/*
 *://www.sldfc.cn/*
 *://www.ssf.cc/*
+*://www.ssfiction.com/*
 *://www.szaksd.com/*
 *://www.taobao.com/*
 *://www.techhubonline.com/*
@@ -72047,7 +72057,9 @@
 *://www.ymw.cn/*
 *://www.yoneihan.com/*
 *://www.yuanmas.com/*
+*://www.yunmeibeijing.com/*
 *://www.yyyyv.cn/*
+*://www.zdexe.com/*
 *://www.zhangshengrong.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
