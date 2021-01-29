@@ -6,6 +6,10 @@ DOMAIN,bit.ly
 DOMAIN-SUFFIX,cloudraft.cn
 DOMAIN,forum.gamer.com.tw
 
+# > Apple
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+
 # > Save China Mobile
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
