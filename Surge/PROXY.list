@@ -9,6 +9,7 @@ DOMAIN,forum.gamer.com.tw
 # > Apple
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN,appleid.cdn-apple.com
 
 # > Save China Mobile
 DOMAIN-SUFFIX,microsoft.com
