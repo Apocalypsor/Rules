@@ -72110,4 +72110,5 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
+://*.qdxingtu.com/*
 http://47.105.149.100/*
