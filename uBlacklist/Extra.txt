@@ -266,3 +266,4 @@
 *://*.imooc.com/*
 *://*.yisu.com/zixun/*
 *://*.qastack.cn/*
+://*.qdxingtu.com/*
