@@ -72110,5 +72110,8 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
+://*.codeprj.com/*
+://*.huaweicloud.com/articles/*
+://*.linux.it.net.cn/*
 ://*.qdxingtu.com/*
 http://47.105.149.100/*
