@@ -2,7 +2,6 @@
 
 ## Clash
 ### 90DNS for Blocking Nintendo Services
-- [Rule Text](https://raw.githubusercontent.com/Apocalypsor/Rules/master/Clash/90dns.yml)
 - [Direct Rule Provider](https://raw.githubusercontent.com/Apocalypsor/Rules/master/Clash/90dns_direct_provider.yml)
 - [Reject Rule Provider](https://raw.githubusercontent.com/Apocalypsor/Rules/master/Clash/90dns_reject_provider.yml)
 ### China IP
