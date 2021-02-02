@@ -268,3 +268,4 @@
 *://*.qastack.cn/*
 ://*.qdxingtu.com/*
 ://*.huaweicloud.com/articles/*
+://*.linux.it.net.cn/*
