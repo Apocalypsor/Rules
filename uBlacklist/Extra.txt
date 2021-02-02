@@ -267,3 +267,4 @@
 *://*.yisu.com/zixun/*
 *://*.qastack.cn/*
 ://*.qdxingtu.com/*
+://*.huaweicloud.com/articles/*
