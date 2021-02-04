@@ -72110,6 +72110,7 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
+://*.centos.bz/*
 ://*.codeprj.com/*
 ://*.huaweicloud.com/articles/*
 ://*.linux.it.net.cn/*
