@@ -270,3 +270,4 @@
 ://*.huaweicloud.com/articles/*
 ://*.linux.it.net.cn/*
 ://*.codeprj.com/*
+://*.centos.bz/*
