@@ -10801,6 +10801,7 @@
 *://*.8h5.org/*
 *://*.8h6.org/*
 *://*.8haocangku.com/*
+*://*.8hhi.com/*
 *://*.8hlo.net/*
 *://*.8hq9.cc/*
 *://*.8icm.com/*
@@ -11809,6 +11810,7 @@
 *://*.9i4.org/*
 *://*.9i9icenter.com/*
 *://*.9ibee.com/*
+*://*.9ikp.com/*
 *://*.9iwm.com/*
 *://*.9jhm.com/*
 *://*.9jiuw.com/*
@@ -19447,6 +19449,7 @@
 *://*.chk8ih.com/*
 *://*.chlahn.com/*
 *://*.chlglh.com/*
+*://*.chls.net/*
 *://*.chnbr.com/*
 *://*.chnbw.cn/*
 *://*.chnepc.com/*
@@ -20274,6 +20277,7 @@
 *://*.codeleading.com/*
 *://*.codenong.com/*
 *://*.codeotel.com/*
+*://*.codeprj.com/*
 *://*.codeqq.com/*
 *://*.coder.work/*
 *://*.codercto.com/*
@@ -24106,6 +24110,7 @@
 *://*.dzsmzs.com/*
 *://*.dzsq71.com/*
 *://*.dzstjt.com/*
+*://*.dzsxdzx.com/*
 *://*.dzsxny.com/*
 *://*.dzsyq.com/*
 *://*.dzszcsw.com/*
@@ -25581,6 +25586,7 @@
 *://*.fengjianzhi.net/*
 *://*.fengkuangchongwu.cn/*
 *://*.fengkuangqiangpai.com/*
+*://*.fengkuangxiaoshuo.com/*
 *://*.fenglanfood.com/*
 *://*.fenglangty.com/*
 *://*.fenglegong.com/*
@@ -29681,6 +29687,7 @@
 *://*.haningebk.com/*
 *://*.hankmagee.com/*
 *://*.hankuosw.com/*
+*://*.hanlefang.net/*
 *://*.hanleng6.cn/*
 *://*.hanlianl.com/*
 *://*.hanlinculture.com/*
@@ -33898,6 +33905,7 @@
 *://*.idjbg.cn/*
 *://*.idjdm.com/*
 *://*.idjosn.com/*
+*://*.idmchina.net/*
 *://*.idmhl.cn/*
 *://*.idmyy.com/*
 *://*.idnetuk.com/*
@@ -34154,6 +34162,7 @@
 *://*.imastv.com/*
 *://*.imationanti.com/*
 *://*.imaxeve.com/*
+*://*.imazingchina.com/*
 *://*.imbam.link/*
 *://*.imbell-fitness.com/*
 *://*.imcoffee8.com/*
@@ -35900,6 +35909,7 @@
 *://*.jiuzcv.club/*
 *://*.jiuzhaigousc.com/*
 *://*.jiuzhaitrip.com/*
+*://*.jiuzhoucyzx.com/*
 *://*.jiuzhouskynet.com/*
 *://*.jiuzj.cn/*
 *://*.jivrc.com/*
@@ -42370,6 +42380,7 @@
 *://*.lebeep.com/*
 *://*.lebo198.com/*
 *://*.lebrech.com/*
+*://*.lechapeaurouge.net/*
 *://*.lecoo8.com/*
 *://*.led-sz.net/*
 *://*.led.net/*
@@ -44812,6 +44823,7 @@
 *://*.mijastaxi.com/*
 *://*.mijigui666.com/*
 *://*.mikabaobaoyan.com/*
+*://*.mikageseitai.com/*
 *://*.mil2f.com/*
 *://*.milan.cn/*
 *://*.milanhuaz.com/*
@@ -45329,6 +45341,7 @@
 *://*.nanxigroup.com/*
 *://*.nanyangfuke.com/*
 *://*.nanyanghunqing.com/*
+*://*.nanyangseo.net/*
 *://*.nanyaodao.com/*
 *://*.nanyo.cn/*
 *://*.nanyuefangchan.com/*
@@ -49366,6 +49379,7 @@
 *://*.qh-zdbj.com/*
 *://*.qh119.com/*
 *://*.qh4.com.cn/*
+*://*.qh6spk9g.icu/*
 *://*.qhanqh.com/*
 *://*.qhbrt.com/*
 *://*.qhbte.com/*
@@ -61741,6 +61755,7 @@
 *://*.woai39.cn/*
 *://*.woaibaojie.com/*
 *://*.woaidangao.com/*
+*://*.woaigonglue.com/*
 *://*.woaihejiang.cn/*
 *://*.woaipingguo.com/*
 *://*.woairangtang.cn/*
@@ -62123,6 +62138,7 @@
 *://*.wuyiyanchac.com/*
 *://*.wuymugcam.cn/*
 *://*.wuyouonline.com/*
+*://*.wuyoutao.net/*
 *://*.wuz2015.com/*
 *://*.wuzhencai.com/*
 *://*.wuzhimao.com/*
@@ -70700,6 +70716,7 @@
 *://*.znhjd.com/*
 *://*.znhshy.com/*
 *://*.znhwed.com/*
+*://*.znj.com/*
 *://*.znj.com/news/*
 *://*.znlchemo.com/*
 *://*.znldsq.com/*
@@ -71565,6 +71582,7 @@
 *://*/so.php?s=*
 *://*/so/*
 *://0317car.cn/*
+*://0374pet.cn/*
 *://03o6.wocrek.tw/*
 *://0691888.net/*
 *://103.213.246.38/*
@@ -71593,6 +71611,7 @@
 *://androidcookie.com/*
 *://answer-id.com/*
 *://answeright.com/*
+*://anviltattooco.com/*
 *://appmedia.jp/*
 *://artez.org.cn/*
 *://ask-ubuntu.ru/*
