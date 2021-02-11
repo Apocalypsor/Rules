@@ -271,3 +271,5 @@
 ://*.linux.it.net.cn/*
 ://*.codeprj.com/*
 ://*.centos.bz/*
+://*.shtlyq.com/*
+://*.huanbaoshe.com/*
