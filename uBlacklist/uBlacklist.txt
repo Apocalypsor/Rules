@@ -72131,7 +72131,9 @@
 /qastack\.(com\.)?\w+/
 ://*.centos.bz/*
 ://*.codeprj.com/*
+://*.huanbaoshe.com/*
 ://*.huaweicloud.com/articles/*
 ://*.linux.it.net.cn/*
 ://*.qdxingtu.com/*
+://*.shtlyq.com/*
 http://47.105.149.100/*
