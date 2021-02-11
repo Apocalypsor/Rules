@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN,appleid.cdn-apple.com
 
+# > Microsoft
+DOMAIN-SUFFIX,msecnd.net
+
 # > Save China Mobile
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,nvidia.com
