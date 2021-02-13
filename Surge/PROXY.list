@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN,status.org.cn
 DOMAIN,bit.ly
 DOMAIN-SUFFIX,cloudraft.cn
-DOMAIN,forum.gamer.com.tw
 
 # > Apple
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -18,7 +17,6 @@ DOMAIN-SUFFIX,msecnd.net
 
 # > Save China Mobile
 DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,loli.net
