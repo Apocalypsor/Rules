@@ -16,7 +16,7 @@ DOMAIN,idmsa.apple.com
 DOMAIN-SUFFIX,msecnd.net
 
 # > Nvidia
-DOMAIN,login.nvgs.nvidia.com
+DOMAIN-SUFFIX,nvgs.nvidia.com
 
 # > Save China Mobile
 DOMAIN-SUFFIX,plex.tv
