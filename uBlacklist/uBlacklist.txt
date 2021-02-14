@@ -15043,6 +15043,7 @@
 *://*.bedfordmvp.com/*
 *://*.bedynamiq.com/*
 *://*.beenen.cn/*
+*://*.beeopyer.com/*
 *://*.beeparttime.com/*
 *://*.beerbar.com.tw/*
 *://*.beeut.com/*
@@ -18678,6 +18679,7 @@
 *://*.cenpou.com/*
 *://*.censunw.com/*
 *://*.center.uc.my/*
+*://*.centos.bz/*
 *://*.centre-easylangues.com/*
 *://*.centriumbj.net/*
 *://*.cenxizx.com/*
@@ -32864,6 +32866,7 @@
 *://*.huan8.cc/*
 *://*.huananxx.com/*
 *://*.huanbao.ren/*
+*://*.huanbaoshe.com/*
 *://*.huanbo186.com/*
 *://*.huanchangc.cn/*
 *://*.huang33.com/*
@@ -32960,6 +32963,7 @@
 *://*.huatingholidayinn.com/*
 *://*.huatuoco.com/*
 *://*.huavs.com/*
+*://*.huaweicloud.com/articles/*
 *://*.huaweicloud.com/theme/*
 *://*.huaweicloud.com/topic/*
 *://*.huaweikeji.com/*
@@ -42975,6 +42979,7 @@
 *://*.lintaodianzi.com/*
 *://*.lintat.com/*
 *://*.linux-rpm.com/*
+*://*.linux.it.net.cn/*
 *://*.linux176.com/*
 *://*.linuxask.cn/*
 *://*.linuxeye.com/*
@@ -49261,6 +49266,7 @@
 *://*.qdwttz.com/*
 *://*.qdwxnet.com/*
 *://*.qdwysp.com/*
+*://*.qdxingtu.com/*
 *://*.qdxinlian.cn/*
 *://*.qdxintai2012.com/*
 *://*.qdxkdxdl.com/*
@@ -53538,6 +53544,7 @@
 *://*.shtiansuo.com/*
 *://*.shtjcs.com/*
 *://*.shtjyy8.cn/*
+*://*.shtlyq.com/*
 *://*.shtongyihui.com/*
 *://*.shtoya.cn/*
 *://*.shtrducn.net/*
@@ -60339,6 +60346,7 @@
 *://*.vucchcme.net/*
 *://*.vudxy.cn/*
 *://*.vuj.asia/*
+*://*.vultrzww.com/*
 *://*.vuojiuy808.com/*
 *://*.vuoqhwi.com/*
 *://*.vup479.loan/*
@@ -72129,11 +72137,4 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
-://*.centos.bz/*
-://*.codeprj.com/*
-://*.huanbaoshe.com/*
-://*.huaweicloud.com/articles/*
-://*.linux.it.net.cn/*
-://*.qdxingtu.com/*
-://*.shtlyq.com/*
 http://47.105.149.100/*
