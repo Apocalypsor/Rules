@@ -32425,6 +32425,7 @@
 *://*.hostinge.cn/*
 *://*.hostingfool.com/*
 *://*.hostloc.top/*
+*://*.hostphb.com/*
 *://*.hotbak.net/*
 *://*.hotbarebaking.com/*
 *://*.hotbgm.com/*
@@ -43550,6 +43551,7 @@
 *://*.lposdugy.net/*
 *://*.lpoxzvcn.net/*
 *://*.lpptnc.net/*
+*://*.lppxin.com/*
 *://*.lpqgh.com/*
 *://*.lpqhg.com/*
 *://*.lpqhp.com/*
