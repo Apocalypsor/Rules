@@ -275,3 +275,4 @@
 *://*.huanbaoshe.com/*
 *://*.beeopyer.com/*
 *://*.vultrzww.com/*
+*://*.lppxin.com/
