@@ -275,4 +275,5 @@
 *://*.huanbaoshe.com/*
 *://*.beeopyer.com/*
 *://*.vultrzww.com/*
-*://*.lppxin.com/
+*://*.lppxin.com/*
+*://*.hostphb.com/*
