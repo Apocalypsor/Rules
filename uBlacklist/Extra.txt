@@ -277,3 +277,4 @@
 *://*.vultrzww.com/*
 *://*.lppxin.com/*
 *://*.hostphb.com/*
+*://project-gutenberg.github.io/*
