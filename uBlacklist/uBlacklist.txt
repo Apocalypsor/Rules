@@ -71836,6 +71836,7 @@
 *://progaide.com/*
 *://progexact.com/*
 *://programmerz.ru/*
+*://project-gutenberg.github.io/*
 *://ptaga.com/*
 *://pytannie.com/*
 *://python5.com/*
