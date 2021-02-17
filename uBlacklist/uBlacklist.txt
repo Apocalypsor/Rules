@@ -1198,6 +1198,7 @@
 *://*.0750jiankang.com/*
 *://*.0750seo.net/*
 *://*.07521688.com/*
+*://*.0752173.com/*
 *://*.0752xww.com/*
 *://*.0752zf.com/*
 *://*.0753mznews.com/*
@@ -13030,6 +13031,7 @@
 *://*.alllele.com/*
 *://*.allocacocerp.com/*
 *://*.allpostalcode.com/*
+*://*.allside.news/*
 *://*.alltravelkits.com/*
 *://*.allureurbano.com/*
 *://*.allweblink.com/*
@@ -14845,6 +14847,7 @@
 *://*.bcbusy.com/*
 *://*.bccf.net/*
 *://*.bccmh.cn/*
+*://*.bccrwp.org/*
 *://*.bcdbz.cc/*
 *://*.bcdcvj.com/*
 *://*.bcdh.net/*
@@ -19623,6 +19626,7 @@
 *://*.cigarettesx.com/*
 *://*.cigart.net/*
 *://*.cihangirsportsclub.com/*
+*://*.cihangyuan.com/*
 *://*.cihbe.com/*
 *://*.cihnc.net/*
 *://*.cii0.org/*
@@ -24336,6 +24340,7 @@
 *://*.ecs-sd.com/*
 *://*.ecservice.cn/*
 *://*.ecsmedia.com.np/*
+*://*.ecvss.org/*
 *://*.ecvvby.com/*
 *://*.ecxmc.cn/*
 *://*.eczacininsesi.com/*
@@ -24726,6 +24731,7 @@
 *://*.ent0570.com/*
 *://*.entershop.com.cn/*
 *://*.entertainhk.com/*
+*://*.entertainment14.net/*
 *://*.enterwang.com/*
 *://*.entrenadorpersonalelche.es/*
 *://*.entrydrivealaert.com/*
@@ -27805,6 +27811,7 @@
 *://*.ginkgogroup.org/*
 *://*.ginnyclee.com/*
 *://*.ginnymule.com/*
+*://*.gionee.com/*
 *://*.gionien.com/*
 *://*.giosliwa.com/*
 *://*.giparts.com/*
@@ -32885,6 +32892,7 @@
 *://*.huangguanld.loan/*
 *://*.huangguanwangzhi.com/*
 *://*.huangguazhi.com/*
+*://*.huangheidc.com/*
 *://*.huanghuayuz.com/*
 *://*.huanghuazx.com/*
 *://*.huangj11.com/*
@@ -35291,6 +35299,7 @@
 *://*.ji-qi.com/*
 *://*.ji518.com/*
 *://*.ji8ak7.org/*
+*://*.ji9.org/*
 *://*.jia-yi-jia.com/*
 *://*.jiaboqg.us/*
 *://*.jiachengtex.com/*
@@ -43702,6 +43711,7 @@
 *://*.lsmdq.com/*
 *://*.lsmengzhong.com/*
 *://*.lsmiert.net/*
+*://*.lsmoody.com/*
 *://*.lsmp3.net/*
 *://*.lsmyfmp.com/*
 *://*.lsnbmkiu.net/*
@@ -48662,6 +48672,7 @@
 *://*.programmersought.com/*
 *://*.programqa.com/*
 *://*.projectorpro.com.cn/*
+*://*.projectservers.net/*
 *://*.prolightgear.com/*
 *://*.prontecs.com/*
 *://*.prootica.com.br/*
@@ -58812,6 +58823,7 @@
 *://*.twsyc.com/*
 *://*.twvtp.date/*
 *://*.twyirong.cn/*
+*://*.twypage.com/*
 *://*.twzdj.com/*
 *://*.tx25999.com/*
 *://*.tx4.asia/*
@@ -61840,6 +61852,7 @@
 *://*.wow-taitung.com/*
 *://*.wow56.com/*
 *://*.wowocall.com/*
+*://*.wowoka.com/*
 *://*.wowoqq.com/*
 *://*.wowsaicx.cn/*
 *://*.woxueseo.com/*
@@ -65774,6 +65787,7 @@
 *://*.yeslly.com/*
 *://*.yesnews.hk/*
 *://*.yesswatch.com/*
+*://*.yesterdaysapples.com/*
 *://*.yetai021.com/*
 *://*.yetuhd.com/*
 *://*.yetzas.net/*
@@ -71872,7 +71886,6 @@
 *://shenzhenxw.net/*
 *://shranxiang.com/*
 *://shufadashi.com/*
-*://sige.gionee.com/*
 *://soinside.com/*
 *://sozdizimi.com/*
 *://sprosi.pro/*
@@ -71901,7 +71914,6 @@
 *://tuijianqingdan.com/*
 *://tushuo.jk51.com/*
 *://twww.wahmbeckerheide.de/*
-*://twypage.com/*
 *://ubuntugeeks.com/*
 *://ubuntuqa.com/*
 *://unhn.le-marquisat.fr/*
@@ -72128,7 +72140,6 @@
 *://z3otwulx.zpyzya.tw/*
 *://zapytay.com/*
 *://zeepline.pw/*
-*://zh.bccrwp.org/*
 *://zhidao.baidu.com/index/?word=*
 *://zhidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
