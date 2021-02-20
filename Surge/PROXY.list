@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN,appleid.cdn-apple.com
 DOMAIN,idmsa.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,updates-http.cdn-apple.com
 
 # > Microsoft
 DOMAIN-SUFFIX,msecnd.net
