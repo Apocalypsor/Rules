@@ -16720,6 +16720,7 @@
 *://*.botuodianzi.com/*
 *://*.bouiao.cn/*
 *://*.bountysource.com/*
+*://*.bountysource.com/issues/*
 *://*.bourax.com/*
 *://*.bousteadedu.com/*
 *://*.boventech.com/*
@@ -20277,6 +20278,7 @@
 *://*.codecocoa.com/*
 *://*.codeday.me
 *://*.codeday.me/*
+*://*.codedefault.com/*
 *://*.codedump.io/*
 *://*.codeexplain.com/*
 *://*.codeflash.net/*
@@ -45706,6 +45708,7 @@
 *://*.newestw.com/*
 *://*.newhotdeal.com/*
 *://*.newjilin.net/*
+*://*.newlifeclan.com/*
 *://*.newlifegroup.com.cn/*
 *://*.newman.mobi/*
 *://*.newmian.net/*
@@ -54918,6 +54921,7 @@
 *://*.stackanswers.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
+*://*.stackoverfill.com/*
 *://*.stackoverflow.dluat.com/*
 *://*.stackoverflowtr.com/*
 *://*.stackovernet.com/*
