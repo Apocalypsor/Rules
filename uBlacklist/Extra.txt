@@ -278,3 +278,5 @@
 *://*.lppxin.com/*
 *://*.hostphb.com/*
 *://project-gutenberg.github.io/*
+*://*.hotbak.net/*
+*://*.huaweicloud.com/articles/*
