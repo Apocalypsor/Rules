@@ -279,3 +279,4 @@
 *://*.hostphb.com/*
 *://project-gutenberg.github.io/*
 *://*.hotbak.net/*
+*://*.wanmeila.com/*
