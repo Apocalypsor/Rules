@@ -60727,6 +60727,7 @@
 *://*.wanlidajiju.com/*
 *://*.wanlique.com/*
 *://*.wanmagroup.com/*
+*://*.wanmeila.com/*
 *://*.wanmeiwanmei.com/*
 *://*.wanmeiyule2.com/*
 *://*.wanmuwh.com/*
