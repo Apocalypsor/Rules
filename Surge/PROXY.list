@@ -16,6 +16,7 @@ DOMAIN,updates-http.cdn-apple.com
 
 # > Microsoft
 DOMAIN-SUFFIX,msecnd.net
+DOMAIN,graph.microsoft.com
 
 # > Save China Mobile
 DOMAIN-SUFFIX,plex.tv
