@@ -70055,6 +70055,7 @@
 *://*.zhimakaim.com/*
 *://*.zhimengzhe.com/*
 *://*.zhinengpur.com/*
+*://*.zhipanyou.*/*
 *://*.zhipanyou.com/*
 *://*.zhipic.com/*
 *://*.zhipushop.com/*
@@ -71664,6 +71665,8 @@
 *://answer-id.com/*
 *://answeright.com/*
 *://anviltattooco.com/*
+*://ap.instructure.com/*
+*://app.livestorm.co/*
 *://appmedia.jp/*
 *://artez.org.cn/*
 *://ask-ubuntu.ru/*
@@ -71692,6 +71695,8 @@
 *://bugsdb.com/*
 *://bvwc.lumea-verlag.de/*
 *://bypw.uk.com/*
+*://cabancos.com/*
+*://canvas.spu.edu/*
 *://casino-pin-up-official.win/
 *://cctsuzhou.cn/*
 *://ceji.ayotechnology.de/*
@@ -71740,6 +71745,7 @@
 *://eozy.vip-erfolgscoach.de/*
 *://exceptionshub.com/*
 *://extension.info/*
+*://faculdadearidesa.instructure.com/*
 *://ffff65535.com/*
 *://file-extension.info/*
 *://file-extension.org/*
@@ -71759,6 +71765,7 @@
 *://gjgp.mikeprange.de/*
 *://gopaysoft.com/*
 *://greyhoundbastards.com/*
+*://gumroad.com/*
 *://gundvd.com/*
 *://gvkv.apollostar-safari.de/*
 *://gyrh.dackel-vom-raeuberwaeldchen.de/*
@@ -71766,6 +71773,7 @@
 *://hejxyz.com/*
 *://heoz.galabau-mg.de/*
 *://hjzf8899.com/*
+*://hkthesoul2021.peatix.com/*
 *://hosf.flusskreuzfahrten-elbe.de/*
 *://hostsidc.com/*
 *://hoteles.bluevalencia.com/*
@@ -71844,6 +71852,7 @@
 *://matukusu-game.xyz/*
 *://mayphatmaynen.com/*
 *://mcchou.com/*
+*://medium.com/*
 *://meifa.izhufu.net/*
 *://mlog.club/*
 *://mnst.sport-dpo.de/*
@@ -71871,6 +71880,7 @@
 *://passion-meeting.site/*
 *://phpor.net/*
 *://pinasy.com/*
+*://portfolium.com/*
 *://prckjk.xyz/*
 *://priorityhospice.com/*
 *://probacc.com/*
@@ -71904,8 +71914,10 @@
 *://rohv.madame-creations.fr/*
 *://routinepanic.com/*
 *://rstopup.com/*
+*://sa.sogou.com/*
 *://sabp.natural-born-schrubber.de/*
 *://sbyjlma.cn/*
+*://scguteli.com/*
 *://scyhc.cn/*
 *://seeres.com/*
 *://segmentfault.com/*
@@ -71914,6 +71926,7 @@
 *://shenzhenxw.net/*
 *://shranxiang.com/*
 *://shufadashi.com/*
+*://sites.google.com/*
 *://soinside.com/*
 *://sozdizimi.com/*
 *://sprosi.pro/*
@@ -71934,6 +71947,10 @@
 *://techacademy.jp/*
 *://tfnnum.com/*
 *://tfud.ffw-ellzee.de/*
+*://the-soul-2021-twchinese.tumblr.com/*
+*://the-soul-jihunmoppie.tumblr.com/*
+*://the-soul-movie-online-zh.tumblr.com/*
+*://the-soul-movies-hd-2021-universe.tumblr.com/*
 *://thinbug.com/*
 *://tortortor.pw/*
 *://truelovenet.com/*
@@ -71953,10 +71970,12 @@
 *://uzgh.glasfaser-issum.de/*
 *://v-resheno.ru/*
 *://vike.io/*
+*://vk.com/*
 *://vlbq.myweddingsurprise.de/*
 *://vnqm.claudia-rohnke-fotografie.de/*
 *://vwhm.net/*
 *://vzqz.fieldball.de/*
+*://wap.zdface.com/*
 *://wawb.mode-pur-tangermuende.de/*
 *://web-answers.ru/*
 *://wedt.rollender-bauernladen.de/*
@@ -71988,12 +72007,14 @@
 *://www.6tuba.com/*
 *://www.733mh.com/*
 *://www.7down.com/*
+*://www.7kuo.com/*
 *://www.7lg.net/*
 *://www.88xiao.com/*
 *://www.8hhi.com/*
 *://www.9999ktv.com/*
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
+*://www.acm.gov.pt/*
 *://www.afxzyw.cn/*
 *://www.aggg35.com/*
 *://www.aizhange.com/*
@@ -72004,6 +72025,7 @@
 *://www.azsalon527.com/*
 *://www.baidu.com/*
 *://www.bdqxgw.com/*
+*://www.bigmarker.com/*
 *://www.bjcsjsc.com/*
 *://www.bnee.net/*
 *://www.bunian.cn/*
@@ -72012,6 +72034,7 @@
 *://www.caogenbj.com/*
 *://www.carrotchou.blog/*
 *://www.cctsuzhou.cn/*
+*://www.cglzzws.com/*
 *://www.chromeba.net/*
 *://www.cnblogs.com/*
 *://www.cnblogs.com/Marydon20170307/*
@@ -72030,9 +72053,11 @@
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
+*://www.duobiji.com/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
 *://www.eternalcq.com/*
+*://www.fablabs.io/*
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
 *://www.fenzhanwang.com/*
@@ -72067,6 +72092,7 @@
 *://www.jd.com/*
 *://www.jeepxie.net/*
 *://www.jishuwen.com/*
+*://www.jtche.com/*
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
@@ -72097,6 +72123,7 @@
 *://www.right.com.cn/*
 *://www.sdbeta.com/*
 *://www.sdifen.com/*
+*://www.sdyongqiang.net/*
 *://www.sejuku.net/*
 *://www.shejiedu.com/*
 *://www.shsgy.com/*
@@ -72107,6 +72134,7 @@
 *://www.ssf.cc/*
 *://www.ssfiction.com/*
 *://www.taobao.com/*
+*://www.teapm.com/*
 *://www.techhubonline.com/*
 *://www.thinbug.com/*
 *://www.tongfengqu.com/*
@@ -72130,6 +72158,7 @@
 *://www.word666.com/*
 *://www.wtnc.uk.com/*
 *://www.www-4749000.com/*
+*://www.xahaihongbz.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xiazaiba.com/*
@@ -72139,6 +72168,7 @@
 *://www.yisu.com/*
 *://www.ymw.cn/*
 *://www.yuanmas.com/*
+*://www.yuhuxx.com/*
 *://www.yunmeibeijing.com/*
 *://www.yyyyv.cn/*
 *://www.zdexe.com/*
@@ -72168,6 +72198,7 @@
 *://z3otwulx.zpyzya.tw/*
 *://zapytay.com/*
 *://zeepline.pw/*
+*://zenodo.org/*
 *://zhidao.baidu.com/index/?word=*
 *://zhidao.baidu.com/search?*
 *://zkjh.fieldball.de/*
