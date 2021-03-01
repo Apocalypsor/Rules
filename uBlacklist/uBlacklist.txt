@@ -26377,7 +26377,6 @@
 *://*.freeseomarketer.net/*
 *://*.freesion.com/*
 *://*.freestone-group.net/*
-*://*.freetribe.me/*
 *://*.freevoipnews.com/*
 *://*.freeweibo.com/*
 *://*.freezease.com/*
@@ -71754,6 +71753,7 @@
 *://files.biz/*
 *://fmex.women-selfdefense-regensburg.de/*
 *://fooobar.com/*
+*://freetribe.me/*
 *://fuanclinc.com/*
 *://fydqw.com/*
 *://game.manga-joho.com/*
