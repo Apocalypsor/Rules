@@ -281,3 +281,4 @@
 *://*.hotbak.net/*
 *://*.wanmeila.com/*
 *://*.fwqzdm.com/*
+*://*.shxy888.com/*
