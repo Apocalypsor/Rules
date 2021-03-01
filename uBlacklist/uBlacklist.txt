@@ -26128,6 +26128,7 @@
 *://*.flyplume.net/*
 *://*.flyurl.net/*
 *://*.flyy123.com/*
+*://*.flyzyblog.com/*
 *://*.flz.cn/*
 *://*.flzhk.com/*
 *://*.fm-zg.com/*
