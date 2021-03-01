@@ -258,7 +258,7 @@
 *://*.ddeevv.com/*
 *://*.hanspub.org/*
 *://*.yqzxdq.com/*
-*://*.freetribe.me/*
+*://freetribe.me/*
 *://*.ijvwk.com/*
 *://cn.aliyun.com/ss/*
 *://*.xinnet.com/xinnews/*
