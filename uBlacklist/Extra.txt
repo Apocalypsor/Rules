@@ -283,3 +283,4 @@
 *://*.fwqzdm.com/*
 *://*.shxy888.com/*
 *://flyzyblog.com/*
+*://*.bitedie.com/*
