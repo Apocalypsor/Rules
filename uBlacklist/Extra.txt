@@ -282,4 +282,4 @@
 *://*.wanmeila.com/*
 *://*.fwqzdm.com/*
 *://*.shxy888.com/*
-*://*.flyzyblog.com/*
+*://flyzyblog.com/*
