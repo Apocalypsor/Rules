@@ -26128,7 +26128,6 @@
 *://*.flyplume.net/*
 *://*.flyurl.net/*
 *://*.flyy123.com/*
-*://*.flyzyblog.com/*
 *://*.flz.cn/*
 *://*.flzhk.com/*
 *://*.fm-zg.com/*
@@ -71751,6 +71750,7 @@
 *://file-extension.org/*
 *://filemagic.com/*
 *://files.biz/*
+*://flyzyblog.com/*
 *://fmex.women-selfdefense-regensburg.de/*
 *://fooobar.com/*
 *://freetribe.me/*
@@ -71849,6 +71849,7 @@
 *://m.yisu.com/*
 *://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
+*://machbbs.com/*
 *://maisui1.com/*
 *://matukusu-game.xyz/*
 *://mayphatmaynen.com/*
