@@ -45000,6 +45000,7 @@
 *://*.moege.cn/*
 *://*.moese.top/*
 *://*.moeyp.top/*
+*://*.mofish.work/*
 *://*.mogm.com/*
 *://*.mogu69.com/*
 *://*.mohawgs.com/*
