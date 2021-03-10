@@ -72235,4 +72235,5 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
+h*://*.wai1.cn/*
 http://47.105.149.100/*
