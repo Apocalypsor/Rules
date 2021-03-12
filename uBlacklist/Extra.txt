@@ -286,4 +286,5 @@
 *://*.bitedie.com/*
 *://*.hostphb.com/*
 *://*.mofish.work/*
-h*://*.wai1.cn/*
+*://*.wai1.cn/*
+*://*.hzbgp.com/*
