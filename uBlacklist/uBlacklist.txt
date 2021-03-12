@@ -22172,6 +22172,7 @@
 *://*.ddove.org/*
 *://*.ddoxx.com/*
 *://*.ddpbw.cn/*
+*://*.ddpei.com/*
 *://*.ddroute.com/*
 *://*.ddsb.cn/*
 *://*.ddshengda.com/*
@@ -33537,6 +33538,7 @@
 *://*.hzanlian68.com/*
 *://*.hzbb2b.net/*
 *://*.hzbcvk.com/*
+*://*.hzbgp.com/*
 *://*.hzbnjg.com/*
 *://*.hzbsdq.com/*
 *://*.hzbsw.com/*
@@ -60601,6 +60603,7 @@
 *://*.wahfay.com/*
 *://*.wai-mao.org/*
 *://*.wai-wa.com/*
+*://*.wai1.cn/*
 *://*.waibolaomu0.com/*
 *://*.waidrjk100.com/*
 *://*.waigf.com/*
@@ -72235,5 +72238,4 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
-h*://*.wai1.cn/*
 http://47.105.149.100/*
