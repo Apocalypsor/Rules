@@ -288,3 +288,4 @@
 *://*.mofish.work/*
 *://*.wai1.cn/*
 *://*.hzbgp.com/*
+*://*.ddpei.com/*
