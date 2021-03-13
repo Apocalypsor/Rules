@@ -289,3 +289,4 @@
 *://*.wai1.cn/*
 *://*.hzbgp.com/*
 *://*.ddpei.com/*
+*://helloworldkb.com/*
