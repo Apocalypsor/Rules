@@ -72111,6 +72111,7 @@
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
+*://www.huaweicloud.com/articles/topic_*
 *://www.huaweicloud.com/theme/*
 *://www.hyhome.com.cn/*
 *://www.ispsd2015.com/*
