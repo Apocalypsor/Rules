@@ -6409,6 +6409,7 @@
 *://*.51baozhi.com/*
 *://*.51barbie.cn/*
 *://*.51bbi.com/*
+*://*.51bbo.com/*
 *://*.51bbqs.com/*
 *://*.51beneter.com/*
 *://*.51buycrab.com/*
@@ -14615,6 +14616,7 @@
 *://*.baohang8.com/*
 *://*.baohua-printing.com/*
 *://*.baohuadq.com/*
+*://*.baojiabao.com/*
 *://*.baojian53.com/*
 *://*.baojiangowu360.net/*
 *://*.baojie0411.com/*
@@ -17491,6 +17493,7 @@
 *://*.bxjtds.com/*
 *://*.bxjzlw.com/*
 *://*.bxjzz.net/*
+*://*.bxlac.com/*
 *://*.bxlis.cn/*
 *://*.bxmjjnbp.net/*
 *://*.bxob7.pw/*
@@ -17598,6 +17601,7 @@
 *://*.bynhr.com/*
 *://*.bynht.com/*
 *://*.bynrzfcg.cn/*
+*://*.bynss.com/*
 *://*.bypidenver.com/*
 *://*.byqj.net/*
 *://*.byqpxz.net/*
@@ -25200,6 +25204,7 @@
 *://*.f214444a.com/*
 *://*.f227.net/*
 *://*.f2fok.com/*
+*://*.f2qu.com/*
 *://*.f3230.com/*
 *://*.f38a.cn/*
 *://*.f3acne.com/*
@@ -39290,6 +39295,7 @@
 *://*.jocuribune.com/*
 *://*.jodarymoreno.com/*
 *://*.joecanalshightstown.com/*
+*://*.joecomp.com/*
 *://*.joeloe.com/*
 *://*.joescitylock.com/*
 *://*.joesvictoria.com/*
@@ -43411,6 +43417,7 @@
 *://*.loler666.com/*
 *://*.lolpills.com/*
 *://*.lolsoso.com/*
+*://*.loltftpro.com/*
 *://*.loltrading.icu/*
 *://*.lolymusica.net/*
 *://*.lolzun.icu/*
@@ -45976,6 +45983,7 @@
 *://*.ninsa.cn/*
 *://*.nintaus.net/*
 *://*.nios.ru/*
+*://*.niostack.com/*
 *://*.niponia.com/*
 *://*.niqzggre.cn/*
 *://*.nirierer.com/*
@@ -61653,6 +61661,7 @@
 *://*.wlcbxxg.com/*
 *://*.wld99.com/*
 *://*.wldbs.com/*
+*://*.wldci.com/*
 *://*.wldmy.com/*
 *://*.wldqy.net/*
 *://*.wldxb.com/*
@@ -61846,6 +61855,7 @@
 *://*.won-soft.cn/*
 *://*.won-win.com/*
 *://*.wonderful-edu.com/*
+*://*.woniuidc.com/*
 *://*.wonlo.com/*
 *://*.wonsee.com/*
 *://*.wonzer.cn/*
@@ -63002,6 +63012,7 @@
 *://*.x6d.org/*
 *://*.x738888.com/*
 *://*.x74v.com/*
+*://*.x77ba.com/*
 *://*.x7ugc.mom/*
 *://*.x7ychr.men/*
 *://*.x80v.com/*
@@ -70750,6 +70761,7 @@
 *://*.zmnugdw.net/*
 *://*.zmojen.info/*
 *://*.zmredit.cn/*
+*://*.zmtests.com/*
 *://*.zmwfgg.com/*
 *://*.zmwhh.com/*
 *://*.zmxiaodaos.com/*
