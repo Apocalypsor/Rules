@@ -13465,6 +13465,7 @@
 *://*.ansuan.ml/*
 *://*.answer-id.com/*
 *://*.answerhub.com/*
+*://*.answiz.com/*
 *://*.antacuolin.com/*
 *://*.antaimed.com/*
 *://*.antarcticshop.com/*
