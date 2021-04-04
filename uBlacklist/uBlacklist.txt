@@ -48753,6 +48753,7 @@
 *://*.program-hub.cn/*
 *://*.programfan.com/*
 *://*.programgo.com/*
+*://*.programmer.help//*
 *://*.programmersought.com/*
 *://*.programqa.com/*
 *://*.projectorpro.com.cn/*
