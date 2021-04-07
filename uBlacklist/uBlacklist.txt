@@ -60390,6 +60390,7 @@
 *://*.vpsmediacenter.com/*
 *://*.vpsmm.com/*
 *://*.vpsoto.net/*
+*://*.vpsurl.com/*
 *://*.vpzyn.com/*
 *://*.vqdlr.com/*
 *://*.vqdod.top/*
