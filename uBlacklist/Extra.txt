@@ -291,3 +291,4 @@
 *://*.ddpei.com/*
 *://helloworldkb.com/*
 *://*.huaweicloud.com/term/*
+*://*.vpsurl.com/*
