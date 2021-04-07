@@ -33024,6 +33024,7 @@
 *://*.huatuoco.com/*
 *://*.huavs.com/*
 *://*.huaweicloud.com/articles/*
+*://*.huaweicloud.com/term/*
 *://*.huaweicloud.com/theme/*
 *://*.huaweicloud.com/topic/*
 *://*.huaweikeji.com/*
