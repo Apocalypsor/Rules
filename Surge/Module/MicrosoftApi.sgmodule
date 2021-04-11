@@ -1,0 +1,8 @@
+#!name=Microsoft Api Date Hack
+#!desc=Extend MS api expiration date till 2999. 
+
+[Script]
+MicrosoftApi = type=http-request,pattern=^https:\/\/graph\.microsoft\.com\/v1\.0\/myorganization\/applications\/[\w-]+\/addPassword,requires-body=1,max-size=-1,script-path=https://cdn.jsdelivr.net/gh/Apocalypsor/Rules@master/Surge/Script/microsoftapi.js
+
+[MITM]
+hostname = %INSERT% graph.microsoft.com
