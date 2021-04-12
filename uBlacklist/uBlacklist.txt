@@ -53215,6 +53215,7 @@
 *://*.shaunbugden.com/*
 *://*.shauntain.com/*
 *://*.shawnfurnishings.com/*
+*://*.shawnmackay.me/*
 *://*.shayuon.com/*
 *://*.shbbs.cc/*
 *://*.shbcgs8.com/*
