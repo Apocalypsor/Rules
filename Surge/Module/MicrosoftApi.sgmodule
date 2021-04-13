@@ -2,7 +2,7 @@
 #!desc=Extend MS api expiration date till 2999. 
 
 [Script]
-MicrosoftApiBusi = type=http-request,pattern=^https:\/\/graph\.microsoft\.com\/v1\.0\/myorganization\/applications\/[\w-]+\/addPassword,requires-body=1,max-size=-1,script-path=https://cdn.jsdelivr.net/gh/Apocalypsor/Rules@master/Surge/Script/microsoftapi.js
+MicrosoftApiBusi = type=http-request,pattern=^https:\/\/graph\.microsoft\.com\/v1\.0\/myorganization\/applications\/[\w-]+\/addPassword,requires-body=1,max-size=-1,script-path=https://cdn.jsdelivr.net/gh/Apocalypsor/Rules@master/Surge/Script/microsoftapibusi.js
 MicrosoftApi = type=http-request,pattern=^https:\/\/main\.iam\.ad\.ext\.azure\.com\/api\/AADGraph,requires-body=1,max-size=-1,script-path=https://cdn.jsdelivr.net/gh/Apocalypsor/Rules@master/Surge/Script/microsoftapi.js
 
 [MITM]
