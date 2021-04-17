@@ -293,3 +293,4 @@
 *://*.huaweicloud.com/term/*
 *://*.vpsurl.com/*
 *://91ai.net/*
+*://*.4pee.com/*
