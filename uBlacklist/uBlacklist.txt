@@ -34609,6 +34609,7 @@
 *://*.it-swarm.dev/*
 *://*.it-swarm.net/*
 *://*.it.findeen.com/*
+*://*.it/*
 *://*.it0.org.cn/*
 *://*.it1352.com/*
 *://*.it165.net/*
