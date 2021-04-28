@@ -72146,6 +72146,7 @@
 *://mcchou.com/*
 *://medium.com/*
 *://meifa.izhufu.net/*
+*://mjjcpu.com/*
 *://mlog.club/*
 *://mnst.sport-dpo.de/*
 *://mos86.com/*
