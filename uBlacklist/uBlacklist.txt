@@ -2289,6 +2289,7 @@
 *://*.138sunsun.com/*
 *://*.138txt.com/*
 *://*.138vd.com/*
+*://*.138vps.com/*
 *://*.139.199.66.170/*
 *://*.13902788888.com/*
 *://*.1390759.com/*
@@ -13043,6 +13044,7 @@
 *://*.alitudou.com/*
 *://*.aliuso.com/*
 *://*.aliyun.com/sswd/*
+*://*.aliyunjc.net/*
 *://*.aliziarealestate.com/*
 *://*.aljawadlb.com/*
 *://*.alk-kart.com.cn/*
@@ -27309,6 +27311,7 @@
 *://*.gaoyajj.com/*
 *://*.gaoyamo.net/*
 *://*.gaoyaoshijia.com/*
+*://*.gaoyongboke.com/*
 *://*.gaoyongxue.cn/*
 *://*.gaoyongxue.com.cn/*
 *://*.gaoyongxuef.cn/*
@@ -72269,6 +72272,7 @@
 *://vk.com/*
 *://vlbq.myweddingsurprise.de/*
 *://vnqm.claudia-rohnke-fotografie.de/*
+*://vultrcn2.com/*
 *://vwhm.net/*
 *://vzqz.fieldball.de/*
 *://wap.zdface.com/*
