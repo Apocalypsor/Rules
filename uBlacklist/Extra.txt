@@ -296,3 +296,7 @@
 *://*.4pee.com/*
 *://*.it/*
 *://mjjcpu.com/*
+*://*.gaoyongboke.com/*
+*://*.aliyunjc.net/*
+*://vultrcn2.com/*
+*://*.138vps.com/*
