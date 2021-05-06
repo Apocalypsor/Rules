@@ -63075,6 +63075,7 @@
 *://*.wxxsbh.com/*
 *://*.wxxthjc.cn/*
 *://*.wxyaxinhai.com/*
+*://*.wxycgg.com/*
 *://*.wxyewu.com/*
 *://*.wxyouzi.com/*
 *://*.wxytjc.net/*
