@@ -300,3 +300,4 @@
 *://*.aliyunjc.net/*
 *://vultrcn2.com/*
 *://*.138vps.com/*
+*://*.wxycgg.com/*
