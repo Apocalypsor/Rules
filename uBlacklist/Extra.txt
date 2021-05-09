@@ -301,3 +301,4 @@
 *://vultrcn2.com/*
 *://*.138vps.com/*
 *://*.wxycgg.com/*
+*://*.naotan020.com/*
