@@ -72087,6 +72087,7 @@
 *://itouchx.com/*
 *://itranslater.com/*
 *://iwhqa.lostbooks.net/*
+*://j.17qq.com/*
 *://ja.coder.work/*
 *://jdzl.v3ng.de/*
 *://jisuc.com/*
@@ -72305,6 +72306,7 @@
 *://www.3li.cc/*
 *://www.3rxing.org/*
 *://www.51dongshi.com/*
+*://www.51huandian.com/*
 *://www.58pjy.com/*
 *://www.5down.net/*
 *://www.600911.cn/*
@@ -72342,6 +72344,7 @@
 *://www.carrotchou.blog/*
 *://www.cctsuzhou.cn/*
 *://www.cglzzws.com/*
+*://www.chac.org.cn/*
 *://www.chromeba.net/*
 *://www.chusan.com/*
 *://www.cnblogs.com/*
@@ -72418,12 +72421,15 @@
 *://www.lzbxgmjj.com/*
 *://www.maishuini.com/*
 *://www.manew.com/*
+*://www.mdeditor.tw/*
 *://www.mei521.com/*
+*://www.mi6fx.com/*
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
 *://www.newasp.net/*
+*://www.newcarinfosd.com/*
 *://www.nj118114.cn/*
 *://www.ok168198.com/*
 *://www.oneho.cn/*
@@ -72436,6 +72442,7 @@
 *://www.qu02.com/*
 *://www.right.com.cn/*
 *://www.sanye.cx/*
+*://www.sb2232.com/*
 *://www.sdbeta.com/*
 *://www.sdifen.com/*
 *://www.sdyongqiang.net/*
@@ -72461,6 +72468,7 @@
 *://www.tty-1.net/*
 *://www.ucloud.cn/yun/*
 *://www.uoften.com/*
+*://www.urpimp.com/*
 *://www.uucan.cn/*
 *://www.vickarsgroup.com/*
 *://www.voidcc.com/*
@@ -72482,6 +72490,7 @@
 *://www.xiazaiba.com/*
 *://www.xinhexinli.com/*
 *://www.xyj321.com/*
+*://www.yfwqnjh.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
 *://www.ymw.cn/*
