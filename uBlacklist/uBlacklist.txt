@@ -33268,6 +33268,7 @@
 *://*.huizhansh.com/*
 *://*.huizhongjingmi.com/*
 *://*.huizhouyly.com/*
+*://*.hujiang.com/*
 *://*.hujinqingv.cn/*
 *://*.hulanhm.com/*
 *://*.hulanwangqz.com/*
