@@ -303,3 +303,4 @@
 *://*.wxycgg.com/*
 *://*.naotan020.com/*
 *://shengqian001.com/*
+*://*.hujiang.com/*
