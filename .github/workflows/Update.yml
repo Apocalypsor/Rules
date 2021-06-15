@@ -101,5 +101,5 @@ jobs:
     - name: Push
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Update uBlacklist
+        commit_message: Update Zhihu Script
         skip_dirty_check: false
