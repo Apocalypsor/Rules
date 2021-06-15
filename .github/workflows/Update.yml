@@ -86,7 +86,7 @@ jobs:
         skip_dirty_check: false
 
   zhihu:
-    name: uBlacklist
+    name: Zhihu
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
