@@ -84,3 +84,22 @@ jobs:
       with:
         commit_message: Update uBlacklist
         skip_dirty_check: false
+
+  zhihu:
+    name: uBlacklist
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.REPO_TOKEN }}
+    - name: Update
+      run: |
+        curl https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.js > ./Surge/Script/zhihu.js
+        sed -i "s/\/\/ element\[/element\[/g" ./Surge/Script/zhihu.js
+        sed -i "s/\/\/ IsYanXuan/IsYanXuan/g" ./Surge/Script/zhihu.js
+    - name: Push
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update uBlacklist
+        skip_dirty_check: false
