@@ -7,7 +7,7 @@ on:
     branches: 
       - master
     paths:
-      - '.github/workflows/V2Ray-Rules-Convert.yml'
+      - '.github/workflows/V2Ray-Rules-Convert.yaml'
   schedule:
     - cron: "0 0 * * *"
 
