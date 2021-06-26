@@ -46,7 +46,7 @@ jobs:
       - name: Update
         run: |
           curl -sS https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt > /tmp/china_ipv4.txt
-          curl -sS https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt > /tmp/china_ipv6.txt
+          curl -sSL https://bgp.space/china6.html | grep "^[0-9a-z:\/]*<br>" | sed "s/<br>//g" > /tmp/china_ipv6.txt
           echo "" > /tmp/blank && cat /tmp/china_ipv4.txt /tmp/blank /tmp/china_ipv6.txt > /tmp/china_ip.txt
           sed -e "s/^/  - '/g" -e "s/$/'/g" -e "1i\payload:" /tmp/china_ipv4.txt > ./Clash/china_ipv4.yml
           sed -e "s/^/  - '/g" -e "s/$/'/g" -e "1i\payload:" /tmp/china_ipv6.txt > ./Clash/china_ipv6.yml
