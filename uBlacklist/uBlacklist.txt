@@ -72360,6 +72360,7 @@
 *://www.aggg35.com/*
 *://www.aizhange.com/*
 *://www.ajpsp.com/*
+*://www.aliyun.com/ysc/*
 *://www.amazon.com/*
 *://www.anhuilife.com/*
 *://www.anyolife.com/*
@@ -72404,6 +72405,7 @@
 *://www.duobiji.com/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
+*://www.elecfans.com/*
 *://www.eternalcq.com/*
 *://www.fablabs.io/*
 *://www.fdzbfjc.com/*
@@ -72422,9 +72424,11 @@
 *://www.haimenzhichuang.com/*
 *://www.hanlefang.net/*
 *://www.hibbba.com/*
+*://www.hmldds.com/*
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
+*://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
 *://www.huaweicloud.com/theme/*
 *://www.hyhome.com.cn/*
@@ -72453,8 +72457,10 @@
 *://www.lingocn.com/*
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
+*://www.ma173.com/*
 *://www.maishuini.com/*
 *://www.manew.com/*
+*://www.manyanu.com/*
 *://www.mdeditor.tw/*
 *://www.mei521.com/*
 *://www.mi6fx.com/*
