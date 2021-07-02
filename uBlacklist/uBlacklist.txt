@@ -72018,6 +72018,7 @@
 *://chuansongme.com/*
 *://chubuntu.com/*
 *://ciupacabra.com/*
+*://cloud.tencent.com/*
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/information/*
 *://cn.aliyun.com/ss/*
@@ -72387,6 +72388,7 @@
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
+*://www.coder55.com/*
 *://www.colabug.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
@@ -72428,6 +72430,7 @@
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
+*://www.huaweicloud.com/*
 *://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
 *://www.huaweicloud.com/theme/*
@@ -72472,6 +72475,7 @@
 *://www.newcarinfosd.com/*
 *://www.nj118114.cn/*
 *://www.ok168198.com/*
+*://www.old-wan.com/*
 *://www.oneho.cn/*
 *://www.operatoriforex.com/*
 *://www.pai-hang-bang.com/*
