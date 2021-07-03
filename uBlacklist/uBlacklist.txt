@@ -71946,7 +71946,6 @@
 *://0374pet.cn/*
 *://03o6.wocrek.tw/*
 *://0691888.net/*
-*://103.213.246.38/*
 *://13399693013.com/*
 *://20779.bhuvoq.tw/*
 *://20779.dazfqw.tw/*
@@ -71957,14 +71956,12 @@
 *://2tfosz.4pu.com/*
 *://365airsoft.com/*
 *://3ctyri.gkhpii.tw/*
-*://3g.d1xz.net/*
 *://3hmp.com/*
 *://4563.org/*
 *://4xpod.com/*
 *://52movs.com/*
 *://55478o.edns.biz/*
 *://66.wendadaohang.com/*
-*://6so.so/*
 *://7986231.com/*
 *://7xhy.com/*
 *://91ai.net/*
@@ -71992,11 +71989,9 @@
 *://baijiahao.baidu.com/*
 *://bbs.guaruan.com/*
 *://bbs.huaweicloud.com/*
-*://bbsah.com/*
 *://bdcp39.com/*
 *://bestecode.com/*
 *://bildiredi.com/*
-*://blog.csdn.net/*
 *://blog.silucg.com/*
 *://blog.wu-boy.com/*
 *://bonprog.com/*
@@ -72018,7 +72013,6 @@
 *://chuansongme.com/*
 *://chubuntu.com/*
 *://ciupacabra.com/*
-*://cloud.tencent.com/*
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/information/*
 *://cn.aliyun.com/ss/*
@@ -72084,7 +72078,6 @@
 *://gctm.shk-cux.de/*
 *://getm4.aiyanqing.com/*
 *://gjgp.mikeprange.de/*
-*://gopaysoft.com/*
 *://greyhoundbastards.com/*
 *://gumroad.com/*
 *://gundvd.com/*
@@ -72118,7 +72111,6 @@
 *://it-swarm.xyz/*
 *://itdaan.com/*
 *://iter01.com/*
-*://itouchx.com/*
 *://itranslater.com/*
 *://iwhqa.lostbooks.net/*
 *://j.17qq.com/*
@@ -72147,7 +72139,6 @@
 *://lojp.spiegleinportal.de/*
 *://longjin-art.com/*
 *://lpgit.com/*
-*://lvv2.com/*
 *://m.361t.org/*
 *://m.abctbh.com/*
 *://m.ccdswl.com/*
@@ -72173,7 +72164,6 @@
 *://m.systemcity.cn/*
 *://m.tj-book.com/*
 *://m.wjuze.bmwtgk.tw/*
-*://m.xitongzhijia.net/*
 *://m.yangzhiguo.com/*
 *://m.yisu.com/*
 *://m.yzlqzx.xyz/*
@@ -72182,7 +72172,6 @@
 *://maisui1.com/*
 *://matukusu-game.xyz/*
 *://mayphatmaynen.com/*
-*://mcchou.com/*
 *://medium.com/*
 *://meifa.izhufu.net/*
 *://mjjcpu.com/*
@@ -72197,7 +72186,6 @@
 *://nbri.stephan-messling.de/*
 *://ne0matrix.com/*
 *://neutrikmall.com/*
-*://news.mydrivers.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://oipapio.com/*
@@ -72240,7 +72228,6 @@
 *://quick-geek.github.io/*
 *://qzjlnm.com/*
 *://read01.com/*
-*://read678.com/*
 *://riptutorial.com/*
 *://rnazzy.question2answer.website/*
 *://rohv.madame-creations.fr/*
@@ -72343,12 +72330,10 @@
 *://www.51dongshi.com/*
 *://www.51huandian.com/*
 *://www.58pjy.com/*
-*://www.5down.net/*
 *://www.600911.cn/*
 *://www.684758.com/*
 *://www.6tuba.com/*
 *://www.733mh.com/*
-*://www.7down.com/*
 *://www.7kuo.com/*
 *://www.7lg.net/*
 *://www.88xiao.com/*
@@ -72377,22 +72362,18 @@
 *://www.buscodepto.com/*
 *://www.bzxfgj.com/*
 *://www.caogenbj.com/*
-*://www.carrotchou.blog/*
 *://www.cctsuzhou.cn/*
 *://www.cglzzws.com/*
 *://www.chac.org.cn/*
-*://www.chromeba.net/*
 *://www.chusan.com/*
 *://www.cnblogs.com/*
 *://www.cnblogs.com/Marydon20170307/*
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
-*://www.coder55.com/*
 *://www.colabug.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
-*://www.csdn.net/*
 *://www.cxhm.net/*
 *://www.cygnus.com/*
 *://www.da-quan.net/*
@@ -72430,7 +72411,6 @@
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
-*://www.huaweicloud.com/*
 *://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
 *://www.huaweicloud.com/theme/*
@@ -72440,7 +72420,6 @@
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.dev/*
 *://www.itjie.com/*
-*://www.itmop.com/*
 *://www.jamogram.com/*
 *://www.javaer101.com/*
 *://www.jb51.net/*
@@ -72453,11 +72432,9 @@
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
-*://www.kkpan.com/*
 *://www.ksyun.com/developer/article/*
 *://www.labellemoriniere.com/*
 *://www.lanzhouyangsheng.com/*
-*://www.lingocn.com/*
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
 *://www.ma173.com/*
@@ -72471,15 +72448,12 @@
 *://www.movervip.com/*
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
-*://www.newasp.net/*
 *://www.newcarinfosd.com/*
 *://www.nj118114.cn/*
 *://www.ok168198.com/*
-*://www.old-wan.com/*
 *://www.oneho.cn/*
 *://www.operatoriforex.com/*
 *://www.pai-hang-bang.com/*
-*://www.pc6.com/*
 *://www.q578.com/*
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
@@ -72487,8 +72461,6 @@
 *://www.right.com.cn/*
 *://www.sanye.cx/*
 *://www.sb2232.com/*
-*://www.sdbeta.com/*
-*://www.sdifen.com/*
 *://www.sdyongqiang.net/*
 *://www.sejuku.net/*
 *://www.shejiedu.com/*
@@ -72503,7 +72475,6 @@
 *://www.taobao.com/*
 *://www.teapm.com/*
 *://www.techhubonline.com/*
-*://www.thinbug.com/*
 *://www.tongfengqu.com/*
 *://www.tqhnet.com/*
 *://www.trstil.com/*
@@ -72522,7 +72493,6 @@
 *://www.wcwol.com/*
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
-*://www.westca.com/*
 *://www.westwindford.com/*
 *://www.whstm.com/*
 *://www.word666.com/*
@@ -72531,7 +72501,6 @@
 *://www.xahaihongbz.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
-*://www.xiazaiba.com/*
 *://www.xinhexinli.com/*
 *://www.xyj321.com/*
 *://www.yfwqnjh.com/*
@@ -72552,7 +72521,6 @@
 *://wwwc809.com/*
 *://xbuba.com/*
 *://xckd.hamsterkiste-deutsch.de/*
-*://xclient.info/*
 *://xjbol.com/*
 *://xjscyhw.com/*
 *://xjx1.com/*
