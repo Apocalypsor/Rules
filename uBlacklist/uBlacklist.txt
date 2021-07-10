@@ -33511,6 +33511,7 @@
 *://*.huaweicloud.com/term/*
 *://*.huaweicloud.com/theme/*
 *://*.huaweicloud.com/topic/*
+*://*.huaweicloud.com/zhishi/*
 *://*.huaweikeji.com/*
 *://*.huaxia-nlp.com/*
 *://*.huaxia66.com/*
@@ -73195,7 +73196,6 @@
 *://hoteles.bluevalencia.com/*
 *://hsk.oray.com/*
 *://htofe.com/*
-*://huaweicloud.com/zhishi/*
 *://husl.ru/*
 *://hyhome.com.cn/*
 *://hzhjjx.com/*
