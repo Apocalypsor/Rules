@@ -73060,6 +73060,7 @@
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/article/*
 *://cloud.tencent.com/developer/information/*
+*://cloud.tencent.com/developer/tag/*
 *://cn.17tv.tv/*
 *://cn.aliyun.com/ss/*
 *://cn.cambridgecableservice.com/*
@@ -73429,6 +73430,7 @@
 *://phpor.net/*
 *://pinasy.com/*
 *://portfolium.com/*
+*://posts.careerengine.us/*
 *://pr.akdfj.com/*
 *://prckjk.xyz/*
 *://priorityhospice.com/*
@@ -73624,6 +73626,7 @@
 *://www.17qq.com/*
 *://www.18183.com/*
 *://www.1888generator.com/*
+*://www.218407.com/*
 *://www.23cpc.com/*
 *://www.24withyoo.com/*
 *://www.2832.com.cn/*
@@ -73645,6 +73648,7 @@
 *://www.733mh.com/*
 *://www.7kuo.com/*
 *://www.7lg.net/*
+*://www.818322.com/*
 *://www.88xiao.com/*
 *://www.8hhi.com/*
 *://www.9999ktv.com/*
@@ -73655,6 +73659,7 @@
 *://www.aggg35.com/*
 *://www.aizhange.com/*
 *://www.ajpsp.com/*
+*://www.aliyun.com/sswd/*
 *://www.aliyun.com/ysc/*
 *://www.amazon.com/*
 *://www.anhuilife.com/*
@@ -73673,6 +73678,7 @@
 *://www.buscodepto.com/*
 *://www.bytev.com.cn/*
 *://www.bzxfgj.com/*
+*://www.canterburyedu.com/*
 *://www.caogenbj.com/*
 *://www.castt.ac.cn/*
 *://www.catalina.com.cn/*
@@ -73690,11 +73696,13 @@
 *://www.cqchildren.com/*
 *://www.cxhm.net/*
 *://www.cygnus.com/*
+*://www.d3it.cn/*
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
 *://www.ddhyl.cn/*
 *://www.dg-zhunda.com/*
+*://www.dglktt.com/*
 *://www.dn010.com/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
@@ -73739,6 +73747,7 @@
 *://www.itxinwen.com.cn/*
 *://www.jamogram.com/*
 *://www.javaer101.com/*
+*://www.javaheidong.com/*
 *://www.jb51.net/*
 *://www.jbzj.com/*
 *://www.jcabc.cn/*
@@ -73832,6 +73841,7 @@
 *://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
 *://www.xyj321.com/*
+*://www.yalewoo.com/*
 *://www.yfwqnjh.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
