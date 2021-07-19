@@ -5227,7 +5227,6 @@
 *://*.3d66.com/*
 *://*.3d76.com/*
 *://*.3d978.com/*
-*://*.3daima.com/*
 *://*.3db8e.info/*
 *://*.3dcat.live/*
 *://*.3ddm403.com/*
@@ -13485,9 +13484,7 @@
 *://*.andrewevdokimov.com/*
 *://*.android-tablet-comparison-world.com/*
 *://*.android100.org/*
-*://*.androidcookie.com/*
 *://*.androide.com.cn/*
-*://*.andseclab.com/*
 *://*.andun.ga/*
 *://*.andun.gq/*
 *://*.andyburk.com/*
@@ -14981,7 +14978,6 @@
 *://*.bbs.tiexue.net/*
 *://*.bbs.wemjvx.loan/*
 *://*.bbs.zemsemi.com/*
-*://*.bbsah.com/*
 *://*.bbsbbs18.cn/*
 *://*.bbsbbs24.cn/*
 *://*.bbsbbs4.cn/*
@@ -17482,7 +17478,6 @@
 *://*.buksuk.cn/*
 *://*.bulannin.com/*
 *://*.bulkforu.com/*
-*://*.bullforyou.com/*
 *://*.bullpenaz.com/*
 *://*.bulpt.com/*
 *://*.buluoct58.com/*
@@ -18120,7 +18115,6 @@
 *://*.cadjnoe.net/*
 *://*.caehy.com/*
 *://*.caelao.com/*
-*://*.caeoa.org/*
 *://*.caepi.cc/*
 *://*.cafanli.com/*
 *://*.cafashi.com/*
@@ -19300,7 +19294,6 @@
 *://*.chechexiang.com/*
 *://*.check4herpes.com/*
 *://*.chedawan.com/*
-*://*.cheerda.net/*
 *://*.cheersbydo.com/*
 *://*.chefjimmys.com/*
 *://*.cheguanjia168.com/*
@@ -19814,7 +19807,6 @@
 *://*.chuanyifaze.com/*
 *://*.chuanyizhuanshi.com/*
 *://*.chuanyuewh.com/*
-*://*.chubuntu.com/*
 *://*.chuenleetoys.com/*
 *://*.chufatuan.com/*
 *://*.chugl.com/*
@@ -20422,7 +20414,6 @@
 *://*.cnplugins.com/*
 *://*.cnpv-power.com/*
 *://*.cnpxun.com/*
-*://*.cnpython.com/*
 *://*.cnpython.com/*
 *://*.cnq63.com/*
 *://*.cnqelu.com/*
@@ -22276,7 +22267,6 @@
 *://*.datangvippt.com/*
 *://*.datapuzi.com/*
 *://*.datasos120.cn/*
-*://*.datatables.club/*
 *://*.datesumo.com/*
 *://*.datiyi.cn/*
 *://*.datongzx.com/*
@@ -23730,7 +23720,6 @@
 *://*.douytv.com/*
 *://*.douzihong.com/*
 *://*.dovone.com/*
-*://*.dovov.com/*
 *://*.dovov.com/*
 *://*.dowangzhan.com/*
 *://*.down.tech.sina.com.cn/*
@@ -27080,7 +27069,6 @@
 *://*.fulijingjixue.com/*
 *://*.fulisaomei.com/*
 *://*.fulizx.com/*
-*://*.fullstack.im/*
 *://*.fullteque.cn/*
 *://*.fulltimetyre.com/*
 *://*.fulucaijing.com/*
@@ -34417,7 +34405,6 @@
 *://*.icode9.com/*
 *://*.icon-china.com/*
 *://*.iconworkshop.cn/*
-*://*.icopy.site/*
 *://*.icpas.org.il/*
 *://*.icpatec.com/*
 *://*.icpchaxun.com/*
@@ -34994,7 +34981,6 @@
 *://*.ishanshouji.com/*
 *://*.ishanxxw.com/*
 *://*.ishengzu.com/*
-*://*.ishenping.com/*
 *://*.ishichina.com/*
 *://*.ishinv.com/*
 *://*.ishot.cc/*
@@ -35048,7 +35034,6 @@
 *://*.it-swarm.asia/*
 *://*.it-swarm.dev/*
 *://*.it-swarm.dev/*
-*://*.it-swarm.net/*
 *://*.it.findeen.com/*
 *://*.it/*
 *://*.it0.org.cn/*
@@ -42066,7 +42051,6 @@
 *://*.koto.com/*
 *://*.kotrachina.org/*
 *://*.kou-qiang.cn/*
-*://*.koubeiblog.com/*
 *://*.koucai.com.cn/*
 *://*.koudaiedu.com/*
 *://*.koudaimengwu.com/*
@@ -42732,7 +42716,6 @@
 *://*.lancevehicle.com/*
 *://*.lanchizhongxin.com/*
 *://*.land5.ru/*
-*://*.landcareweb.com/*
 *://*.landiannews.com/*
 *://*.landiboli.com/*
 *://*.landipeixun.com/*
@@ -43594,7 +43577,6 @@
 *://*.lifenb.cn/*
 *://*.lifenjoy.com.cn/*
 *://*.lifenpc.com/*
-*://*.lifesgirig.cf/*
 *://*.liftingskin.com/*
 *://*.ligaclf.com/*
 *://*.ligao168.com/*
@@ -45712,7 +45694,6 @@
 *://*.mlnpp.cn/*
 *://*.mlo5j9em.gdn/*
 *://*.mlog.club/*
-*://*.mlog.club/*
 *://*.mlog.club/article/*
 *://*.mlogc.com/*
 *://*.mlsleds.net/*
@@ -45922,7 +45903,6 @@
 *://*.mubangok.com/*
 *://*.muchunr.com/*
 *://*.muensterstrasse40.de/*
-*://*.muhai.net/*
 *://*.muhunren.com/*
 *://*.muitassaudades.com/*
 *://*.mujidai.com/*
@@ -45991,7 +45971,6 @@
 *://*.myatlasexpress.com/*
 *://*.myccc.net/*
 *://*.mycleanmymac.com/*
-*://*.mycodeweb.com/*
 *://*.mycomo.cn/*
 *://*.mydellcenter.com/*
 *://*.mydigit.cn/*
@@ -48004,7 +47983,6 @@
 *://*.ojing.top/*
 *://*.ojinz.com/*
 *://*.ojit.com/*
-*://*.ojit.com/*
 *://*.ojjtq.com/*
 *://*.ojkhy.com/*
 *://*.ojpap.com/*
@@ -48154,7 +48132,6 @@
 *://*.oojadejewelry.com/*
 *://*.ook520.com/*
 *://*.oolonghair.com/*
-*://*.oomake.com/*
 *://*.oonbc.com/*
 *://*.oonoen.com/*
 *://*.ooo7.net/*
@@ -48228,7 +48205,6 @@
 *://*.oraohd.xyz/*
 *://*.orchardeats.com/*
 *://*.orcode.com/*
-*://*.orcode.com/*
 *://*.ordaf.com/*
 *://*.ordermtgift.com/*
 *://*.ordersface.com.cn/*
@@ -48263,7 +48239,6 @@
 *://*.ose.cc/*
 *://*.ose234.com/*
 *://*.osec46.win/*
-*://*.osgeo.cn/*
 *://*.osgeo.org.cn/*
 *://*.oshai.top/*
 *://*.oshawa.cc/*
@@ -49556,7 +49531,6 @@
 *://*.profis.cc/*
 *://*.progettimedical.cn/*
 *://*.program-hub.cn/*
-*://*.program-hub.cn/*
 *://*.programfan.com/*
 *://*.programgo.com/*
 *://*.programmer.help//*
@@ -49880,7 +49854,6 @@
 *://*.pysyjtmb.com/*
 *://*.python.digitser.net/*
 *://*.python5.com/*
-*://*.python88.com/*
 *://*.pythonf.cn/*
 *://*.pythonf.cn/*
 *://*.pythonheidong.com/*
@@ -51902,7 +51875,6 @@
 *://*.riogolf.net/*
 *://*.riohumadea.com/*
 *://*.rippleap.com/*
-*://*.riptutorial.com/*
 *://*.riqxm.com/*
 *://*.rishengtz.com/*
 *://*.rishyi.info/*
@@ -55735,7 +55707,6 @@
 *://*.srbkcook.com/*
 *://*.srboya.com/*
 *://*.srbsw.cn/*
-*://*.src-bin.com/*
 *://*.srcmini.com/*
 *://*.srcoop.com.cn/*
 *://*.srctgyy.com/*
@@ -55977,7 +55948,6 @@
 *://*.steeipiastic.com/*
 *://*.steell.com/*
 *://*.steelspittin.com/*
-*://*.steemit.com/*
 *://*.steflayton.com/*
 *://*.steibelsauto.com/*
 *://*.stellavingzeinternational.com/*
@@ -57644,7 +57614,6 @@
 *://*.tasjft.com/*
 *://*.taskcity.com/*
 *://*.taslnc.com/*
-*://*.tastones.com/*
 *://*.tatanmould.com/*
 *://*.tattytoys.com/*
 *://*.taunha.com/*
@@ -58802,7 +58771,6 @@
 *://*.toojobkorea.com/*
 *://*.tool.hang365.com/*
 *://*.tool.jqhnt.com.cn/*
-*://*.tool.lu/*
 *://*.toolings.org/*
 *://*.toolsou.com/*
 *://*.toonc.com/*
@@ -61165,7 +61133,6 @@
 *://*.viltd.com/*
 *://*.vimention.org/*
 *://*.vimsky.com/*
-*://*.vimsky.com/*
 *://*.vin120.com/*
 *://*.vinaurora.com/*
 *://*.vincentfrancoelectric.com/*
@@ -61374,7 +61341,6 @@
 *://*.vohsogjr.cn/*
 *://*.voicetraining.tw/*
 *://*.voidcc.com/*
-*://*.voidcn.cn/*
 *://*.voidcn.com/*
 *://*.voidcn.com/*
 *://*.voieduweb.com/*
@@ -70963,7 +70929,6 @@
 *://*.zgsbggw.com/*
 *://*.zgscrf.icu/*
 *://*.zgscxly.com/*
-*://*.zgserver.com/*
 *://*.zgsggl.org/*
 *://*.zgshjxh.net/*
 *://*.zgshmrh.com/*
