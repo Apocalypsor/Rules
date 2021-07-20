@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
