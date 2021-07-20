@@ -1,0 +1,4 @@
+payload:
+  - '+.anaconda.com'
+  - '+.anaconda.org'
+  - '+.conda.io'

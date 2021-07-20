@@ -1,0 +1,4 @@
+payload:
+  - '+.jsdelivr.com'
+  - '+.jsdelivr.net'
+  - '+.esm.run'

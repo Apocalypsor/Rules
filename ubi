@@ -1,0 +1,6 @@
+payload:
+  - 'bisoft-uplay-savegames.s3.amazonaws.com'
+  - 'bisoft-orbit-savegames.s3.amazonaws.com'
+  - '+.ubi.com'
+  - '+.ubisoft.com'
+  - '+.uplay.com'

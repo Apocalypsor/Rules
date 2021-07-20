@@ -1,0 +1,9 @@
+payload:
+  - '+.digicert.com'
+  - '+.digitalcertvalidation.com'
+  - '+.freessl.com'
+  - '+.geotrust.com'
+  - '+.rapidssl.com'
+  - '+.thawte.com'
+  - '+.thawte.de'
+  - '+.thawte.fr'
