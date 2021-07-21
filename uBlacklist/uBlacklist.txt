@@ -23572,7 +23572,6 @@
 *://*.dofe.com.cn/*
 *://*.dog-gates-direct.com/*
 *://*.dogdogday.com/*
-*://*.dogfight360.com/*
 *://*.doggonedeals.com/*
 *://*.dognorma.com/*
 *://*.dogo-art.com/*
@@ -73881,4 +73880,3 @@
 /epochtimes\.+/
 /falundafa\.+/
 /qastack\.(com\.)?\w+/
-http://47.105.149.100/*
