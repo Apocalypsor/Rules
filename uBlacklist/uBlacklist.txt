@@ -50355,6 +50355,7 @@
 *://*.qiaixc.com/*
 *://*.qianas.com/*
 *://*.qianbn.com/*
+*://*.qianchusai.com/*
 *://*.qiancuiju.com/*
 *://*.qiandadesign.com/*
 *://*.qiandaohutrip.cn/*
