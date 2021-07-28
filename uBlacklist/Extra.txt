@@ -305,3 +305,4 @@
 *://shengqian001.com/*
 *://*.hujiang.com/*
 *://*.qianchusai.com/*
+*://flyzyblog.net/*
