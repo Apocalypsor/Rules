@@ -73111,6 +73111,7 @@
 *://files.biz/*
 *://finance.sina.com.cn/*
 *://flyzyblog.com/*
+*://flyzyblog.net/*
 *://fmex.women-selfdefense-regensburg.de/*
 *://fmt2.com/*
 *://fooobar.com/*
