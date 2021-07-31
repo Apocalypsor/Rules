@@ -72916,6 +72916,7 @@
 *://3hmp.com/*
 *://3w.86zjr.com/*
 *://4563.org/*
+*://47.94.110.84/*
 *://4xpod.com/*
 *://512.8viaggi.it/*
 *://52movs.com/*
@@ -72941,6 +72942,7 @@
 *://app.livestorm.co/*
 *://appmedia.jp/*
 *://artez.org.cn/*
+*://article.docway.net/*
 *://article.itxueyuan.com/*
 *://article.nxpop.com/*
 *://ask-ubuntu.ru/*
@@ -73038,6 +73040,7 @@
 *://cn.narentranzed.org/*
 *://cn.pinlivingcolor.com/*
 *://cn.sanchezsalvador.com/*
+*://cn.siwib.org/*
 *://cn.smnggeophysics.com/*
 *://cn.sunflowercreations.org/*
 *://cn.transcend-info.com/*
@@ -73102,6 +73105,7 @@
 *://eozy.vip-erfolgscoach.de/*
 *://evyb.bibliotheksumfrage.de/*
 *://exceptionshub.com/*
+*://express-news.me/*
 *://extension.info/*
 *://faculdadearidesa.instructure.com/*
 *://ffff65535.com/*
@@ -73306,6 +73310,7 @@
 *://m.ra9tx41c.ynidhq.tw/*
 *://m.s-on-s.com/*
 *://m.s0hfci9.tcbdtd.tw/*
+*://m.sbmmt.com/*
 *://m.sdfcxw.com/*
 *://m.shbingluo.com/*
 *://m.sohu.com/*
@@ -73425,6 +73430,7 @@
 *://qiaofu66.blog.sohu.com/*
 *://qjwb.thehour.cn/*
 *://qooqo.ru/*
+*://qqzhihu.com/*
 *://qu02.com/*
 *://quabr.com/*
 *://quick-geek.github.io/*
@@ -73439,6 +73445,7 @@
 *://rohv.madame-creations.fr/*
 *://routinepanic.com/*
 *://rstopup.com/*
+*://runxinzhi.com/*
 *://s.nongjia888.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -73459,6 +73466,7 @@
 *://shenzhenxw.net/*
 *://shouce.jb51.net/*
 *://shranxiang.com/*
+*://shuaji.xyz/*
 *://shufadashi.com/*
 *://sites.google.com/*
 *://soft.hao123.com/*
@@ -73507,6 +73515,7 @@
 *://threejs.bld.mobi/*
 *://tianpingzuo.xkyn.com/*
 *://time.geekbang.org/*
+*://titanwolf.org/*
 *://tjre.spaccioprosus.it/*
 *://toke.filctemroma2.it/*
 *://tongwang.hxfzzx.cn/*
@@ -73516,6 +73525,7 @@
 *://trp.qeeqw42.com.cn/*
 *://truelovenet.com/*
 *://truthmoviegroup.wixsite.com/*
+*://try2explore.com/*
 *://tspb.org.tw/*
 *://tufftargets.com/*
 *://tuijianqingdan.com/*
@@ -73625,6 +73635,7 @@
 *://www.aggg35.com/*
 *://www.aizhange.com/*
 *://www.ajpsp.com/*
+*://www.alexwz.com/*
 *://www.aliyun.com/sswd/*
 *://www.aliyun.com/ysc/*
 *://www.amazon.com/*
@@ -73632,6 +73643,7 @@
 *://www.anyolife.com/*
 *://www.asianjps.com/*
 *://www.azsalon527.com/*
+*://www.babyitellyou.com/*
 *://www.babylonjs.com.cn/*
 *://www.baidu.com/*
 *://www.bdqxgw.com/*
@@ -73651,9 +73663,11 @@
 *://www.cctsuzhou.cn/*
 *://www.cglzzws.com/*
 *://www.chac.org.cn/*
+*://www.chenxm.cc/*
 *://www.chusan.com/*
 *://www.cnblogs.com/*
 *://www.cnblogs.com/Marydon20170307/*
+*://www.codebili.com/*
 *://www.codenong.com/*
 *://www.codeprj.com/*
 *://www.coder.work/*
@@ -73672,12 +73686,14 @@
 *://www.dn010.com/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
+*://www.download2me.com/*
 *://www.drjordanmall.com/*
 *://www.duobiji.com/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
 *://www.elecfans.com/*
 *://www.eternalcq.com/*
+*://www.extutorial.com/*
 *://www.fablabs.io/*
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
@@ -73702,6 +73718,7 @@
 *://www.hotbak.net/*
 *://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
+*://www.huaweicloud.com/term/*
 *://www.huaweicloud.com/theme/*
 *://www.hyhome.com.cn/*
 *://www.i3pj.com/*
@@ -73725,6 +73742,7 @@
 *://www.jyhgx.com/*
 *://www.jznk99.com/*
 *://www.kafan.cn/*
+*://www.kejisen.com/*
 *://www.kocpc.com.tw/*
 *://www.ksyun.com/developer/article/*
 *://www.labellemoriniere.com/*
@@ -73742,6 +73760,7 @@
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
 *://www.mzgsmc.com/*
+*://www.nap6.com/*
 *://www.nbyoho.com/*
 *://www.newcarinfosd.com/*
 *://www.nj118114.cn/*
@@ -73750,6 +73769,7 @@
 *://www.operatoriforex.com/*
 *://www.pai-hang-bang.com/*
 *://www.pconline.com.cn/*
+*://www.pwelder.com/*
 *://www.q578.com/*
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
@@ -73771,6 +73791,7 @@
 *://www.ssf.cc/*
 *://www.ssfiction.com/*
 *://www.ssgmm.com/*
+*://www.talex-soft.com/*
 *://www.taobao.com/*
 *://www.taoguba.com.cn/*
 *://www.teapm.com/*
@@ -73795,9 +73816,11 @@
 *://www.wcwol.com/*
 *://www.wdzj.com/*
 *://www.webplus.org.cn/*
+*://www.webqdkf.com/*
 *://www.weiqunwang.com/*
 *://www.westwindford.com/*
 *://www.whstm.com/*
+*://www.wjceo.com/*
 *://www.word666.com/*
 *://www.wtnc.uk.com/*
 *://www.www-4749000.com/*
@@ -73806,6 +73829,8 @@
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
+*://www.xknote.com/*
+*://www.xunii.com/*
 *://www.xyj321.com/*
 *://www.yalewoo.com/*
 *://www.yfwqnjh.com/*
@@ -73824,6 +73849,7 @@
 *://www.zhangshengrong.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
+*://www.zhuchaoyouxi.com/*
 *://www.zui88.com/*
 *://www112200.com/*
 *://wwwc809.com/*
@@ -73840,6 +73866,7 @@
 *://xszz.org/*
 *://xts.m6781q.cn/*
 *://xuesw.net/*
+*://xunii.com/*
 *://xw.qq.com/*
 *://yangmao.info/*
 *://yff.hbs163.com/*
