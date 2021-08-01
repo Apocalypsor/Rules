@@ -306,3 +306,4 @@
 *://*.hujiang.com/*
 *://*.qianchusai.com/*
 *://flyzyblog.net/*
+*://ostack.cn/*
