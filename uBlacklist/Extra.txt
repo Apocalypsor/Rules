@@ -307,3 +307,4 @@
 *://*.qianchusai.com/*
 *://flyzyblog.net/*
 *://ostack.cn/*
+*://*.it-swarm.cn/*
