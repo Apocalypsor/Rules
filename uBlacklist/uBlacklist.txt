@@ -35049,6 +35049,7 @@
 *://*.it-notebookparts.com/*
 *://*.it-swarm.asia/*
 *://*.it-swarm.asia/*
+*://*.it-swarm.cn/*
 *://*.it-swarm.dev/*
 *://*.it-swarm.dev/*
 *://*.it.findeen.com/*
