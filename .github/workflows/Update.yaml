@@ -12,38 +12,21 @@ on:
     - cron: "0 */6 * * *"
 
 jobs:
-  dns:
-    name: 90DNS
+  update:
+    name: Update
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.REPO_TOKEN }}
-      - name: Update
+      - name: Update 90DNS
         run: |
           curl -sS https://gitlab.com/a/90dns/-/raw/master/dnsmasq/dnsmasq.conf > /tmp/dnsmasq.conf
           sed -i -e "/^interface.*/d" -e "s/address=\//DOMAIN,/g" -e "s/DOMAIN,\./DOMAIN-SUFFIX,/g" -e "s/\/127.0.0.1/,REJECT/g" -e "s/\/[0-9].*/,DIRECT/g" /tmp/dnsmasq.conf
           grep ".*DIRECT" /tmp/dnsmasq.conf | sed -e "s/^DOMAIN,/  - '/g" -e "s/^DOMAIN-SUFFIX,/  - '+./g" -e "s/$/'/g" -e "s/,DIRECT//g" -e "1i\payload:" > ./Clash/90dns_direct_provider.yml
           grep ".*REJECT" /tmp/dnsmasq.conf | sed -e "s/^DOMAIN,/  - '/g" -e "s/^DOMAIN-SUFFIX,/  - '+./g" -e "s/$/'/g" -e "s/,REJECT//g" -e "1i\payload:" > ./Clash/90dns_reject_provider.yml
-      - name: Push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update 90DNS
-          skip_dirty_check: false
-          commit_user_name: Action Bot
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_author: Action <actions@github.com>
-
-  china_ip:
-    name: China IP
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.REPO_TOKEN }}
-      - name: Update
+      - name: Update China IP
         run: |
           curl -sS https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt > /tmp/china_ipv4.txt
           curl -sSL https://bgp.space/china6.html | grep "^[0-9a-z:\/]*<br>" | sed "s/<br>//g" > /tmp/china_ipv6.txt
@@ -54,24 +37,7 @@ jobs:
           sed -e "s/^/IP-CIDR,/g" /tmp/china_ipv4.txt > ./Surge/IPDB/china_ipv4.list
           sed -e "s/^/IP-CIDR,/g" /tmp/china_ipv6.txt > ./Surge/IPDB/china_ipv6.list
           sed -e "s/^/IP-CIDR,/g" /tmp/china_ip.txt > ./Surge/IPDB/china_ip.list
-      - name: Push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update China IP
-          skip_dirty_check: false
-          commit_user_name: Action Bot
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_author: Action <actions@github.com>
-
-  ublacklist:
-    name: uBlacklist
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.REPO_TOKEN }}
-      - name: Update
+      - name: Update uBlacklist
         run: |
           curl -sS https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt > /tmp/list && echo "" >> /tmp/list
           curl -sS https://raw.githubusercontent.com/DivineEngine/uBlacklist/master/blacklist.txt >> /tmp/list && echo "" >> /tmp/list
@@ -84,24 +50,7 @@ jobs:
           curl -sS https://raw.githubusercontent.com/Aierklk/uBlacklist-blacklist/main/blacklist.txt >> /tmp/list && echo "" >> /tmp/list
           cat uBlacklist/Extra.txt >> /tmp/list
           cat /tmp/list | sed -e "s/^!.*//g" -e "s/^ *Update.*//g" -e "s/^#.*//g" -e "s/\*\.www\./*./g" -e "/^$/d" | sort -u > uBlacklist/uBlacklist.txt
-      - name: Push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update uBlacklist
-          skip_dirty_check: false
-          commit_user_name: Action Bot
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_author: Action <actions@github.com>
-
-  zhihu:
-    name: Zhihu
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.REPO_TOKEN }}
-      - name: Update
+      - name: Update Zhihu
         run: |
           curl https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.js > ./Surge/Script/zhihu.js
           sed -i "s/\/\/ element\[/element\[/g" ./Surge/Script/zhihu.js
@@ -109,7 +58,7 @@ jobs:
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update Zhihu Script
+          commit_message: Update 90DNS
           skip_dirty_check: false
           commit_user_name: Action Bot
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
