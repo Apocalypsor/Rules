@@ -73093,6 +73093,7 @@
 *://code.i-harness.com/*
 *://code.js-code.com/*
 *://codeday.me/*
+*://codehero.jp/*
 *://codeindex.ru/*
 *://codeleading.com/*
 *://codengineering.ru/*
@@ -73200,6 +73201,7 @@
 *://help.url.com.tw/*
 *://henggang.net.cn/*
 *://heoz.galabau-mg.de/*
+*://hicimos-aqui.fun/*
 *://hjzf8899.com/*
 *://hk.jqxs.net/*
 *://hk.on.cc/*
@@ -73589,6 +73591,7 @@
 *://tufftargets.com/*
 *://tuijianqingdan.com/*
 *://tushuo.jk51.com/*
+*://tutorialmore.com/*
 *://tw.allsaintsetna.org/*
 *://tw.gitbook.net/*
 *://twww.wahmbeckerheide.de/*
@@ -73786,6 +73789,7 @@
 *://www.fengshouniao.cn/*
 *://www.fenzhanwang.com/*
 *://www.ffffgggga.com/*
+*://www.fixes.pub/*
 *://www.fsadu.org.br/*
 *://www.fuyingdq.com/*
 *://www.fxyibai.com/*
