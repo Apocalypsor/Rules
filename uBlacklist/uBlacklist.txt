@@ -73181,6 +73181,7 @@
 *://gctm.shk-cux.de/*
 *://getm4.aiyanqing.com/*
 *://getm4.aiyanqing.com/*
+*://githubmemory.com/*
 *://gjgp.mikeprange.de/*
 *://greyhoundbastards.com/*
 *://guanjia.qq.com/*
@@ -73515,6 +73516,7 @@
 *://scholarsupdate.hi2net.com/*
 *://scyhc.cn/*
 *://sd.sina.cn/*
+*://search.zonealarm.com/*
 *://seeres.com/*
 *://segmentfault.com/*
 *://server.zhiding.cn/*
@@ -73895,6 +73897,7 @@
 *://www.ssgmm.com/*
 *://www.talex-soft.com/*
 *://www.taobao.com/*
+*://www.taodudu.cc/*
 *://www.taoguba.com.cn/*
 *://www.teapm.com/*
 *://www.techhubonline.com/*
