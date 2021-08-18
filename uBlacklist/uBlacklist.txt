@@ -21699,6 +21699,7 @@
 *://*.cxyctz.com/*
 *://*.cxydz.com/*
 *://*.cxyiyao.com/*
+*://*.cxymm.net/*
 *://*.cxysz.com/*
 *://*.cxytm.cn/*
 *://*.cxywt.cn/*
@@ -22588,6 +22589,7 @@
 *://*.dei8.cc/*
 *://*.deikang.top/*
 *://*.deilongsz.com/*
+*://*.deiniu.com/*
 *://*.deisha.cn/*
 *://*.deiyin.cn/*
 *://*.deizhuan.cn/*
@@ -23885,6 +23887,7 @@
 *://*.droidspin.com/*
 *://*.droidyue.com/*
 *://*.dronevideokeszites.hu/*
+*://*.dropsoft.net/*
 *://*.drqwfh.com/*
 *://*.drsmgmme.net/*
 *://*.drsprogram.com/*
@@ -35409,6 +35412,7 @@
 *://*.javascriptc.com/*
 *://*.javascriptcn.com/*
 *://*.javashuo.com/*
+*://*.javashuo.com/*
 *://*.javatt.com/*
 *://*.javawg.com/*
 *://*.javazhiyin.com/*
@@ -45306,6 +45310,7 @@
 *://*.mallorcapadel.com/*
 *://*.mamahigh.com/*
 *://*.mamaza.com/*
+*://*.mamaza.com/*
 *://*.mamicode.com/*
 *://*.mamicode.com/*
 *://*.mamilecr.com/*
@@ -48720,6 +48725,7 @@
 *://*.pceu0.cn/*
 *://*.pcfnm.top/*
 *://*.pcfoam.com/*
+*://*.pcgamerbike.com/*
 *://*.pchled.com/*
 *://*.pchulan.com/*
 *://*.pchutrwp.net/*
@@ -49838,6 +49844,7 @@
 *://*.py-program.com/*
 *://*.py.cn/*
 *://*.py006.com/*
+*://*.py3study.com/*
 *://*.py513.com/*
 *://*.py64.com/*
 *://*.pyafu.cn/*
@@ -49885,6 +49892,7 @@
 *://*.pythonf.cn/*
 *://*.pythonheidong.com/*
 *://*.pythonheidong.com/*
+*://*.pythonmana.com/*
 *://*.pytqehba.site/*
 *://*.pytyzy.com/*
 *://*.pyvqd.com/*
@@ -49999,6 +50007,7 @@
 *://*.qaz888.com/*
 *://*.qazxswed.net/*
 *://*.qb300.com/*
+*://*.qb5200.com/*
 *://*.qb5200.com/*
 *://*.qbbkoptprf.com/*
 *://*.qbbpd.cn/*
@@ -55470,6 +55479,7 @@
 *://*.solvyou.com/*
 *://*.soma460.com/*
 *://*.some-itech.com/*
+*://*.some-itech.com/*
 *://*.somedaysthemovie.com/*
 *://*.someibo.com/*
 *://*.someis.com/*
@@ -56877,6 +56887,7 @@
 *://*.sysrw.com/*
 *://*.system-assistor.com/*
 *://*.systemcity.cn/*
+*://*.systonsoft.com/*
 *://*.sysuclub.com/*
 *://*.sysuv.com/*
 *://*.sysxdoor.com/*
@@ -73019,6 +73030,7 @@
 *://blog.cangzhitao.com/*
 *://blog.creaders.net/*
 *://blog.csdn.net/*
+*://blog.csdn.net/*
 *://blog.fundebug.com/*
 *://blog.gtwang.org/*
 *://blog.hug-code.cn/*
@@ -73914,6 +73926,7 @@
 *://www.uoften.com/*
 *://www.urpimp.com/*
 *://www.uucan.cn/*
+*://www.uxahz.com/*
 *://www.v2as.com/*
 *://www.vickarsgroup.com/*
 *://www.voidcc.com/*
