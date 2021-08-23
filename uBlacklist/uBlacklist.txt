@@ -72951,6 +72951,7 @@
 *://114.118.3.135/*
 *://118.190.27.238/*
 *://118.190.38.122/*
+*://118.193.38.103/*
 *://13399693013.com/*
 *://1996-tv-schedule.mellothiago.com/*
 *://20779.bhuvoq.tw/*
@@ -73081,11 +73082,14 @@
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/article/*
 *://cloud.tencent.com/developer/information/*
+*://cloud.tencent.com/developer/information/*
+*://cloud.tencent.com/developer/news/*
 *://cloud.tencent.com/developer/tag/*
 *://cn.17tv.tv/*
 *://cn.aliyun.com/ss/*
 *://cn.cambridgecableservice.com/*
 *://cn.delavaio.com/*
+*://cn.desmoineshvaccompany.com/*
 *://cn.dpbhouse.com/*
 *://cn.faithcov.org/*
 *://cn.filedict.com/*
@@ -73129,6 +73133,7 @@
 *://developer.51cto.com/*
 *://developer.aliyun.com/article/*
 *://developer.aliyun.com/article/*
+*://developer.aliyun.com/askzt/*
 *://dfuw.redandgold.de/*
 *://dguun.com/*
 *://dig.chouti.cc/*
@@ -73178,6 +73183,7 @@
 *://fooobar.com/*
 *://forum.gamer.com.tw/*
 *://forum.opnsense.org/*
+*://free.com.tw/*
 *://freetribe.me/*
 *://fuanclinc.com/*
 *://fydqw.com/*
@@ -73248,6 +73254,7 @@
 *://it.wenda123.org/*
 *://itdaan.com/*
 *://iter01.com/*
+*://iter01.com/*
 *://ithelp.ithome.com.tw/*
 *://itindex1.rssing.com/*
 *://itpcb.com/*
@@ -73299,6 +73306,7 @@
 *://lpgit.com/*
 *://m.0123366.com/*
 *://m.1688.com/*
+*://m.300.cn/*
 *://m.361t.org/*
 *://m.365jz.com/*
 *://m.3aa5.com/*
@@ -73446,6 +73454,7 @@
 *://news.aotu.io/*
 *://news.lianjia.com/*
 *://news.migage.com/*
+*://news.nweon.com/*
 *://news.pchome.com.tw/*
 *://news.sina.cn/*
 *://news.sina.com.cn/*
@@ -73563,11 +73572,13 @@
 *://stor.51cto.com/*
 *://suiyishop.cn/*
 *://sunnews.cc/*
+*://sunnews.cc/*
 *://sunnyshushu.com/*
 *://support.huaweicloud.com/*
 *://switch-case.ru/*
 *://sxcpsjapp.org/*
 *://syoyougame.jp/*
+*://syy37.com/*
 *://t.cj.sina.com.cn/*
 *://t.codebug.vip/*
 *://tag.google-info.cn/*
@@ -73703,6 +73714,7 @@
 *://www.3rxing.org/*
 *://www.51dongshi.com/*
 *://www.51huandian.com/*
+*://www.58codes.com/*
 *://www.58pjy.com/*
 *://www.591h9.com/*
 *://www.600911.cn/*
@@ -73774,6 +73786,7 @@
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
 *://www.cxhm.net/*
+*://www.cxybb.com/*
 *://www.cxyzjd.com/*
 *://www.cygnus.com/*
 *://www.d3it.cn/*
@@ -73883,6 +73896,7 @@
 *://www.pingtaimeng.com/*
 *://www.pwelder.com/*
 *://www.q578.com/*
+*://www.q578.com/*
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
 *://www.qu02.com/*
@@ -73934,6 +73948,7 @@
 *://www.vpsmm.com/*
 *://www.vrzxwz.com/*
 *://www.vue-gis.com/*
+*://www.wakwb.com/*
 *://www.wcwol.com/*
 *://www.wdzj.com/*
 *://www.webplus.org.cn/*
@@ -73948,7 +73963,9 @@
 *://www.wtnc.uk.com/*
 *://www.www-4749000.com/*
 *://www.www66444.com.cn/*
+*://www.x-mol.com/*
 *://www.xahaihongbz.com/*
+*://www.xianjichina.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
@@ -73962,6 +73979,7 @@
 *://www.yfwqnjh.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
+*://www.yisu.com/zixun/*
 *://www.ymw.cn/*
 *://www.ypisoft.esy.es/*
 *://www.yuanmas.com/*
