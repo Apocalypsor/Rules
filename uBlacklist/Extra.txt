@@ -308,3 +308,4 @@
 *://flyzyblog.net/*
 *://ostack.cn/*
 *://*.it-swarm.cn/*
+*://*.yixuelunwen.com/*
