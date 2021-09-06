@@ -67589,6 +67589,7 @@
 *://*.yixpt.com/*
 *://*.yixuanya.com/*
 *://*.yixuebiancheng.com/*
+*://*.yixuelunwen.com/*
 *://*.yixueziyuan.com/*
 *://*.yixunai.com/*
 *://*.yiyangchuntian.com/*
