@@ -73580,6 +73580,7 @@
 *://iamlishuo.com/*
 *://iask.sina.com.cn/*
 *://iask.sina.com.cn/*
+*://ichi.pro/*
 *://icode9.com/*
 *://indigodublin.com/*
 *://inf.news/*
