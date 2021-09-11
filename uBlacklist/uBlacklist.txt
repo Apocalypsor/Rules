@@ -73351,6 +73351,7 @@
 *://auto.epochtimes.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://b.julym.com/*
+*://b1qg.com/*
 *://badt.tw/*
 *://baijiahao.baidu.com/*
 *://baijiahao.baidu.com/*
@@ -73436,6 +73437,7 @@
 *://cn.filedict.com/*
 *://cn.horecapolis.info/*
 *://cn.hostease.com/*
+*://cn.labourtalk.org/*
 *://cn.narentranzed.org/*
 *://cn.pinlivingcolor.com/*
 *://cn.sanchezsalvador.com/*
@@ -73585,6 +73587,7 @@
 *://indigodublin.com/*
 *://inf.news/*
 *://info.xitek.com/*
+*://insurancewikitw.com/*
 *://intellipaat.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://issue.life/*
@@ -73648,6 +73651,7 @@
 *://lpgit.com/*
 *://m.0123366.com/*
 *://m.1688.com/*
+*://m.2--j.com/*
 *://m.300.cn/*
 *://m.361t.org/*
 *://m.365jz.com/*
@@ -73690,6 +73694,7 @@
 *://m.gdgbn.com/*
 *://m.gdyadu.com/*
 *://m.glass321.com/*
+*://m.hainanxiaochi.com/*
 *://m.hebeisian.com/*
 *://m.hexun.com/*
 *://m.hncmx.com/*
@@ -73709,6 +73714,7 @@
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
+*://m.nas-portal.com/*
 *://m.ncgdmall.com/*
 *://m.newsmth.net/*
 *://m.newyx.net/*
@@ -73948,6 +73954,7 @@
 *://toke.filctemroma2.it/*
 *://tongwang.hxfzzx.cn/*
 *://tortortor.pw/*
+*://tourcoder.com/*
 *://toutiao.sogou.com/*
 *://trhjxt.com.cn/*
 *://trp.qeeqw42.com.cn/*
@@ -73985,6 +73992,7 @@
 *://vwhm.net/*
 *://vzoi.toroshop.it/*
 *://vzqz.fieldball.de/*
+*://wanghi.cn/*
 *://wantubizhi.com/*
 *://wap.4x7q.com/*
 *://wap.9-jo.com/*
@@ -74024,6 +74032,7 @@
 *://wiki.jikexueyuan.com/*
 *://wncwebsolutions.com/*
 *://wntzx.cn/*
+*://woaidaogu.com/*
 *://wow.techbrood.com/*
 *://wppaeh.xyz/*
 *://wsao.kerstinraphahn.de/*
@@ -74052,10 +74061,13 @@
 *://www.3672js.com/*
 *://www.3chy2.com.tw/*
 *://www.3dmax8.com/*
+*://www.3jwz.com/*
 *://www.3li.cc/*
 *://www.3rxing.org/*
+*://www.4k8k.xyz/*
 *://www.51dongshi.com/*
 *://www.51huandian.com/*
+*://www.5577.com/*
 *://www.58codes.com/*
 *://www.58pjy.com/*
 *://www.591h9.com/*
@@ -74086,6 +74098,7 @@
 *://www.amazon.com/*
 *://www.anhuilife.com/*
 *://www.anyolife.com/*
+*://www.app-good.com/*
 *://www.aps-2.com/*
 *://www.asianjps.com/*
 *://www.azsalon527.com/*
@@ -74095,6 +74108,7 @@
 *://www.baidu.com/*
 *://www.bdqxgw.com/*
 *://www.bhscy.com/*
+*://www.bianchengquan.com/*
 *://www.bigmarker.com/*
 *://www.bjcsjsc.com/*
 *://www.bjnews.com.cn/*
@@ -74129,6 +74143,7 @@
 *://www.cqchildren.com/*
 *://www.cxhm.net/*
 *://www.cxybb.com/*
+*://www.cxymm.net/*
 *://www.cxyzjd.com/*
 *://www.cygnus.com/*
 *://www.d3it.cn/*
@@ -74147,6 +74162,7 @@
 *://www.download2me.com/*
 *://www.drjordanmall.com/*
 *://www.duobiji.com/*
+*://www.dxjiadian.com/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
 *://www.eeq8.com/*
@@ -74172,6 +74188,7 @@
 *://www.haimenzhichuang.com/*
 *://www.hanlefang.net/*
 *://www.hayaliicraat.com/*
+*://www.helplib.cn/*
 *://www.hibbba.com/*
 *://www.hmldds.com/*
 *://www.hn-hongyuan.com/*
@@ -74185,8 +74202,10 @@
 *://www.huaweicloud.com/theme/*
 *://www.hyhome.com.cn/*
 *://www.i3pj.com/*
+*://www.i4k.xyz/*
 *://www.ispsd2015.com/*
 *://www.it-swarm-ja.tech/*
+*://www.it-swarm.cn/*
 *://www.it-swarm.dev/*
 *://www.itbear.com.cn/*
 *://www.itjie.com/*
@@ -74221,9 +74240,11 @@
 *://www.manyanu.com/*
 *://www.mdeditor.tw/*
 *://www.mei521.com/*
+*://www.meilizao.com/*
 *://www.mi6fx.com/*
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
+*://www.muzijie.com/*
 *://www.muzijie.com/*
 *://www.mzgsmc.com/*
 *://www.nap6.com/*
@@ -74245,6 +74266,7 @@
 *://www.richesinfo.com.tw/*
 *://www.right.com.cn/*
 *://www.ruten.com.tw/*
+*://www.samilapizza.com/*
 *://www.sanye.cx/*
 *://www.sb2232.com/*
 *://www.sdyongqiang.net/*
@@ -74310,10 +74332,13 @@
 *://www.xianjichina.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
+*://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
 *://www.xknote.com/*
 *://www.xmsyjgg.com/*
 *://www.xtoolsoft.com/*
+*://www.xuanpinzhi.net/*
+*://www.xueouxue.com/*
 *://www.xunii.com/*
 *://www.xyj321.com/*
 *://www.yalewoo.com/*
@@ -74322,6 +74347,7 @@
 *://www.yijyi.com/*
 *://www.yisu.com/*
 *://www.yisu.com/zixun/*
+*://www.yknspne.buzz/*
 *://www.ymw.cn/*
 *://www.ypisoft.esy.es/*
 *://www.yuanmas.com/*
@@ -74372,6 +74398,7 @@
 *://z3otwulx.zpyzya.tw/*
 *://zapytay.com/*
 *://zatan.lcyinsu.com/*
+*://zdes-film.com/*
 *://zeepline.pw/*
 *://zenodo.org/*
 *://zh-hant.hotbak.net/*
