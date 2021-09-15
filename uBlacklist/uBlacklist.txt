@@ -28410,6 +28410,7 @@
 *://*.gistfm.com/*
 *://*.gitaristusesija.lv/*
 *://*.gitgeek.cc/*
+*://*.github-wiki-see.page/*
 *://*.gitime.cn/*
 *://*.gitmemory.com/*
 *://*.gitmemory.com/*
