@@ -10377,6 +10377,7 @@
 *://*.868458.com/*
 *://*.8688060.com/*
 *://*.8688g.com/*
+*://*.8688news.com/*
 *://*.868china.com/*
 *://*.868cxxn.com/*
 *://*.868hd.cn/*
@@ -63096,6 +63097,7 @@
 *://*.whxgdgg.com/*
 *://*.whxgfdjz.com/*
 *://*.whxinqidian.com/*
+*://*.whxinqing.com/*
 *://*.whxjhq.com/*
 *://*.whxjx.com/*
 *://*.whxjxx.com/*
@@ -65089,6 +65091,7 @@
 *://*.xfn.com/*
 *://*.xfnlz.net/*
 *://*.xfplay1.cc/*
+*://*.xfqc186.com/*
 *://*.xfqnh.com/*
 *://*.xfqpsp.com/*
 *://*.xfqrd.com/*
