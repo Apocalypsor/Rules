@@ -9880,6 +9880,7 @@
 *://*.8107088.com/*
 *://*.8107188.com/*
 *://*.8107688.com/*
+*://*.8107778.com/*
 *://*.810965.top/*
 *://*.8109788.com/*
 *://*.810988.info/*
@@ -10711,6 +10712,7 @@
 *://*.88817588.cn/*
 *://*.88822007.com/*
 *://*.88825.com/*
+*://*.88832828.com/*
 *://*.88833.org/*
 *://*.88834ww.com/*
 *://*.88835762.com/*
@@ -22066,6 +22068,7 @@
 *://*.czmmg.cn/*
 *://*.czmuhe.com/*
 *://*.czmyd.cn/*
+*://*.czokzz.com/*
 *://*.czoxhg.com/*
 *://*.czoyw.com/*
 *://*.czqc5.com/*
@@ -24508,6 +24511,7 @@
 *://*.dxwenyi.com/*
 *://*.dxwlv.com/*
 *://*.dxxc.com/*
+*://*.dxxdwh.com/*
 *://*.dxxfzbx.com/*
 *://*.dxxqw.cn/*
 *://*.dxxrz.com/*
@@ -27019,6 +27023,7 @@
 *://*.freecom.ne.jp/*
 *://*.freegrace.cn/*
 *://*.freeguo.com/*
+*://*.freeguo.com/*
 *://*.freelaohu.com/*
 *://*.freemedia.cc/*
 *://*.freenetworktool.net/*
@@ -27044,6 +27049,7 @@
 *://*.freshjobzstreet.com/*
 *://*.frfwc.com/*
 *://*.frgalcake.com/*
+*://*.fridayboy.cn/*
 *://*.friendlygointer.com/*
 *://*.friga.de/*
 *://*.frinvestigations.com/*
@@ -34015,6 +34021,7 @@
 *://*.huojiang1.com/*
 *://*.huojinxue.com/*
 *://*.huolalaweb.com/*
+*://*.huolicf.com/*
 *://*.huolongyun.com/*
 *://*.huonen.top/*
 *://*.huoplmh.net/*
@@ -36517,6 +36524,7 @@
 *://*.jijinefe.net/*
 *://*.jijinggeyinchuang.com/*
 *://*.jijinuli.net/*
+*://*.jijisf.com/*
 *://*.jijza.com/*
 *://*.jikangmin.com/*
 *://*.jikeqi.com/*
@@ -41438,6 +41446,7 @@
 *://*.ka2n.cc/*
 *://*.kaacc.net/*
 *://*.kaakoo.cn/*
+*://*.kaba888.com/*
 *://*.kabaresta.com/*
 *://*.kabqtmtf.net/*
 *://*.kabulawayo.com/*
@@ -46159,6 +46168,7 @@
 *://*.mojieyl6.com/*
 *://*.mojiezc.com/*
 *://*.mojucaigou.com/*
+*://*.mokegod.com/*
 *://*.moktime.com/*
 *://*.molamaca.com/*
 *://*.molihuaz.com/*
@@ -47361,6 +47371,7 @@
 *://*.njxgjc.com/*
 *://*.njxhmbj.com/*
 *://*.njxiangrikui.com/*
+*://*.njxiezilou.com/*
 *://*.njxinge.com/*
 *://*.njxinhaiyang.com/*
 *://*.njxmfs.com/*
@@ -50830,6 +50841,7 @@
 *://*.qianfangs.cn/*
 *://*.qiang8.cc/*
 *://*.qiangduzaoye.com/*
+*://*.qiangjiks.com/*
 *://*.qiangle.net/*
 *://*.qiangpz.com/*
 *://*.qiangseo.com/*
@@ -62621,6 +62633,7 @@
 *://*.wdyl1946888.com/*
 *://*.wdysh.com/*
 *://*.wdyybook.com/*
+*://*.wdzaixian.com/*
 *://*.wdzj.com/*
 *://*.wdzmotor.com/*
 *://*.we2009.cn/*
@@ -70855,6 +70868,7 @@
 *://*.yxsy999.com/*
 *://*.yxszhai.com/*
 *://*.yxt400.com/*
+*://*.yxtad.com/*
 *://*.yxtcup.com/*
 *://*.yxtczx.com/*
 *://*.yxtdsteel.com/*
