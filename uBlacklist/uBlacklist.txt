@@ -74283,6 +74283,7 @@
 *://118.190.27.238/*
 *://118.190.38.122/*
 *://118.193.38.103/*
+*://118.193.38.103/*
 *://13399693013.com/*
 *://1996-tv-schedule.mellothiago.com/*
 *://20779.bhuvoq.tw/*
@@ -74291,6 +74292,7 @@
 *://20779.xkdifz.tw/*
 *://212f1c8dd8.boroffice.ru/*
 *://222.5634111.com/*
+*://23086096.carucc.com/*
 *://252yy.net/*
 *://29mkh.hebeiluxi.com/*
 *://2tfosz.4pu.com/*
@@ -74580,6 +74582,7 @@
 *://husl.ru/*
 *://hyhome.com.cn/*
 *://hzhjjx.com/*
+*://hziho.com/*
 *://hzzzr.com/*
 *://i.ju8sq.com/*
 *://iamlishuo.com/*
@@ -74704,6 +74707,7 @@
 *://m.glass321.com/*
 *://m.guwan1959.com/*
 *://m.hainanxiaochi.com/*
+*://m.hanlefang.net/*
 *://m.hebeisian.com/*
 *://m.hexun.com/*
 *://m.hncmx.com/*
@@ -74986,6 +74990,7 @@
 *://truthmoviegroup.wixsite.com/*
 *://try2explore.com/*
 *://tspb.org.tw/*
+*://ttaaj.com/*
 *://tufftargets.com/*
 *://tuijianqingdan.com/*
 *://tushuo.jk51.com/*
@@ -75135,6 +75140,7 @@
 *://www.babyitellyou.com/*
 *://www.babylonjs.com.cn/*
 *://www.baidu.com/*
+*://www.ballhaus.buzz/*
 *://www.bdqxgw.com/*
 *://www.bhscy.com/*
 *://www.bianchengquan.com/*
@@ -75176,6 +75182,7 @@
 *://www.cxymm.net/*
 *://www.cxyzjd.com/*
 *://www.cygnus.com/*
+*://www.czag88.com/*
 *://www.d3it.cn/*
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
@@ -75226,6 +75233,7 @@
 *://www.hongyazi.org/*
 *://www.hoozi.com.cn/*
 *://www.hotbak.net/*
+*://www.hsksuo.com/*
 *://www.hss19.cn/*
 *://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
@@ -75251,6 +75259,7 @@
 *://www.jeepxie.net/*
 *://www.jishuwen.com/*
 *://www.jksb.com.cn/*
+*://www.jsnongnong.com/*
 *://www.jtche.com/*
 *://www.jyhgx.com/*
 *://www.jyw.org.cn/*
@@ -75336,6 +75345,7 @@
 *://www.uni-ustyle.com.tw/*
 *://www.uoften.com/*
 *://www.urpimp.com/*
+*://www.utppzuj.buzz/*
 *://www.uucan.cn/*
 *://www.uwin100.com/*
 *://www.uxahz.com/*
@@ -75394,11 +75404,11 @@
 *://www.zcool.com.cn/*
 *://www.zdexe.com/*
 *://www.zhangshengrong.com/*
+*://www.zhcw77.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
 *://www.zhuchaoyouxi.com/*
 *://www.zui88.com/*
-*://www112200.com/*
 *://wwwc809.com/*
 *://xbiy.rietinewstv.it/*
 *://xbuba.com/*
@@ -75420,6 +75430,7 @@
 *://yb.wzylzb.com/*
 *://yebin.com.cn/*
 *://yff.hbs163.com/*
+*://yiemu.com/*
 *://yilj.programmierbare-materie.de/*
 *://yingxiao.baidu.com/*
 *://yktq.prolocoformia.it/*
