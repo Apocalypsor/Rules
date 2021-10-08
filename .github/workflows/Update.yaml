@@ -53,8 +53,8 @@ jobs:
       - name: Update Zhihu
         run: |
           curl https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.js > ./Surge/Script/zhihu.js
-          sed -i "s/\/\/ element\[/element\[/g" ./Surge/Script/zhihu.js
-          sed -i "s/\/\/ IsYanXuan/IsYanXuan/g" ./Surge/Script/zhihu.js
+          sed -i "s/const settings_remove_yanxuan.*true/const settings_remove_yanxuan = true/g" ./Surge/Script/zhihu.js
+          sed -i "s/const settings_recommend_stream.*true/const settings_recommend_stream = true/g" ./Surge/Script/zhihu.js
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
