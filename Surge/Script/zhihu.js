@@ -139,8 +139,8 @@ let magicJS = MagicJS(scriptName, "INFO");
       case /^https:\/\/api\.zhihu\.com\/topstory\/recommend\?/.test(magicJS.request.url):
         try {
           // 默认关闭
-          const settings_remove_yanxuan = magicJS.read("zhihu_settings_remove_yanxuan") == true;
-          const settings_recommend_stream = magicJS.read("zhihu_settings_recommend_stream") == true;
+          const settings_remove_yanxuan = true;
+          const settings_recommend_stream = true;
           // 默认开启
           const settings_blocked_keywords = magicJS.read("zhihu_settings_blocked_keywords") != false;
           const settings_blocked_users = magicJS.read("zhihu_settings_blocked_users") != false;
