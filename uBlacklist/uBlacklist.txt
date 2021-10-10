@@ -4104,6 +4104,7 @@
 *://*.26825797.xyz/*
 *://*.268363.com/*
 *://*.2683677.com/*
+*://*.268382.com/*
 *://*.268583.com/*
 *://*.268732.com/*
 *://*.268884.com/*
@@ -25295,6 +25296,7 @@
 *://*.doctorsks.com/*
 *://*.docusys.net/*
 *://*.docvox.net/*
+*://*.docway.net/*
 *://*.doczj.com/*
 *://*.dodobook.net/*
 *://*.dodsonfineart.buzz/*
@@ -31392,6 +31394,7 @@
 *://*.guizhoujinguoyuan.com/*
 *://*.guizhoums.com/*
 *://*.guizhousz.com/*
+*://*.guizhouxiaochi123.com/*
 *://*.guizhouye.cn/*
 *://*.gujian189.com/*
 *://*.gujiaozx.com/*
@@ -49690,6 +49693,7 @@
 *://*.narrativebuilders.com/*
 *://*.nartar.com/*
 *://*.narukmissyou.com/*
+*://*.nas-portal.com/*
 *://*.nashdf.com/*
 *://*.nashea.com/*
 *://*.nassjo.cc/*
@@ -59188,6 +59192,7 @@
 *://*.sina-cz.com/*
 *://*.sina.red/*
 *://*.sina8.com/*
+*://*.sinabz.com/*
 *://*.sinamail.org/*
 *://*.sinayy.com/*
 *://*.sinbloqueo.com/*
@@ -78164,6 +78169,7 @@
 *://*.zunyipifa.com/*
 *://*.zunyixllbj.com/*
 *://*.zunzunzun.com.cn/*
+*://*.zuofajingyan.com/*
 *://*.zuoliren.com/*
 *://*.zuoqizhi.com/*
 *://*.zuoshangpr.com/*
@@ -78457,6 +78463,7 @@
 *://*.zymnh.com/*
 *://*.zymode.com/*
 *://*.zympn.com/*
+*://*.zymseo.com/*
 *://*.zyncschool.com/*
 *://*.zynews.cc/*
 *://*.zyngle.com/*
@@ -78730,6 +78737,7 @@
 *://23086096.carucc.com/*
 *://2tfosz.4pu.com/*
 *://365airsoft.com/*
+*://373406.com/*
 *://373524.com/*
 *://39.107.74.11/*
 *://3ctyri.gkhpii.tw/*
@@ -78960,6 +78968,7 @@
 *://gvkv.apollostar-safari.de/*
 *://gxl.eroicatour.it/*
 *://gyrh.dackel-vom-raeuberwaeldchen.de/*
+*://hacker66.me/*
 *://hant-kb.kaifa99.com/*
 *://hant-kb.kutu66.com/*
 *://hdmseafood.com/*
@@ -79321,6 +79330,7 @@
 *://sxcpsjapp.org/*
 *://syoyougame.jp/*
 *://syy37.com/*
+*://syy79.com/*
 *://t.cj.sina.com.cn/*
 *://t.codebug.vip/*
 *://tag.google-info.cn/*
