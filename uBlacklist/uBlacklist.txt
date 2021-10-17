@@ -2263,6 +2263,7 @@
 *://*.cdzhixin.com/*
 *://*.ce2tq74.cn/*
 *://*.ceaoiju.cn/*
+*://*.ceden.cn/*
 *://*.cefotiam.com/*
 *://*.celebresource.buzz/*
 *://*.cencelli.it/*
@@ -2641,6 +2642,7 @@
 *://*.cxjygj.com/*
 *://*.cxjygj.com/*
 *://*.cxmht.com/*
+*://*.cxybb.com/*
 *://*.cxybl.com/*
 *://*.cxymm.net/*
 *://*.cxymm.net/*
@@ -4178,6 +4180,7 @@
 *://*.hongkonginstyle.buzz/*
 *://*.hongkongxzm.com/*
 *://*.hongmaosc8.com/*
+*://*.hongshaocai.com/*
 *://*.hongsheng1998.com/*
 *://*.hongshuit.com/*
 *://*.hongsoft.net/*
@@ -4654,6 +4657,7 @@
 *://*.jayagy.com/*
 *://*.jayity.com/*
 *://*.jayunqi.com/*
+*://*.jb51.cc/*
 *://*.jb51.net/*
 *://*.jbf999.com/*
 *://*.jbi43o.cn/*
@@ -5490,6 +5494,7 @@
 *://*.longteng131.cn/*
 *://*.longtengkaibo.com/*
 *://*.longtkm.com/*
+*://*.longxinghotel.cn/*
 *://*.looksearch.cc/*
 *://*.loolik.com/*
 *://*.lootqyo.cn/*
@@ -10350,6 +10355,7 @@
 *://jbh.17qq.com/*
 *://jdzl.v3ng.de/*
 *://jelly.jd.com/article/*
+*://jianboge.com/*
 *://jiaocheng.hxsd.com/*
 *://jiehunliwu.9tu9.com/*
 *://jingyan.baidu.com/*
@@ -10566,6 +10572,7 @@
 *://njchgd.com/*
 *://njvhjp.hybrishop.com/*
 *://note.t4x.org/*
+*://nwuja.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://oipapio.com/*
@@ -10630,6 +10637,7 @@
 *://qastack.ru/*
 *://qastack.vn/*
 *://qcke.plameco-nett.de/*
+*://qdmana.com/*
 *://qds315.com/*
 *://qianruntai.com/*
 *://qianshantc.com/*
@@ -10655,6 +10663,7 @@
 *://routinepanic.com/*
 *://rrtts.com/*
 *://rstopup.com/*
+*://runxinzhi.com/*
 *://runxinzhi.com/*
 *://s.3d4w.com/*
 *://s.nongjia888.com/*
