@@ -309,3 +309,4 @@
 *://ostack.cn/*
 *://*.it-swarm.cn/*
 *://*.yixuelunwen.com/*
+*://*.tspweb.com/*
