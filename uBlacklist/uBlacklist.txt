@@ -621,6 +621,7 @@
 *://*.3dcat.live/*
 *://*.3dmdvx.cn/*
 *://*.3dxy.com/*
+*://*.3eaodi.com/*
 *://*.3enfv3an.com/*
 *://*.3feetshort.buzz/*
 *://*.3fizoog.cn/*
