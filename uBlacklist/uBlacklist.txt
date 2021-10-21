@@ -8222,6 +8222,7 @@
 *://*.tsm8.cn/*
 *://*.tsns.xyz/*
 *://*.tsov.net/*
+*://*.tspweb.com/*
 *://*.tsr8.cn/*
 *://*.tsrsyx.com/*
 *://*.tsydys.com/*
@@ -10668,6 +10669,7 @@
 *://portfolium.com/*
 *://posts.careerengine.us/*
 *://pr.akdfj.com/*
+*://pretagteam.com/*
 *://priorityhospice.com/*
 *://probacc.com/*
 *://product.pconline.com.cn/*
