@@ -310,3 +310,4 @@
 *://*.it-swarm.cn/*
 *://*.yixuelunwen.com/*
 *://*.tspweb.com/*
+*://*.moe.am/*
