@@ -423,6 +423,7 @@
 *://*.218434.com/*
 *://*.218435.com/*
 *://*.218462.com/*
+*://*.218464.com/*
 *://*.218471.com/*
 *://*.218475.com/*
 *://*.218495.com/*
@@ -855,6 +856,7 @@
 *://*.521hunlian.com/*
 *://*.521wang.cn/*
 *://*.522324.com/*
+*://*.5228msc.com/*
 *://*.52365o.com/*
 *://*.525902.com/*
 *://*.525tb.com/*
@@ -1700,6 +1702,7 @@
 *://*.assurancesmeilleur.buzz/*
 *://*.asylan.com/*
 *://*.atamaldives.net/*
+*://*.athabasca-foto.com/*
 *://*.athabasca-foto.com/*
 *://*.athletessolution.buzz/*
 *://*.atlanticecon.buzz/*
@@ -2658,6 +2661,7 @@
 *://*.cxjygj.com/*
 *://*.cxmht.com/*
 *://*.cxybb.com/*
+*://*.cxybb.com/*
 *://*.cxybl.com/*
 *://*.cxymm.net/*
 *://*.cxymm.net/*
@@ -2917,6 +2921,7 @@
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
 *://*.dmjtxt.com/*
+*://*.dmois.com/*
 *://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
@@ -3791,6 +3796,7 @@
 *://*.guide-internaute.buzz/*
 *://*.guidedbirding.com/*
 *://*.guihuayun.com/*
+*://*.guilinliwu.com/*
 *://*.guilinshouji.com/*
 *://*.guitarpro.cc/*
 *://*.guiyangjia.com/*
@@ -4009,6 +4015,7 @@
 *://*.hcfengxi.com/*
 *://*.hcnpqu.cn/*
 *://*.hcoj.uonwt.download/*
+*://*.hcpcm.net/*
 *://*.hcvvraq.cn/*
 *://*.hd132.com/*
 *://*.hd800.net/*
@@ -4705,6 +4712,7 @@
 *://*.jc2qem.cn/*
 *://*.jccreate.com/*
 *://*.jccybj.cn/*
+*://*.jcdi.cn/*
 *://*.jch6gjv.cn/*
 *://*.jcpdw.com/*
 *://*.jcstools.buzz/*
@@ -4899,6 +4907,7 @@
 *://*.joci.net/*
 *://*.joci.net/*
 *://*.joecomp.com/*
+*://*.joecomp.com/*
 *://*.jogon.cn/*
 *://*.johnmurraysr.buzz/*
 *://*.joinprojectlove.com/*
@@ -5012,6 +5021,7 @@
 *://*.jxg0lqp.cn/*
 *://*.jxgzkaier.com/*
 *://*.jxhx668.com/*
+*://*.jxjdj.com/*
 *://*.jxjdj.com/*
 *://*.jxjjxf.com/*
 *://*.jxjyjdsb.com/*
@@ -6563,6 +6573,7 @@
 *://*.pgix.net.cn/*
 *://*.pgq365.com/*
 *://*.pgtqcec.cn/*
+*://*.pgy-ask.com/*
 *://*.phafbas.cn/*
 *://*.pharmagolfchallenge.it/*
 *://*.phdehr.cn/*
@@ -7379,6 +7390,7 @@
 *://*.sekizuka-iin.buzz/*
 *://*.sellsha.com/*
 *://*.sem16.com/*
+*://*.semicolonworld.com/*
 *://*.semlinker.com/*
 *://*.senfenb.com/*
 *://*.senowell.cn/*
@@ -7485,6 +7497,7 @@
 *://*.shoushu5551.cn/*
 *://*.shouyouzhijia.net/*
 *://*.show8d.com/*
+*://*.shqibang.com/*
 *://*.shrinktunnel.cn/*
 *://*.shrmwl.com/*
 *://*.shronghong.com/*
@@ -9019,6 +9032,7 @@
 *://*.xha9rnc.cn/*
 *://*.xhfree.com/*
 *://*.xhg.net.cn/*
+*://*.xhhuanjing.com/*
 *://*.xhhuoma.cn/*
 *://*.xhjqk9s.cn/*
 *://*.xhmybj.com/*
@@ -9254,6 +9268,7 @@
 *://*.xwlznqgr.cn/*
 *://*.xwzxzz.com/*
 *://*.xxdell.com/*
+*://*.xxfseo.com/*
 *://*.xxjehqc.cn/*
 *://*.xxl123.com/*
 *://*.xxllfde.cn/*
@@ -9350,6 +9365,7 @@
 *://*.ycluomen.com/*
 *://*.ycos2rl.cn/*
 *://*.ycrlt.com/*
+*://*.ycycbaby.com/*
 *://*.yczmndxb.com/*
 *://*.ydbiaoxi.com/*
 *://*.ydhbtlc.com/*
@@ -9689,6 +9705,7 @@
 *://*.zaataritravel.buzz/*
 *://*.zabjh.com/*
 *://*.zahope.com/*
+*://*.zaizaofa.com/*
 *://*.zalou.cn/*
 *://*.zamatt.com/*
 *://*.zambj.com/*
