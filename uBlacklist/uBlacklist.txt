@@ -852,6 +852,7 @@
 *://*.520bdy.com/*
 *://*.520mwx.com/*
 *://*.520shoping.com/*
+*://*.521253.com/*
 *://*.52175565.com/*
 *://*.521hunlian.com/*
 *://*.521wang.cn/*
@@ -2765,6 +2766,7 @@
 *://*.dayuimage.com/*
 *://*.dayun123.com/*
 *://*.dazai.cc/*
+*://*.dazhuanlan.com/*
 *://*.db5ds.com/*
 *://*.dbbsfs.cn/*
 *://*.dbh0ks2.cn/*
@@ -4765,6 +4767,7 @@
 *://*.jiajuwangluo.com/*
 *://*.jiajvhuishou.com/*
 *://*.jialesu.cn/*
+*://*.jianboge.com/*
 *://*.jiancaiqiye.cn/*
 *://*.jianchenwangluo.com/*
 *://*.jiandati.com/*
@@ -8164,6 +8167,7 @@
 *://*.tmjd.27mai.com/*
 *://*.tmnfgs.com/*
 *://*.tmsiukt.cn/*
+*://*.tmtkz.com/*
 *://*.tn4kgr.cn/*
 *://*.tni5ai.cn/*
 *://*.tnszw.com/*
@@ -8782,6 +8786,7 @@
 *://*.wiilgz.com/*
 *://*.wiixin.com/*
 *://*.wikioi.com/*
+*://*.win10set.com/*
 *://*.win10xiazai.com/*
 *://*.win10xiazai.com/*
 *://*.windowsfront.com/*
@@ -9391,6 +9396,7 @@
 *://*.yger203.cn/*
 *://*.yggx.net/*
 *://*.ygzkf.com/*
+*://*.yhbearing.net/*
 *://*.yhfckbl.cn/*
 *://*.yhjlgw.com/*
 *://*.yhnnc.com/*
@@ -9629,6 +9635,7 @@
 *://*.yutongrate.com/*
 *://*.yutongsh.com/*
 *://*.yutu.cn/*
+*://*.yuucee.com/*
 *://*.yuwen5.cn/*
 *://*.yuxi99.com/*
 *://*.yuxuancde.com/*
@@ -9660,6 +9667,7 @@
 *://*.yxxinyeu.com/*
 *://*.yxxinzuo.com/*
 *://*.yxycar.com/*
+*://*.yxzcbj.com/*
 *://*.yychenhui.com/*
 *://*.yycmall.com/*
 *://*.yydhhotel.com/*
@@ -9679,6 +9687,7 @@
 *://*.yzf6.com/*
 *://*.yzgcn8.cn/*
 *://*.yzhl999.com/*
+*://*.yzmagazine.com/*
 *://*.yznt.com/*
 *://*.yzonelife.com/*
 *://*.yzsysq.com/*
@@ -9820,6 +9829,7 @@
 *://*.zhipanyou.*/*
 *://*.zhipanyou.com/*
 *://*.zhishilin.com/*
+*://*.zhixiangbaozhuang.net/*
 *://*.zhixinlu.com/*
 *://*.zhiya360.com/*
 *://*.zhiyitech.net/*
@@ -9837,6 +9847,7 @@
 *://*.zhongjunch.com/*
 *://*.zhongkd.com/*
 *://*.zhongkn.cn/*
+*://*.zhongleishiye.com/*
 *://*.zhongletoy.cn/*
 *://*.zhongrunzx.com/*
 *://*.zhongsensh.com/*
@@ -9974,6 +9985,7 @@
 *://*.zswntech.com/*
 *://*.zsxzjt.cn/*
 *://*.zsyawen.com/*
+*://*.zsythn.com/*
 *://*.ztguolu.com/*
 *://*.ztjianfa.com/*
 *://*.ztur.cn/*
@@ -10110,7 +10122,9 @@
 *://9897sf.com/*
 *://a.4399.cn/*
 *://a78999.net/*
+*://aasou.cc/*
 *://ab-tc.com/*
+*://abcsou.cc/*
 *://acute3d-viewer-64-bit.updatestar.com/*
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
@@ -10123,6 +10137,7 @@
 *://anningbaby.com/*
 *://answer-id.com/*
 *://answeright.com/*
+*://anysearch.cc/*
 *://ap.instructure.com/*
 *://api.9idudu.com/*
 *://app.livestorm.co/*
@@ -10217,6 +10232,7 @@
 *://cdbike.net/*
 *://ceji.ayotechnology.de/*
 *://cf628.com/*
+*://chaosou.cc/*
 *://chashi.dsevr.com/*
 *://christadavidson.com/*
 *://chrome.playes.net/*
@@ -10231,6 +10247,7 @@
 *://cloud.tencent.com/developer/tag/*
 *://cn.17tv.tv/*
 *://cn.aliyun.com/ss/*
+*://cn.aliyun.com/sswm/*
 *://cn.cambridgecableservice.com/*
 *://cn.delavaio.com/*
 *://cn.desmoineshvaccompany.com/*
@@ -10276,6 +10293,7 @@
 *://daijoubu-hai.osyaberiina.com/*
 *://daimajiaoliu.com/*
 *://darler.gitee.io/*
+*://dasearch.cc/*
 *://database.51cto.com/*
 *://dditblog.com/*
 *://ddxinwen.com/*
@@ -10379,6 +10397,8 @@
 *://hacker66.me/*
 *://hant-kb.kaifa99.com/*
 *://hant-kb.kutu66.com/*
+*://haokuaisou.cc/*
+*://haosh.cc/*
 *://hdmseafood.com/*
 *://health.ettoday.net/*
 *://health.people.com.cn/*
@@ -10403,6 +10423,7 @@
 *://hoteles.bluevalencia.com/*
 *://hsk.oray.com/*
 *://htofe.com/*
+*://huiss.cc/*
 *://husl.ru/*
 *://hyk0751.com/*
 *://hyznkj.com/*
@@ -10458,6 +10479,7 @@
 *://jqljc.com/*
 *://jrccn.cn/*
 *://jrpw.webdesign-kiel-hamburg.de/*
+*://jssou.cc/*
 *://jx.kuwo.cn/*
 *://jxcomment.jxnews.com.cn/*
 *://jzdxcmm.com/*
@@ -10482,10 +10504,12 @@
 *://kuaichuanyun.net/*
 *://kuaisusou.cc/*
 *://kuoe.vip-erfolgscoach.de/*
+*://kusearch.cc/*
 *://l.66wc.com/*
 *://l2azm.a-plusedu.com/*
 *://langningpiano.com/*
 *://laravelquestions.com/*
+*://lefx.cc/*
 *://legkovopros.ru/*
 *://lhafy.com/*
 *://lianyigcsl.com/*
@@ -10668,6 +10692,7 @@
 *://njchgd.com/*
 *://njvhjp.hybrishop.com/*
 *://note.t4x.org/*
+*://notesearch.cc/*
 *://nwuja.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
@@ -10795,6 +10820,7 @@
 *://soft.zol.com.cn/*
 *://softwarebrother.com/*
 *://soinside.com/*
+*://sounote.cc/*
 *://sozdizimi.com/*
 *://sprosi.pro/*
 *://src-bin.com/*
@@ -10847,6 +10873,7 @@
 *://tianpingzuo.xkyn.com/*
 *://time.geekbang.org/*
 *://titanwolf.org/*
+*://tititi.cc/*
 *://tjlianhe.com/*
 *://tjre.spaccioprosus.it/*
 *://tlgg666.com/*
@@ -10927,6 +10954,7 @@
 *://warframecn.com/*
 *://wawb.mode-pur-tangermuende.de/*
 *://web-answers.ru/*
+*://websou.cc/*
 *://wedt.rollender-bauernladen.de/*
 *://weisearch.cc/*
 *://wenda.jikexueyuan.com/*
@@ -10940,7 +10968,9 @@
 *://woaidaogu.com/*
 *://wow.techbrood.com/*
 *://wsao.kerstinraphahn.de/*
+*://wsearch.cc/*
 *://wthe.singende-wirte.de/*
+*://wtsearch.cc/*
 *://ww.106jsk.com/*
 *://ww1.viciousink.net/*
 *://ww1.wode6.com/*
@@ -11312,6 +11342,7 @@
 *://www.sjzshuangba.com/*
 *://www.skbpw.com/*
 *://www.sldfc.cn/*
+*://www.smf10.com/*
 *://www.sporths.com/*
 *://www.ssf.cc/*
 *://www.ssfiction.com/*
@@ -11471,6 +11502,7 @@
 *://yq.aliyun.com/articles/*
 *://yrhtech.com/*
 *://ytxjjx.com/*
+*://yues.org/*
 *://ywcreations.com/*
 *://yx.kbjcuiru.com/*
 *://yyspay.com/*
