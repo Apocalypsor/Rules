@@ -3230,7 +3230,6 @@
 *://*.ewonm.cn/*
 *://*.excamtest.cn/*
 *://*.exceljcw.com/*
-*://*.exceptionshub.com/*
 *://*.exdctol.cn/*
 *://*.exemm.com/*
 *://*.exoplanetmagazine.com/*
@@ -8237,6 +8236,7 @@
 *://*.trust1688.com/*
 *://*.trvhyxw.cn/*
 *://*.trw9n5h.cn/*
+*://*.try2explore.com/*
 *://*.tsltw.com/*
 *://*.tsm8.cn/*
 *://*.tsns.xyz/*
@@ -10888,7 +10888,6 @@
 *://truelovenet.com/*
 *://truthmoviegroup.wixsite.com/*
 *://try2explore.com/*
-*://try2explore.com/*
 *://tspb.org.tw/*
 *://ttaaj.com/*
 *://tuijianqingdan.com/*
@@ -10899,6 +10898,7 @@
 *://tw.gitbook.net/*
 *://twww.wahmbeckerheide.de/*
 *://ubuntu.buildwebhost.com/*
+*://ubuntuaa.com/*
 *://ubuntugeeks.com/*
 *://unhn.le-marquisat.fr/*
 *://unix.stackovernet.xyz/*
@@ -11479,6 +11479,7 @@
 *://xiao66688.com/*
 *://xiaogan.ganji.com/*
 *://xinsearch.cc/*
+*://xiu2.net/*
 *://xjbol.com/*
 *://xn--fhq404ay5i.58583.11844.xyz16888.info/*
 *://xqdj.hahnbacher-fotos.de/*
