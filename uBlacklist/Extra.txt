@@ -311,3 +311,4 @@
 *://*.yixuelunwen.com/*
 *://*.tspweb.com/*
 *://*.moe.am/*
+*://*.toutiao.com/*
