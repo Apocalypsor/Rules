@@ -8202,6 +8202,7 @@
 *://*.toranj-co.com/*
 *://*.toriphile.buzz/*
 *://*.torrentz-proxy.com/*
+*://*.toutiao.com/*
 *://*.toutiao.io/*
 *://*.touyanmo.com/*
 *://*.toyif.cn/*
