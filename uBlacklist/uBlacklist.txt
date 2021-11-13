@@ -4626,6 +4626,7 @@
 *://*.itranslater.com/*
 *://*.itread01.com/*
 *://*.itread01.com/*
+*://*.its404.com/*
 *://*.itspxx.com/*
 *://*.ittribalwo.com/*
 *://*.itvgm.cn/*
