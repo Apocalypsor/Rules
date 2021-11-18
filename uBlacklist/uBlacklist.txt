@@ -10299,6 +10299,7 @@
 *://c.biancheng.net/*
 *://c.lanmit.com/*
 *://cabancos.com/*
+*://cainiaojiaocheng.com/*
 *://camuschou.pixnet.net/*
 *://canvas.spu.edu/*
 *://card.weibo.com/*
@@ -10809,6 +10810,7 @@
 *://project-gutenberg.github.io/*
 *://pytannie.com/*
 *://python5.com/*
+*://pythonwd.com/*
 *://q.cnblogs.com/*
 *://qa-help.ru/*
 *://qa-stack.pl/*
