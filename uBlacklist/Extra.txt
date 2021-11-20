@@ -312,3 +312,4 @@
 *://*.tspweb.com/*
 *://*.moe.am/*
 *://*.toutiao.com/*
+*://*.300ntk.com/*
