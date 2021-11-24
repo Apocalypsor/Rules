@@ -1125,6 +1125,7 @@
 *://*.79tui.com/*
 *://*.79umi0z.cn/*
 *://*.7aj4vik.cn/*
+*://*.7chetuan.com/*
 *://*.7cka.com/*
 *://*.7dapps.com/*
 *://*.7daysle.com/*
@@ -2943,6 +2944,7 @@
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
 *://*.dmjtxt.com/*
+*://*.dmjx.com/*
 *://*.dmois.com/*
 *://*.dmxylll.com/*
 *://*.dn878ou.cn/*
@@ -3555,6 +3557,7 @@
 *://*.fyy5.com/*
 *://*.fyybs.com/*
 *://*.fzflbj.com/*
+*://*.fzfydbj.com/*
 *://*.fzjk.kxhsm.top/*
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
@@ -3701,6 +3704,7 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
+*://*.glehe.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
@@ -4436,6 +4440,7 @@
 *://*.hzjdt.com/*
 *://*.hzjgjk.com/*
 *://*.hzjihe.com/*
+*://*.hzjiucheng.com/*
 *://*.hzjj0s4.cn/*
 *://*.hzjkw.cn/*
 *://*.hzjqhz.com/*
@@ -6468,6 +6473,7 @@
 *://*.openhome.cc/*
 *://*.optbbs.com/*
 *://*.optima-ski.com/*
+*://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
 *://*.orbit-marine.buzz/*
@@ -8007,6 +8013,7 @@
 *://*.t0tmdqj.cn/*
 *://*.t109jgz.cn/*
 *://*.t1njhjn.cn/*
+*://*.t2gcap.com/*
 *://*.t2zmjr0.cn/*
 *://*.t3ql4vu.cn/*
 *://*.t3tu774.cn/*
