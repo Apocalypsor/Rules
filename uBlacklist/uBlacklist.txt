@@ -5100,6 +5100,7 @@
 *://*.jzdxcmm.com/*
 *://*.jzhyfrp.com/*
 *://*.jznbzl.com/*
+*://*.jzsalq.com/*
 *://*.jzship88.com/*
 *://*.jzsoft.net/*
 *://*.jzsytj.com/*
@@ -5234,6 +5235,7 @@
 *://*.klmnv.cn/*
 *://*.klqcw.cn/*
 *://*.klt88.com/*
+*://*.km0769.com/*
 *://*.km2s.com/*
 *://*.km67.cn/*
 *://*.kma5.com/*
@@ -10671,6 +10673,8 @@
 *://m.jb51.net/*
 *://m.jianfeizhishiku.com/*
 *://m.jinse.com/*
+*://m.jstianyun.com/*
+*://m.kaisha88.com/*
 *://m.kokojia.com/*
 *://m.lhckds.com/*
 *://m.linecg.com/*
@@ -11076,6 +11080,7 @@
 *://www.18183.com/*
 *://www.1888generator.com/*
 *://www.218407.com/*
+*://www.218574.com/*
 *://www.235249.com/*
 *://www.23cpc.com/*
 *://www.24withyoo.com/*
@@ -11241,6 +11246,7 @@
 *://www.dvy.com.cn/*
 *://www.dxjiadian.com/*
 *://www.e5a5x.com/*
+*://www.easyatm.com.tw/*
 *://www.eddingmkt.com/*
 *://www.eeq8.com/*
 *://www.eeq8.com/*
@@ -11269,6 +11275,7 @@
 *://www.ghzssj.com/*
 *://www.glblkfw.com/*
 *://www.google.com/*
+*://www.grfyw.com/*
 *://www.guzhifa.com/*
 *://www.gxbbm.com/*
 *://www.gxqxd.com/*
