@@ -313,3 +313,4 @@
 *://*.moe.am/*
 *://*.toutiao.com/*
 *://*.tspweb.com/*
+*://*.skitter.nl/*
