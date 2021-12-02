@@ -875,6 +875,7 @@
 *://*.52hnncw.com/*
 *://*.52huitang.com/*
 *://*.52huixz.com/*
+*://*.52itzixun.com/*
 *://*.52movs.com/*
 *://*.52sdg.com/*
 *://*.52station.com/*
@@ -1636,6 +1637,7 @@
 *://*.anysafer.com/*
 *://*.anysm.cn/*
 *://*.anyun.org/*
+*://*.aoaiao.com/*
 *://*.aodumm.cn/*
 *://*.aoeset.cn/*
 *://*.aorta-ad.cn/*
@@ -3686,6 +3688,7 @@
 *://*.girlboy.cn/*
 *://*.github-wiki-see.page/*
 *://*.githubmemory.com/*
+*://*.githubmemory.com/*
 *://*.gitmemory.com/*
 *://*.gitmemory.com/*
 *://*.gittxgd.cn/*
@@ -3780,6 +3783,7 @@
 *://*.gradd.cn/*
 *://*.grafiquesmaral.buzz/*
 *://*.graphenstone-china.com/*
+*://*.grcamerada.com/*
 *://*.great-hall.cn/*
 *://*.greatparker.buzz/*
 *://*.greattop.cn/*
@@ -4568,6 +4572,7 @@
 *://*.immo-logis.net/*
 *://*.imooc.com/*
 *://*.imooc.com/*
+*://*.imtqy.com/*
 *://*.imxtk.com/*
 *://*.imzx9e7.cn/*
 *://*.in-soft.cn/*
@@ -4616,6 +4621,7 @@
 *://*.island-magic.buzz/*
 *://*.iso22000certification.com/*
 *://*.issue.life/*
+*://*.issueexplorer.com/*
 *://*.issuehub.io/*
 *://*.issuu.com/*
 *://*.it-swarm.asia/*
@@ -4662,8 +4668,12 @@
 *://*.itranslater.com/*
 *://*.itread01.com/*
 *://*.itread01.com/*
+*://*.its201.com/*
 *://*.its203.com/*
 *://*.its203.com/*
+*://*.its301.com/*
+*://*.its304.com/*
+*://*.its401.com/*
 *://*.its404.com/*
 *://*.its404.com/*
 *://*.itspxx.com/*
@@ -5979,6 +5989,7 @@
 *://*.modelosquetarojas.buzz/*
 *://*.modoaydinlatma.buzz/*
 *://*.moe.am/*
+*://*.moe.am/*
 *://*.moeblog.top/*
 *://*.mofish.work/*
 *://*.mokegod.com/*
@@ -6082,6 +6093,7 @@
 *://*.mwr8.cn/*
 *://*.mwsoso.com/*
 *://*.mwsoso.com/*
+*://*.mwwwguilinliwu.com/*
 *://*.mx185.com/*
 *://*.mxgroup.ru/*
 *://*.mxianhuo.com/*
@@ -6594,6 +6606,7 @@
 *://*.pclbjk0.cn/*
 *://*.pcm-capital.buzz/*
 *://*.pcok100.com/*
+*://*.pctantao.com/*
 *://*.pcuovl.cn/*
 *://*.pcworks.cn/*
 *://*.pczdyc.com/*
@@ -9048,6 +9061,7 @@
 *://*.wzjxwl.com/*
 *://*.wznk.net/*
 *://*.wzsky.net/*
+*://*.wzszf.com/*
 *://*.wzx123.com/*
 *://*.wzylzb.com/*
 *://*.x00zca1.cn/*
