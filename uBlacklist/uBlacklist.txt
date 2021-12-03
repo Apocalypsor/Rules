@@ -5019,6 +5019,7 @@
 *://*.jskm56.com/*
 *://*.jslzx.com/*
 *://*.jsmaiyu.com/*
+*://*.jsmeiguigu.com/*
 *://*.jsnongnong.com/*
 *://*.jsotransactions.buzz/*
 *://*.jsphp.net/*
