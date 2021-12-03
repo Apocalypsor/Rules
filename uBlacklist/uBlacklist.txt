@@ -10381,6 +10381,7 @@
 *://codeindex.ru/*
 *://codeleading.com/*
 *://codengineering.ru/*
+*://coderedirect.com/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
 *://codesearch.codelibs.org/*
@@ -10433,6 +10434,7 @@
 *://dz.jjckb.cn/*
 *://e-bamboo.com/*
 *://e-learn.cn/*
+*://easysavecode.com/*
 *://ecfhd.hy-b2b.com/*
 *://egny.fieldball.de/*
 *://el.lirenfs.com/*
@@ -10979,6 +10981,7 @@
 *://threejs.bld.mobi/*
 *://tianpingzuo.xkyn.com/*
 *://time.geekbang.org/*
+*://tipsfordev.com/*
 *://titanwolf.org/*
 *://tititi.cc/*
 *://tjlianhe.com/*
@@ -11061,6 +11064,7 @@
 *://warframecn.com/*
 *://wawb.mode-pur-tangermuende.de/*
 *://web-answers.ru/*
+*://webdevdesigner.com/*
 *://websou.cc/*
 *://wedt.rollender-bauernladen.de/*
 *://weisearch.cc/*
@@ -11287,6 +11291,7 @@
 *://www.generacodice.com/*
 *://www.generacodice.it/*
 *://www.ghcc.net/*
+*://www.ghcc.net/*
 *://www.ghzssj.com/*
 *://www.glblkfw.com/*
 *://www.google.com/*
@@ -11426,6 +11431,7 @@
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
 *://www.qhdsnyb.com/*
+*://www.qi-u.com/*
 *://www.qqbuding.com/*
 *://www.qu02.com/*
 *://www.qwe1234.com/*
@@ -11440,6 +11446,7 @@
 *://www.sdyongqiang.net/*
 *://www.sdzhqp.com/*
 *://www.sejuku.net/*
+*://www.semicolonworld.com/*
 *://www.shejiedu.com/*
 *://www.shellfishsoft.com/*
 *://www.shsgy.com/*
