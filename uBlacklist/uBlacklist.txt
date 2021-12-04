@@ -10198,6 +10198,7 @@
 *://23086096.carucc.com/*
 *://25cr2ni4w.com/*
 *://2tfosz.4pu.com/*
+*://312tn.lgncc.com.cn/*
 *://365airsoft.com/*
 *://373406.com/*
 *://373524.com/*
@@ -10208,6 +10209,7 @@
 *://3g.163.com/*
 *://3g.d1xz.net/*
 *://3w.86zjr.com/*
+*://3wx5h.xdkc.com.cn/*
 *://4000840088.com/*
 *://45.207.61.193/*
 *://47.94.110.84/*
@@ -10215,12 +10217,17 @@
 *://512.8viaggi.it/*
 *://52movs.com/*
 *://55478o.edns.biz/*
+*://5qq3h.kacq9f.cn/*
 *://66.wendadaohang.com/*
 *://67dwest.com/*
 *://6painted8.com/*
 *://7xhy.com/*
+*://88854.co/*
 *://91ai.net/*
+*://942ks.com/*
 *://9897sf.com/*
+*://9qcaw.axy7h8.cn/*
+*://9qkx.03s70r.cn/*
 *://a.4399.cn/*
 *://a78999.net/*
 *://aasou.cc/*
@@ -10229,6 +10236,7 @@
 *://acute3d-viewer-64-bit.updatestar.com/*
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
+*://afkgrup.com/*
 *://ahwdtz.com/*
 *://aihejin.com/*
 *://alwaysemmyhope.com/*
@@ -10274,6 +10282,7 @@
 *://bbs.itheima.com/*
 *://bbs.itying.com/*
 *://bestecode.com/*
+*://bggfx.com/*
 *://biancheng.45soft.com/*
 *://biancheng.dnbcw.net/*
 *://bildiredi.com/*
@@ -10304,6 +10313,7 @@
 *://blog.whsir.com/*
 *://blog.wu-boy.com/*
 *://blog.xuite.net/*
+*://bmnvpm3.sq733.cn/*
 *://bonprog.com/*
 *://book.itheima.net/*
 *://bossnet.com.cn/*
@@ -10319,6 +10329,7 @@
 *://bugsdb.com/*
 *://bvwc.lumea-verlag.de/*
 *://bvxu.officeroom.pl/*
+*://bzecu.1i6567.cn/*
 *://bzxzedu.com/*
 *://c.biancheng.net/*
 *://c.biancheng.net/*
@@ -10575,6 +10586,7 @@
 *://jdzl.v3ng.de/*
 *://jelly.jd.com/article/*
 *://jianboge.com/*
+*://jianfei395.com/*
 *://jiaocheng.hxsd.com/*
 *://jiehunliwu.9tu9.com/*
 *://jingyan.baidu.com/*
@@ -10627,6 +10639,7 @@
 *://llsc.mikeprange.de/*
 *://lojp.spiegleinportal.de/*
 *://longjin-art.com/*
+*://loomlobe.com/*
 *://lpgit.com/*
 *://lycaeum.dev/*
 *://m.0123366.com/*
@@ -10794,6 +10807,7 @@
 *://news.pchome.com.tw/*
 *://news.sina.cn/*
 *://news.sina.com.cn/*
+*://ngp.70c6nb.cn/*
 *://ni.cafegatto.com/*
 *://niubin.com.cn/*
 *://njchgd.com/*
@@ -10909,6 +10923,7 @@
 *://search.zonealarm.com/*
 *://segmentfault.com/*
 *://server.zhiding.cn/*
+*://sgjarts.com/*
 *://sgub.kerstinraphahn.de/*
 *://shangdixinxi.com/*
 *://share.wukongwenda.cn/*
@@ -11207,6 +11222,7 @@
 *://www.cctsuzhou.cn/*
 *://www.cdglsy.com/*
 *://www.cdkangrui.com/*
+*://www.cellophilia.com/*
 *://www.cglzzws.com/*
 *://www.chac.org.cn/*
 *://www.chenweiliang.com/*
@@ -11226,6 +11242,7 @@
 *://www.codeprj.com/*
 *://www.coder.work/*
 *://www.colabug.com/*
+*://www.cooltechsh.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
 *://www.cqzcds.com/*
@@ -11306,6 +11323,7 @@
 *://www.hanlefang.net/*
 *://www.hayaliicraat.com/*
 *://www.hbgdtech.com/*
+*://www.hbvtc857.com/*
 *://www.hbysa.com/*
 *://www.hbytenergy.com/*
 *://www.hellohagi.com/*
@@ -11376,6 +11394,7 @@
 *://www.lccnet.com.tw/*
 *://www.lengku114.com/*
 *://www.liao521.com/*
+*://www.liderozelopelservisi.com/*
 *://www.lingxi8.com/*
 *://www.liyazy.com/*
 *://www.lnmonet.com/*
@@ -11475,6 +11494,7 @@
 *://www.taoguba.com.cn/*
 *://www.teapm.com/*
 *://www.techhubonline.com/*
+*://www.teyuesh.com/*
 *://www.tgidrinks.com/*
 *://www.tianjinxiaochi.com/*
 *://www.titanwolf.org/*
@@ -11576,6 +11596,7 @@
 *://www.zhangshengrong.com/*
 *://www.zhcw77.com/*
 *://www.zhetiaohe.com/*
+*://www.zhichangtiao.com/*
 *://www.zhijiaw.com/*
 *://www.zhipanyou.com/*
 *://www.zhongtoujianlian.com/*
@@ -11597,6 +11618,7 @@
 *://xfqc186.com/*
 *://xiao66688.com/*
 *://xiaogan.ganji.com/*
+*://xichangitem.com/*
 *://xinsearch.cc/*
 *://xiu2.net/*
 *://xjbol.com/*
@@ -11616,6 +11638,7 @@
 *://yilj.programmierbare-materie.de/*
 *://yingxiao.baidu.com/*
 *://yktq.prolocoformia.it/*
+*://youfx.cc/*
 *://yousearch.cc/*
 *://yp.jd.com/*
 *://yq.aliyun.com/*
