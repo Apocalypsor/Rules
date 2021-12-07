@@ -11043,6 +11043,7 @@
 *://stackovergo.com/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
+*://stackqna.com/*
 *://stackru.com/*
 *://stackz.ru/en/*
 *://stackz.ru/ru/*
@@ -11652,6 +11653,7 @@
 *://www.xknote.com/*
 *://www.xknote.com/*
 *://www.xmsyjgg.com/*
+*://www.xsprogram.com/*
 *://www.xsybtqp.com/*
 *://www.xtoolsoft.com/*
 *://www.xuanpinzhi.net/*
