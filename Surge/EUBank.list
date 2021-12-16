@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,myahmed.com
 
 # Monzo
 DOMAIN-SUFFIX,monzo.com
+
+# Plutus
+DOMAIN-SUFFIX,plutus.it
