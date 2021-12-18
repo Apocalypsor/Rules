@@ -10477,6 +10477,7 @@
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://code.js-code.com/*
+*://codechacha.com/*
 *://codeday.me/*
 *://codeguides.site/*
 *://codehero.jp/*
@@ -10590,6 +10591,7 @@
 *://getm4.aiyanqing.com/*
 *://ggzzdlm.com/*
 *://git2get.com/*
+*://gitanswer.com/*
 *://githubhelp.com/*
 *://githubmemory.com/*
 *://githubplus.com/*
@@ -10655,6 +10657,7 @@
 *://iskeke.com/*
 *://isolution.pro/*
 *://issue.life/*
+*://issueexplorer.com/*
 *://issuehunt.io/*
 *://issues-world.com/*
 *://it-swarm.asia/*
@@ -10723,6 +10726,7 @@
 *://legkovopros.ru/*
 *://lhafy.com/*
 *://lianyigcsl.com/*
+*://lifesaver.codes/*
 *://lifetimeuscn.com/*
 *://ligeshuka.com/*
 *://linksou.cc/*
@@ -10867,6 +10871,7 @@
 *://media.weibo.cn/*
 *://medium.com/*
 *://meifa.izhufu.net/*
+*://mexstroda.blogspot.com/*
 *://mincoon.com/*
 *://mjjcpu.com/*
 *://mjzj.com/*
