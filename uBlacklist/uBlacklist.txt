@@ -10470,6 +10470,7 @@
 *://cn.sunflowercreations.org/*
 *://cn.transcend-info.com/*
 *://cn.voidcc.com/*
+*://cndgn.com/*
 *://cnkth.liugushan.com/*
 *://cnls8.com/*
 *://cnode1.rssing.com/*
