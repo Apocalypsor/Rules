@@ -8431,6 +8431,7 @@
 *://*.tuidu.com/*
 *://*.tujour.com/*
 *://*.tukewang.com/*
+*://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
 *://*.tusfam.com/*
 *://*.tuvanduhoc.buzz/*
