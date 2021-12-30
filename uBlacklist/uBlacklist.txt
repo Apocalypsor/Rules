@@ -10489,6 +10489,7 @@
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
+*://codersatellite.com/*
 *://codesearch.codelibs.org/*
 *://community.fs.com/*
 *://contrologic.co.th/*
