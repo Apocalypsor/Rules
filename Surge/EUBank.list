@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,monzo.com
 
 # Plutus
 DOMAIN-SUFFIX,plutus.it
+
+# VitraCash
+DOMAIN-SUFFIX,vitracash.com
