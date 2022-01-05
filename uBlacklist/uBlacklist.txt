@@ -10597,6 +10597,7 @@
 *://ddxinwen.com/*
 *://de-vraag.com/*
 *://de.jbckj.com/*
+*://devbugfix.com/*
 *://developer.51cto.com/*
 *://developer.aliyun.com/article/*
 *://developer.aliyun.com/article/*
@@ -10641,6 +10642,7 @@
 *://express-news.me/*
 *://extension.info/*
 *://faculdadearidesa.instructure.com/*
+*://farath.com/*
 *://fazhiyanjiu.cn/*
 *://ffff65535.com/*
 *://file-extension.info/*
