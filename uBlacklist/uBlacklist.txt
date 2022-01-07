@@ -505,6 +505,7 @@
 *://*.29gjj.com/*
 *://*.2a2d75.dcmir4f.com/*
 *://*.2a76grb.cn/*
+*://*.2abdwap.club/*
 *://*.2ccumg6.cn/*
 *://*.2cute2care.buzz/*
 *://*.2dgyg2g.cn/*
@@ -1418,6 +1419,7 @@
 *://*.abcpowerwash.buzz/*
 *://*.abcsou.cc/*
 *://*.abdwap.work/*
+*://*.abdwap1.me/*
 *://*.abitibimining.buzz/*
 *://*.abks.hfges.top/*
 *://*.abltz.com/*
