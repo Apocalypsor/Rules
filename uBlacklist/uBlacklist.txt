@@ -11142,6 +11142,7 @@
 *://src-bin.com/*
 *://sswhsign.com/*
 *://stackanswers.net/*
+*://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
 *://stackovernet.com/*
