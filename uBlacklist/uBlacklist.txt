@@ -10467,6 +10467,7 @@
 *://9qcaw.axy7h8.cn/*
 *://9qkx.03s70r.cn/*
 *://a.4399.cn/*
+*://a2b9d.buzz/*
 *://a78999.net/*
 *://aasou.cc/*
 *://ab-tc.com/*
@@ -10519,6 +10520,7 @@
 *://bbs.huaweicloud.com/*
 *://bbs.itheima.com/*
 *://bbs.itying.com/*
+*://benicassimflights.com/*
 *://bestecode.com/*
 *://bggfx.com/*
 *://biancheng.45soft.com/*
@@ -10956,6 +10958,7 @@
 *://m.kaisha88.com/*
 *://m.kokojia.com/*
 *://m.lhckds.com/*
+*://m.libyaalwafa.com/*
 *://m.linecg.com/*
 *://m.mk369.com/*
 *://m.moxingyun.com/*
@@ -11414,6 +11417,7 @@
 *://www.8hhi.com/*
 *://www.91exam.org/*
 *://www.9999ktv.com/*
+*://www.999seling.com/*
 *://www.99caipiaoyl.cn/*
 *://www.9gft.com/*
 *://www.9pole.com/*
@@ -11539,6 +11543,7 @@
 *://www.eeq8.com/*
 *://www.eeq8.com/*
 *://www.elecfans.com/*
+*://www.ericacarrclasses.com/*
 *://www.eternalcq.com/*
 *://www.extutorial.com/*
 *://www.fabaoonline.com/*
@@ -11638,6 +11643,7 @@
 *://www.kfwrlc.com/*
 *://www.knisterq.buzz/*
 *://www.kocpc.com.tw/*
+*://www.ksujpkt.com/*
 *://www.ksyun.com/developer/article/*
 *://www.labellemoriniere.com/*
 *://www.lace11111.com/*
@@ -11694,6 +11700,7 @@
 *://www.operatoriforex.com/*
 *://www.optoviki.buzz/*
 *://www.pai-hang-bang.com/*
+*://www.paseoparkview.com/*
 *://www.pconline.com.cn/*
 *://www.pdsqldz.com/*
 *://www.pingtaimeng.com/*
@@ -11708,6 +11715,7 @@
 *://www.qqbuding.com/*
 *://www.qu02.com/*
 *://www.qwe1234.com/*
+*://www.raggedyan.com/*
 *://www.richesinfo.com.tw/*
 *://www.right.com.cn/*
 *://www.ruten.com.tw/*
@@ -11741,6 +11749,7 @@
 *://www.sxhstc.com/*
 *://www.sxjswhcm.com/*
 *://www.syflooring.com/*
+*://www.sywq119.com/*
 *://www.szmyol.com/*
 *://www.talex-soft.com/*
 *://www.taobao.com/*
@@ -11887,6 +11896,7 @@
 *://xunii.com/*
 *://xw.qq.com/*
 *://xxlpt.com/*
+*://y.qichejiashi.com/*
 *://yangmao.info/*
 *://ycej0769.com/*
 *://yff.hbs163.com/*
