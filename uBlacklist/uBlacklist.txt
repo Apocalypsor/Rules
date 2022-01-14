@@ -10635,6 +10635,7 @@
 *://codeindex.ru/*
 *://codeleading.com/*
 *://codengineering.ru/*
+*://coder-solution-jp.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
@@ -10843,6 +10844,7 @@
 *://jishuin.proginn.com/*
 *://jisuc.com/*
 *://jjtk.lebenszeichen-fuerdieewigkeit.de/*
+*://jpndev.com/*
 *://jqljc.com/*
 *://jrccn.cn/*
 *://jrpw.webdesign-kiel-hamburg.de/*
@@ -11202,6 +11204,7 @@
 *://src-bin.com/*
 *://sswhsign.com/*
 *://stackanswers.net/*
+*://stackfinder.jp.net/*
 *://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
