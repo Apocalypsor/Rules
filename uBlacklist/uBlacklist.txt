@@ -1970,6 +1970,7 @@
 *://*.bhlzyy.com/*
 *://*.bi8n0u8.cn/*
 *://*.biabu.com.cn/*
+*://*.bianchengquan.com/*
 *://*.bicycle-zone.buzz/*
 *://*.biecuoliao.com/*
 *://*.big-tits-and-round-asses.com/*
@@ -3964,6 +3965,7 @@
 *://*.gyrocon.buzz/*
 *://*.gystdcbzx.com/*
 *://*.gystzsh.com/*
+*://*.gysywood.com/*
 *://*.gywex.cn/*
 *://*.gyzxg.com/*
 *://*.gz-guanglai.com/*
@@ -4950,6 +4952,7 @@
 *://*.jieshikj.com/*
 *://*.jietouxzz.com/*
 *://*.jiewanju.com/*
+*://*.jifengba.com/*
 *://*.jifutang68.com/*
 *://*.jigao616.com/*
 *://*.jihehuaban.com.cn/*
@@ -10458,6 +10461,7 @@
 *://5qq3h.kacq9f.cn/*
 *://66.wendadaohang.com/*
 *://67dwest.com/*
+*://6do.news/*
 *://6painted8.com/*
 *://7xhy.com/*
 *://88854.co/*
@@ -10565,6 +10569,7 @@
 *://brwhn.com/*
 *://bryanalders.com/*
 *://btgrcc.com/*
+*://bubuko.com/*
 *://bugjia.net/*
 *://bugsdb.com/*
 *://bvwc.lumea-verlag.de/*
@@ -10628,6 +10633,7 @@
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://code.js-code.com/*
+*://codeantenna.com/*
 *://codechacha.com/*
 *://codeday.me/*
 *://codeguides.site/*
@@ -10641,6 +10647,7 @@
 *://coderquestion.ru/*
 *://codersatellite.com/*
 *://codesearch.codelibs.org/*
+*://codetd.com/*
 *://community.fs.com/*
 *://contrologic.co.th/*
 *://cproda.com/*
@@ -10849,6 +10856,7 @@
 *://jrccn.cn/*
 *://jrpw.webdesign-kiel-hamburg.de/*
 *://jssou.cc/*
+*://juejin.cn/s/*
 *://jx.kuwo.cn/*
 *://jxcomment.jxnews.com.cn/*
 *://jzdxcmm.com/*
