@@ -11782,6 +11782,7 @@
 *://www.tty-1.net/*
 *://www.ttzhufu.com/*
 *://www.ucloud.cn/yun/*
+*://www.uebu-kaihatsu.jp.net/*
 *://www.uml.org.cn/*
 *://www.uni-ustyle.com.tw/*
 *://www.uoften.com/*
