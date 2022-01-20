@@ -11209,10 +11209,12 @@
 *://sounote.cc/*
 *://sozdizimi.com/*
 *://sprosi.pro/*
+*://sqlite.in/*
 *://src-bin.com/*
 *://sswhsign.com/*
 *://stackanswers.net/*
 *://stackfinder.jp.net/*
+*://stackguides.com/*
 *://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
