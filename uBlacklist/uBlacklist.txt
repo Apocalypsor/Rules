@@ -11,6 +11,7 @@
 *://*.00s3t3k.cn/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
+*://*.01076hk.cc/*
 *://*.010826.cn/*
 *://*.010999120.com/*
 *://*.010zxyy.com/*
@@ -209,6 +210,7 @@
 *://*.10241314.com/*
 *://*.1024dns.com/*
 *://*.1024sky.cn/*
+*://*.1024sou.com/*
 *://*.1024sou.com/*
 *://*.1024toyou.com/*
 *://*.103.hk/*
@@ -1335,6 +1337,7 @@
 *://*.99ku.vip/*
 *://*.99mingpian.com/*
 *://*.99ppc.cn/*
+*://*.99seba.com/*
 *://*.99sf.org.cn/*
 *://*.99suliao.com/*
 *://*.9alife.com/*
@@ -1524,6 +1527,7 @@
 *://*.aiwalls.com/*
 *://*.aixku.com/*
 *://*.aiyanqing.com/*
+*://*.aiyingli.com/*
 *://*.aizgu.com/*
 *://*.aizhanzhe.com/*
 *://*.aj5g102.cn/*
@@ -2139,6 +2143,7 @@
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
 *://*.bugelun.com/*
+*://*.bugelun.com/*
 *://*.bugshoot.cn/*
 *://*.buitragonotaria.buzz/*
 *://*.bulinwh.com/*
@@ -2195,6 +2200,7 @@
 *://*.ca88-com.net/*
 *://*.caao.net/*
 *://*.cab22.com/*
+*://*.cache.one/*
 *://*.cadfanholidays.co.uk/*
 *://*.cafegatto.com/*
 *://*.cagmbh.com/*
@@ -2555,6 +2561,7 @@
 *://*.conceptcar.ee/*
 *://*.congga.cn/*
 *://*.contrex-us.buzz/*
+*://*.coolcxy.com/*
 *://*.cooldemo.net/*
 *://*.coolpotcc.com/*
 *://*.coolroofcoating.net/*
@@ -2688,6 +2695,7 @@
 *://*.cxjygj.com/*
 *://*.cxjygj.com/*
 *://*.cxmht.com/*
+*://*.cxy80.com/*
 *://*.cxybb.com/*
 *://*.cxybb.com/*
 *://*.cxybl.com/*
@@ -2733,6 +2741,7 @@
 *://*.czzxtl.com/*
 *://*.czzymy.com/*
 *://*.d.zymrg.com/*
+*://*.d1mm.com/*
 *://*.d1wnuzt.cn/*
 *://*.d2e3ylg.cn/*
 *://*.d2f4gfn.cn/*
@@ -3400,6 +3409,7 @@
 *://*.fheh.com.cn/*
 *://*.fhkyg.cricket/*
 *://*.fhsas.com/*
+*://*.fhsas.com/*
 *://*.fibrenet.cn/*
 *://*.fifth028.com/*
 *://*.fileextension.info/*
@@ -3637,6 +3647,7 @@
 *://*.gbw888.com/*
 *://*.gc0519.com/*
 *://*.gcg8.cn/*
+*://*.gclcg.com/*
 *://*.gcm888.com/*
 *://*.gcxmx.com/*
 *://*.gd12121.com/*
@@ -3666,6 +3677,7 @@
 *://*.geek-share.com/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
+*://*.geekcxy.com/*
 *://*.geekschool.org/*
 *://*.gegoods.com/*
 *://*.geiso.cn/*
@@ -3966,6 +3978,7 @@
 *://*.gzxjsj.com/*
 *://*.gzxznfdc.com/*
 *://*.gzydmy.com/*
+*://*.gzyonghua.com/*
 *://*.gzytdl.com/*
 *://*.gzyts888.com/*
 *://*.gzyxwhcm.com/*
@@ -4364,6 +4377,7 @@
 *://*.htdzzk.com.cn/*
 *://*.htl8.com/*
 *://*.html.cn/*
+*://*.html52.com/*
 *://*.html580.com/*
 *://*.html5star.com/*
 *://*.htourworld.com/*
@@ -4682,6 +4696,7 @@
 *://*.itakesoft.com/*
 *://*.italgrip.buzz/*
 *://*.itaotaotao.com/*
+*://*.itbaoku.cn/*
 *://*.itbiancheng.com/*
 *://*.itbiancheng.com/*
 *://*.itchosun.buzz/*
@@ -4692,6 +4707,7 @@
 *://*.ite51.com/*
 *://*.itectec.com/*
 *://*.iter01.com/*
+*://*.itest.info/*
 *://*.iteye.com/*
 *://*.itigic.com/*
 *://*.itindex.net/*
@@ -4721,9 +4737,11 @@
 *://*.its404.com/*
 *://*.its404.com/*
 *://*.its500.com/*
+*://*.its500.com/*
 *://*.itspxx.com/*
 *://*.ittribalwo.com/*
 *://*.itvgm.cn/*
+*://*.itw01.com/*
 *://*.itw01.com/*
 *://*.itxm.net/*
 *://*.itxueyuan.org/*
@@ -5212,6 +5230,7 @@
 *://*.kangduotj.com/*
 *://*.kangmile.cn/*
 *://*.kanneenkruike.buzz/*
+*://*.kanporno.com/*
 *://*.kanzhongguo.com/*
 *://*.kaoyu.org/*
 *://*.kathymorganvoice.com/*
@@ -5544,6 +5563,7 @@
 *://*.liaohuadong.com/*
 *://*.libertyquiltshop.buzz/*
 *://*.libinlipin.com/*
+*://*.lic23.com/*
 *://*.lichengjk.com/*
 *://*.lidasen.cn/*
 *://*.lidemeifu.com/*
@@ -5562,6 +5582,7 @@
 *://*.likeji.net/*
 *://*.lilyid.com/*
 *://*.limbopro.xyz/*
+*://*.limitedcompany.net/*
 *://*.lindasoft.com/*
 *://*.lindberg-import.buzz/*
 *://*.lingerieorless.buzz/*
@@ -6889,6 +6910,7 @@
 *://*.puiba.com/*
 *://*.pukatiyu.com/*
 *://*.puleiying.com/*
+*://*.pumpym.com/*
 *://*.putasexo.buzz/*
 *://*.putianseo.net/*
 *://*.pv32ex.cn/*
@@ -8030,6 +8052,7 @@
 *://*.symjlm.com/*
 *://*.symrkq.com/*
 *://*.sync-computers.com/*
+*://*.sync-computers.com/*
 *://*.sypopo.com/*
 *://*.sysapi.com/*
 *://*.sysbpgl.com/*
@@ -8369,6 +8392,7 @@
 *://*.tqccc.cn/*
 *://*.tqlq6b6.cn/*
 *://*.tqw168.net/*
+*://*.tqwba.com/*
 *://*.tracksfree.com/*
 *://*.tradeboa.com/*
 *://*.trafficonline.cn/*
@@ -8861,6 +8885,7 @@
 *://*.weiyu99.com/*
 *://*.weiyuncity.com/*
 *://*.wekie.cn/*
+*://*.wellbay.cc/*
 *://*.wellness100.cc/*
 *://*.wellren.com/*
 *://*.wenda123.org/*
@@ -8928,6 +8953,7 @@
 *://*.whytcf.com/*
 *://*.whyzbr.com/*
 *://*.wienfm.com/*
+*://*.wifespicture.com/*
 *://*.wihvf3.cn/*
 *://*.wiilgz.com/*
 *://*.wiixin.com/*
@@ -9017,6 +9043,7 @@
 *://*.wowoka.com/*
 *://*.woyumi.com/*
 *://*.woywod2000.buzz/*
+*://*.wp2.cn/*
 *://*.wp2033b.cn/*
 *://*.wpf8.cn/*
 *://*.wph1.com/*
@@ -9500,6 +9527,7 @@
 *://*.yao51.com/*
 *://*.yaoanzx.com/*
 *://*.yaohuwh.com/*
+*://*.yaowenming.com/*
 *://*.yapingguo.cn/*
 *://*.yascs.com/*
 *://*.yaseng.cn/*
@@ -9903,6 +9931,7 @@
 *://*.zdccip.com/*
 *://*.zdes-film.com/*
 *://*.zdfaxhp.cn/*
+*://*.zditect.com/*
 *://*.ze3.234665.top/*
 *://*.ze7tpv2.cn/*
 *://*.zebh7.cn/*
@@ -9939,6 +9968,7 @@
 *://*.zgouman.com/*
 *://*.zgregwu.cn/*
 *://*.zgscxly.com/*
+*://*.zgserver.com/*
 *://*.zgsnqly.com/*
 *://*.zgsym.com/*
 *://*.zgtulong.com/*
