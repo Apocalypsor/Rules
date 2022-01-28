@@ -11429,6 +11429,7 @@
 *://www.i4k.xyz/*
 *://www.ispsd2015.com/*
 *://www.it-mure.jp.net/*
+*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
