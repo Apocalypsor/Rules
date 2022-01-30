@@ -3419,6 +3419,7 @@
 *://*.fhsas.com/*
 *://*.fibrenet.cn/*
 *://*.fifth028.com/*
+*://*.file-extension.org/*
 *://*.fileextension.info/*
 *://*.filipdippel.de/*
 *://*.filtrago.buzz/*
@@ -7505,6 +7506,7 @@
 *://*.scorui.com/*
 *://*.scptol.com/*
 *://*.scqsnc.com/*
+*://*.scriptcult.com/*
 *://*.scshzy.cn/*
 *://*.scswv.com/*
 *://*.scsz1975.com/*
@@ -10561,9 +10563,10 @@
 *://extension.info/*
 *://farath.com/*
 *://fazhiyanjiu.cn/*
+*://fes.wiki/*
 *://ffff65535.com/*
 *://file-extension.info/*
-*://file-extension.org/*
+*://fileinfo.jp/*
 *://filemagic.com/*
 *://files.biz/*
 *://finance.sina.com.cn/*
@@ -11063,6 +11066,7 @@
 *://sthuaguan.com/*
 *://stor.51cto.com/*
 *://stormcrow.dev/*
+*://submitfile.com/*
 *://suiyishop.cn/*
 *://sunhunjia.com/*
 *://sunnews.cc/*
@@ -11377,6 +11381,7 @@
 *://www.fengshouniao.cn/*
 *://www.fenzhanwang.com/*
 *://www.ffffgggga.com/*
+*://www.filetypes.jp/*
 *://www.finanziata.buzz/*
 *://www.fixes.pub/*
 *://www.fsadu.org.br/*
