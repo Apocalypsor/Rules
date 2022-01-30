@@ -5,6 +5,7 @@ DOMAIN,status.org.cn
 DOMAIN,bit.ly
 DOMAIN-SUFFIX,cloudraft.cn
 DOMAIN-SUFFIX,scloud.ac.cn
+DOMAIN-SUFFIX,bablosoft.com
 
 # > Apple
 DOMAIN-SUFFIX,apple-cloudkit.com
