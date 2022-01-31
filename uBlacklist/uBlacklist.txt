@@ -2519,6 +2519,7 @@
 *://*.codecocoa.com/*
 *://*.codeday.me
 *://*.codedefault.com/*
+*://*.codefaq.info/*
 *://*.codeflow.site/*
 *://*.codejzy.com/*
 *://*.codejzy.com/*
@@ -5951,6 +5952,7 @@
 *://*.me348i.cn/*
 *://*.meadinn.buzz/*
 *://*.media-ink.buzz/*
+*://*.mediatagtw.com/*
 *://*.medistaryn.com/*
 *://*.mefdjl.cn/*
 *://*.mehanltd.buzz/*
@@ -10343,6 +10345,7 @@
 *://aeam.nervenbahnmassage.de/*
 *://ahwdtz.com/*
 *://aihejin.com/*
+*://alltodev.com/*
 *://alwaysemmyhope.com/*
 *://anby.nico-locker.de/*
 *://androidcookie.com/*
@@ -10489,6 +10492,7 @@
 *://codeantenna.com/*
 *://codechacha.com/*
 *://codeday.me/*
+*://codefaq.ru/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://codeindex.ru/*
@@ -10655,6 +10659,7 @@
 *://iamlishuo.com/*
 *://iask.sina.com.cn/*
 *://iask.sina.com.cn/*
+*://ibootweb.com/*
 *://ichi.pro/*
 *://ichunqing.com/*
 *://icode9.com/*
@@ -10997,6 +11002,7 @@
 *://qroutinepanic.com/*
 *://quabr.com/*
 *://quares.ru/*
+*://question-it.com/*
 *://quick-geek.github.io/*
 *://qunkong.com.cn/*
 *://qwhy.motorradfreundeludwigshafen.de/*
@@ -11179,6 +11185,7 @@
 *://wawb.mode-pur-tangermuende.de/*
 *://web-answers.ru/*
 *://webdevdesigner.com/*
+*://webmonkez.com/*
 *://websou.cc/*
 *://wedt.rollender-bauernladen.de/*
 *://weisearch.cc/*
@@ -11241,6 +11248,7 @@
 *://www.58huangye.com/*
 *://www.58pjy.com/*
 *://www.591h9.com/*
+*://www.5axxw.com/*
 *://www.600911.cn/*
 *://www.60oi.com/*
 *://www.6400.net.cn/*
@@ -11459,6 +11467,7 @@
 *://www.jksb.com.cn/*
 *://www.jlqiou.com/*
 *://www.jnzcyl.com/*
+*://www.jscodetips.com/*
 *://www.jsnongnong.com/*
 *://www.jxfcar.com/*
 *://www.jyhgx.com/*
