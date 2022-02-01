@@ -10701,6 +10701,7 @@
 *://jianboge.com/*
 *://jiaocheng.hxsd.com/*
 *://jiehunliwu.9tu9.com/*
+*://jike.in/*
 *://jingyan.baidu.com/*
 *://jishuin.proginn.com/*
 *://jisuc.com/*
@@ -10955,6 +10956,7 @@
 *://profikoder.com/*
 *://progaide.com/*
 *://progexact.com/*
+*://progi.pro/*
 *://program.xiaobenzi.com/*
 *://programmerz.ru/*
 *://project-gutenberg.github.io/*
