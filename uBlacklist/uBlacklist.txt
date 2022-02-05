@@ -11616,6 +11616,7 @@
 *://www.wcwol.com/*
 *://www.wdfyw.com/*
 *://www.wdzj.com/*
+*://www.web-dev-qa.com/*
 *://www.webdevqa.jp.net/*
 *://www.webplus.org.cn/*
 *://www.webqdkf.com/*
