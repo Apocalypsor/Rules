@@ -3202,6 +3202,7 @@
 *://*.electronicstrip.buzz/*
 *://*.element-ui.cn/*
 *://*.elemw.cn/*
+*://*.elfishgene.com/*
 *://*.elianwares.com/*
 *://*.elisongs.com/*
 *://*.ellceedee.buzz/*
