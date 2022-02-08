@@ -10354,6 +10354,7 @@
 *://anningbaby.com/*
 *://answer-id.com/*
 *://answeright.com/*
+*://answerlib.com/*
 *://anysearch.cc/*
 *://api.9idudu.com/*
 *://appmedia.jp/*
