@@ -3699,6 +3699,7 @@
 *://*.generacodice.com/*
 *://*.gerecippower.buzz/*
 *://*.getaoquan.com/*
+*://*.getdocs.org/*
 *://*.getit01.com/*
 *://*.getool.com/*
 *://*.gfart.cn/*
