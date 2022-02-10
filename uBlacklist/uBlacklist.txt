@@ -3519,6 +3519,7 @@
 *://*.freeguo.com/*
 *://*.freesexvideosonline.buzz/*
 *://*.freesion.com/*
+*://*.freesion.com/*
 *://*.freetribe.me/*
 *://*.freewechat.com/*
 *://*.freyachina.com/*
