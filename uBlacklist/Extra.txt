@@ -314,3 +314,4 @@
 *://*.toutiao.com/*
 *://*.tspweb.com/*
 *://*.skitter.nl/*
+*://towardsdatascience.com/*
