@@ -11121,6 +11121,7 @@
 *://tortortor.pw/*
 *://tourcoder.com/*
 *://toutiao.sogou.com/*
+*://towardsdatascience.com/*
 *://trhjjnkj.com/*
 *://trhjxt.com.cn/*
 *://trp.qeeqw42.com.cn/*
