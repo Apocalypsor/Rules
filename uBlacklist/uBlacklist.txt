@@ -10354,6 +10354,7 @@
 *://androidcookie.com/*
 *://anjinxjhx.com/*
 *://anningbaby.com/*
+*://answacode.com/*
 *://answer-id.com/*
 *://answeright.com/*
 *://answerlib.com/*
@@ -10365,6 +10366,7 @@
 *://article.docway.net/*
 *://article.itxueyuan.com/*
 *://article.nxpop.com/*
+*://ask-dev.ru/*
 *://ask-ubuntu.ru/*
 *://ask.csdn.net/*
 *://ask.jisuapp.cn/*
