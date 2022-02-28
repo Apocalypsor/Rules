@@ -1682,6 +1682,7 @@
 *://*.arealcat.com/*
 *://*.argointernet.buzz/*
 *://*.ariadnesthread.cn/*
+*://*.arip-photo.org/*
 *://*.armgs.com/*
 *://*.armour-tires.buzz/*
 *://*.arrow-sales.buzz/*
