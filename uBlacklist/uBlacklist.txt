@@ -1,3 +1,4 @@
+
 *://*.001553.cn/*
 *://*.0028i.com/*
 *://*.003zuqiu.com/*
@@ -1312,6 +1313,7 @@
 *://*.97yrbl.com/*
 *://*.980pj.cn/*
 *://*.98248.loan/*
+*://*.985ys.com/*
 *://*.987yy.cn/*
 *://*.9897sf.com/*
 *://*.98ffn.cn/*
@@ -1584,11 +1586,13 @@
 *://*.ameliapharm.com/*
 *://*.amercoffee.buzz/*
 *://*.americankidswear.buzz/*
+*://*.amhnn.com/*
 *://*.amillionpoems.buzz/*
 *://*.amoyman.com/*
 *://*.ampblog.cn/*
 *://*.amphioninternational.buzz/*
 *://*.amuddycup.com/*
+*://*.amww.cc/*
 *://*.amxpj000.com/*
 *://*.amxpj25.com/*
 *://*.amzalborz.com/*
@@ -5422,6 +5426,7 @@
 *://*.kuwcuzo.cn/*
 *://*.kuxuan06.cn/*
 *://*.kvkft.com/*
+*://*.kvkft.com/*
 *://*.kvztngq.cn/*
 *://*.kwfvivoice.com/*
 *://*.kwsnc.cn/*
@@ -5939,6 +5944,7 @@
 *://*.mcs00qn.cn/*
 *://*.md63.cn/*
 *://*.md93.cn/*
+*://*.mdbsg.com/*
 *://*.mdcbbs.cn/*
 *://*.mdeditor.tw/*
 *://*.mdeditor.tw/*
