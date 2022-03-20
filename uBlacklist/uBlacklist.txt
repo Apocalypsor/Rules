@@ -2634,6 +2634,7 @@
 *://*.cocoachina.com/*
 *://*.coctec.com/*
 *://*.coddagn.cn/*
+*://*.code-examples.net/*
 *://*.code.i-harness.com/*
 *://*.code.js-code.com/*
 *://*.codeantenna.com/*
@@ -8752,6 +8753,7 @@
 *://*.tjzzedu.com/*
 *://*.tkjt999.com/*
 *://*.tklefpe.cn/*
+*://*.tl80.cn/*
 *://*.tl80.cn/*
 *://*.tlbbqq.com/*
 *://*.tlgg666.com/*
