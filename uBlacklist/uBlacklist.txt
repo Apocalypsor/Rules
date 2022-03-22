@@ -8404,7 +8404,6 @@
 *://*.superchanges.buzz/*
 *://*.superclubs.com.cn/*
 *://*.supermobileqa.com/*
-*://*.support.huaweicloud.com/*
 *://*.supremeppe.buzz/*
 *://*.surf4gifts.buzz/*
 *://*.surprise8.com/*
