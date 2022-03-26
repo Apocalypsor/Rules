@@ -11049,6 +11049,7 @@
 *://iwhqa.lostbooks.net/*
 *://j.17qq.com/*
 *://ja.coder.work/*
+*://jablogs.com/*
 *://jamyi.com/*
 *://jdzl.v3ng.de/*
 *://jianboge.com/*
@@ -11057,6 +11058,7 @@
 *://jisuc.com/*
 *://jjtk.lebenszeichen-fuerdieewigkeit.de/*
 *://jpcodeqa.com/*
+*://jpdebug.com/*
 *://jpndev.com/*
 *://jqljc.com/*
 *://jrccn.cn/*
