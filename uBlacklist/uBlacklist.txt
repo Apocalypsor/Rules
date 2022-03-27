@@ -2910,6 +2910,7 @@
 *://*.daimajiaoliu.com/*
 *://*.daimajiaoliu.com/*
 *://*.daimaqa.com/*
+*://*.daimazhu.com/*
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
 *://*.daiyun787.cn/*
@@ -5694,6 +5695,7 @@
 *://*.lafbr2m.cn/*
 *://*.lagou.com/*
 *://*.lagou.com/*
+*://*.laitimes.com/*
 *://*.lakewhitneyviews.buzz/*
 *://*.laksila.buzz/*
 *://*.lalibertejb.buzz/*
@@ -6217,6 +6219,7 @@
 *://*.mamicode.com/*
 *://*.mamifunr.com/*
 *://*.mammothlakescrib.com/*
+*://*.manbcode.com/*
 *://*.mandarintools.com/*
 *://*.manhua123.cn/*
 *://*.manleyst.com/*
