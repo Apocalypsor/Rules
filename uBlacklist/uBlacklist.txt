@@ -603,6 +603,7 @@
 *://*.365dxpt.com/*
 *://*.365jz.com/*
 *://*.365jz.com/article/*
+*://*.365seal.com/*
 *://*.365town.cn/*
 *://*.366ro4o.cn/*
 *://*.366service.com/*
@@ -1023,6 +1024,7 @@
 *://*.611fu.com/*
 *://*.617cq.com/*
 *://*.61uda9c.cn/*
+*://*.62.234.115.194/*
 *://*.6200wq.cn/*
 *://*.620386.com/*
 *://*.626927.com/*
@@ -2477,6 +2479,7 @@
 *://*.chenyuhi.com/*
 *://*.chezaiyi.cn/*
 *://*.chhuawei.com/*
+*://*.chi.centralbaptistquincyma.org/*
 *://*.chiharu-room.net/*
 *://*.chihome.com.tw/*
 *://*.chihovet.com.tw/*
@@ -2566,6 +2569,7 @@
 *://*.climat-lab.ru/*
 *://*.cll99.com/*
 *://*.clothw.com/*
+*://*.cloud.tencent.com/developer/information/*
 *://*.cloudsos.com.cn/*
 *://*.clqcqz.com/*
 *://*.clwdd.com/*
@@ -2579,12 +2583,15 @@
 *://*.cms88.net/*
 *://*.cmsay.com/*
 *://*.cn.17tv.tv/*
+*://*.cn.2md-tuning-klub.com/*
+*://*.cn.arip-photo.org/*
 *://*.cn.cambridgecableservice.com/*
 *://*.cn.computer-clans.com/*
 *://*.cn.delavaio.com/*
 *://*.cn.desmoineshvaccompany.com/*
 *://*.cn.dpbhouse.com/*
 *://*.cn.faithcov.org/*
+*://*.cn.handyradar.org/*
 *://*.cn.horecapolis.info/*
 *://*.cn.hostease.com/*
 *://*.cn.labourtalk.org/*
@@ -2902,6 +2909,7 @@
 *://*.daima.net/*
 *://*.daimajiaoliu.com/*
 *://*.daimajiaoliu.com/*
+*://*.daimaqa.com/*
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
 *://*.daiyun787.cn/*
@@ -2990,6 +2998,7 @@
 *://*.deepmx.com/*
 *://*.defelsko.net.cn/*
 *://*.deiniu.com/*
+*://*.delftstack.com/*
 *://*.delinvip.com/*
 *://*.delxypx.cn/*
 *://*.demonxx.com/*
@@ -3874,6 +3883,7 @@
 *://*.getit01.com/*
 *://*.getm4.aiyanqing.com/*
 *://*.getool.com/*
+*://*.geyinban.net/*
 *://*.gfart.cn/*
 *://*.gfgyyq.com/*
 *://*.gfhaoxin.com/*
@@ -4002,6 +4012,7 @@
 *://*.gouye.net/*
 *://*.gp5vllt.cn/*
 *://*.gpbctv.com/*
+*://*.gpd.world/*
 *://*.gpuhiyk.cn/*
 *://*.gpxz.com/*
 *://*.gq05zh7.cn/*
@@ -4615,6 +4626,7 @@
 *://*.huaweicloud.com/s/*
 *://*.huaweicloud.com/term/*
 *://*.huaweicloud.com/theme/*
+*://*.huaweicloud.com/theme/*
 *://*.huaweicloud.com/topic/*
 *://*.huaxing198.com/*
 *://*.huayeshuzi.com/*
@@ -4839,6 +4851,7 @@
 *://*.info863.com/*
 *://*.infonerve.com/*
 *://*.inglisheking.com/*
+*://*.initroot.com/*
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
@@ -4978,7 +4991,6 @@
 *://*.iweddingfavors.buzz/*
 *://*.iwocao.com/*
 *://*.ixianzong.com/*
-*://*.ixigua.com/*
 *://*.ixueshu.com/*
 *://*.ixueshu.com/*
 *://*.ixzzl8z.cn/*
@@ -5942,6 +5954,7 @@
 *://*.lotus-hotel.cn/*
 *://*.louewer.com/*
 *://*.lovegraco.cn/*
+*://*.lovelycxy.com/*
 *://*.lovesan33.cn/*
 *://*.loveuherbs.com/*
 *://*.loveyou521.com/*
@@ -6127,6 +6140,7 @@
 *://*.m.sdfcxw.com/*
 *://*.m.somode.com/*
 *://*.m.sowsunbaby.com/*
+*://*.m.studyofnet.com/*
 *://*.m.systemcity.cn/*
 *://*.m.taoqqba.com/*
 *://*.m.tribias.com/*
@@ -7327,6 +7341,7 @@
 *://*.q844h.cn/*
 *://*.q8ab.com/*
 *://*.q9vmpio.cn/*
+*://*.qa.1r1g.cn/*
 *://*.qa.1r1g.com/*
 *://*.qa.1r1g.com/*
 *://*.qacjjc.com/*
@@ -8265,6 +8280,7 @@
 *://*.some-itech.com/*
 *://*.somjj.com/*
 *://*.sonanone.com/*
+*://*.songbingjia.com/*
 *://*.songhepx.com/*
 *://*.songjian.site/*
 *://*.songkran2015.com/*
@@ -8309,6 +8325,7 @@
 *://*.sqbqzs.com/*
 *://*.sqf2a4r.cn/*
 *://*.sqhnxw.com/*
+*://*.sqlcodeqa.cc/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
 *://*.squncle.com/*
@@ -9326,6 +9343,7 @@
 *://*.webqdkf.com/*
 *://*.webrobb.buzz/*
 *://*.websajts.buzz/*
+*://*.websetnet.net/*
 *://*.websetnet.net/*
 *://*.websgj.com/*
 *://*.webxq.com/*
@@ -10483,6 +10501,7 @@
 *://*.zh-hant.hotbak.net/*
 *://*.zh.codepre.com/*
 *://*.zh.info-about.info/*
+*://*.zh.quish.tv/*
 *://*.zh.wikihow.com/*
 *://*.zhai168.cn/*
 *://*.zhaihai.com/*
