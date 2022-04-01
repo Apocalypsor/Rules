@@ -9513,6 +9513,7 @@
 *://*.wnslnog.cn/*
 *://*.wntzx.cn/*
 *://*.wnx8.cn/*
+*://*.wo152.com/*
 *://*.woaichaofl.com/*
 *://*.woaidaogu.com/*
 *://*.wobida.cn/*
