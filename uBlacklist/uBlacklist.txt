@@ -4343,6 +4343,7 @@
 *://*.heistzone.buzz/*
 *://*.heizhilin.com/*
 *://*.helebe.com/*
+*://*.hellocxy.com/*
 *://*.hellodemos.com/*
 *://*.hellohagi.com/*
 *://*.hellojava.com/*
@@ -5915,6 +5916,7 @@
 *://*.lm446.cn/*
 *://*.lmb8.cn/*
 *://*.lmd8.cn/*
+*://*.lmlphp.com/*
 *://*.lmmcqhr.cn/*
 *://*.lmonkey.com/*
 *://*.lmspt.com/*
@@ -7347,6 +7349,7 @@
 *://*.qa.1r1g.cn/*
 *://*.qa.1r1g.com/*
 *://*.qa.1r1g.com/*
+*://*.qa.icopy.site/*
 *://*.qacjjc.com/*
 *://*.qafone.co/*
 *://*.qastack.cn/*
@@ -8958,6 +8961,7 @@
 *://*.u0t8i03.cn/*
 *://*.u0xcy3r.cn/*
 *://*.u158q5.cn/*
+*://*.u19.cn/*
 *://*.u1cdpt1.cn/*
 *://*.u1nkwxv.cn/*
 *://*.u1vzj28.cn/*
@@ -10501,6 +10505,7 @@
 *://*.zgsnqly.com/*
 *://*.zgsym.com/*
 *://*.zgtulong.com/*
+*://*.zgxue.com/*
 *://*.zh-anyu.cn/*
 *://*.zh-hant.hotbak.net/*
 *://*.zh.codepre.com/*
