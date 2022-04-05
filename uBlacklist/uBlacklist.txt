@@ -10868,6 +10868,7 @@
 *://article.docway.net/*
 *://ask-dev.ru/*
 *://ask-ubuntu.ru/*
+*://askcodez.com/*
 *://askdev.info/*
 *://askdev.ru/*
 *://askdev.vn/*
