@@ -4886,7 +4886,6 @@
 *://*.iphonezu.com/*
 *://*.ipolarstar.cn/*
 *://*.ips8cz.com/*
-*://*.iqiyi.com/*
 *://*.iqnkooc.cn/*
 *://*.iqzbj.cn/*
 *://*.irc3mr0.cn/*
