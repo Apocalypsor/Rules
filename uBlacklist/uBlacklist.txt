@@ -1640,6 +1640,7 @@
 *://*.andorra-euro.com/*
 *://*.andre-aimaq.buzz/*
 *://*.andreasteunzer.buzz/*
+*://*.androidcookie.com/*
 *://*.anercn.com/*
 *://*.angelalbum.buzz/*
 *://*.angiefans.com/*
@@ -1755,6 +1756,7 @@
 *://*.asiannexus.buzz/*
 *://*.asians-xxx.buzz/*
 *://*.ask.csdn.net/*
+*://*.ask.helplib.com/*
 *://*.ask.jisuapp.cn/*
 *://*.ask.subar.me/*
 *://*.ask.todgo.com/*
@@ -2687,7 +2689,6 @@
 *://*.colabug.com/*
 *://*.colyi.cn/*
 *://*.com-car.buzz/*
-*://*.com.mx/*
 *://*.com.sinoextruder.net.cn/*
 *://*.comdevtech.buzz/*
 *://*.community.fs.com/*
@@ -5598,6 +5599,7 @@
 *://*.konka7556.com/*
 *://*.koon4.cn/*
 *://*.kos5bcz.cn/*
+*://*.koubeiblog.com/*
 *://*.koujipu.co/*
 *://*.kozykatskorner.buzz/*
 *://*.kpgbq.com/*
@@ -6389,6 +6391,7 @@
 *://*.mlgongyi.com/*
 *://*.mlj518.com/*
 *://*.mlog.club/*
+*://*.mlog.club/*
 *://*.mlog.club/article/*
 *://*.mlps6q6.cn/*
 *://*.mlq90rw.cn/*
@@ -6931,6 +6934,7 @@
 *://*.only1server.com/*
 *://*.ons123.cn/*
 *://*.ooea394.cn/*
+*://*.oomake.com/*
 *://*.oox8.com/*
 *://*.ooxy.esgpm.top/*
 *://*.op081ek.cn/*
@@ -7353,6 +7357,22 @@
 *://*.qafone.co/*
 *://*.qastack.cn/*
 *://*.qastack.cn/*
+*://*.qastack.co.in/*
+*://*.qastack.com.br/*
+*://*.qastack.com.de/*
+*://*.qastack.com.ua/*
+*://*.qastack.fr/*
+*://*.qastack.id/*
+*://*.qastack.in.th/*
+*://*.qastack.in/*
+*://*.qastack.info.tr/*
+*://*.qastack.it/*
+*://*.qastack.jp/*
+*://*.qastack.kr/*
+*://*.qastack.lk/*
+*://*.qastack.mx/*
+*://*.qastack.ru/*
+*://*.qastack.vn/*
 *://*.qazoynb.cn/*
 *://*.qb5200.com/*
 *://*.qb5200.com/*
@@ -7622,6 +7642,7 @@
 *://*.realestatetagtw.com/*
 *://*.reallifetucson.com/*
 *://*.rebatesu.com/*
+*://*.recalll.co/*
 *://*.rechigroup.com/*
 *://*.redspicks.buzz/*
 *://*.redsunbaby.cn/*
@@ -10922,6 +10943,7 @@
 *://cn.aliyun.com/ss/*
 *://cn.aliyun.com/sswm/*
 *://cn.filedict.com/*
+*://cn.voidcc.com/*
 *://cndgn.com/*
 *://cnkth.liugushan.com/*
 *://cnls8.com/*
@@ -11097,6 +11119,7 @@
 *://jznbzl.com/*
 *://k.sina.cn/*
 *://kaicen.cn/*
+*://kb.kutu66.com/*
 *://kcp58.com/*
 *://kinb.donauroyal.de/*
 *://kjch.ebaohui.cn/*
