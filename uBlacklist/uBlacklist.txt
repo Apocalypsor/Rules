@@ -451,6 +451,7 @@
 *://*.21zhongyao.com/*
 *://*.2201343.cn/*
 *://*.2217pacific.com/*
+*://*.222.5634111.com/*
 *://*.2266601.com/*
 *://*.2277449.cn/*
 *://*.228cp.cn/*
@@ -3786,6 +3787,7 @@
 *://*.fzsmlcn.com/*
 *://*.fzxunjie.com/*
 *://*.g.mh456.com/*
+*://*.g.penzai.com/*
 *://*.g.xker.com/*
 *://*.g0bcd5.cn/*
 *://*.g0jq8li.cn/*
@@ -4981,6 +4983,7 @@
 *://*.itxm.net/*
 *://*.itxueyuan.org/*
 *://*.ityet.com/*
+*://*.ityouknow.com/*
 *://*.ityuan.com/*
 *://*.iuggqtr.cn/*
 *://*.iuham.com/*
@@ -5043,6 +5046,7 @@
 *://*.javashuo.com/*
 *://*.javashuo.com/*
 *://*.javatt.com/*
+*://*.javazhiyin.com/*
 *://*.javazhiyin.com/*
 *://*.jaweno.com/*
 *://*.jayagy.com/*
@@ -6943,6 +6947,7 @@
 *://*.open-open.com/*
 *://*.open.com.hk/*
 *://*.openhome.cc/*
+*://*.opris.chengjinzm.com/*
 *://*.optbbs.com/*
 *://*.optima-ski.com/*
 *://*.optoviki.buzz/*
@@ -6995,6 +7000,7 @@
 *://*.overturechina.com/*
 *://*.owlapps.net/*
 *://*.owlinns.com/*
+*://*.owyje.0818hj.com/*
 *://*.oxinxian.com/*
 *://*.oxiranchem.com/*
 *://*.oxke.net/*
@@ -10739,6 +10745,7 @@
 *://*.zsmcl.com/*
 *://*.zsmulan.com/*
 *://*.zsqltz.com/*
+*://*.zst.ljyhky.com/*
 *://*.zswcn.com/*
 *://*.zswntech.com/*
 *://*.zsxzjt.cn/*
