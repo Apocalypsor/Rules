@@ -294,9 +294,11 @@
 *://*.15211104249.com/*
 *://*.15300.cn/*
 *://*.1546805.cn/*
+*://*.155.138.230.158/*
 *://*.1587555.com/*
 *://*.15888st.com/*
 *://*.158mz.cn/*
+*://*.159.138.37.243/*
 *://*.159.138.37.243/*
 *://*.1594331.cn/*
 *://*.15lq.cn/*
@@ -2843,9 +2845,13 @@
 *://*.cxybb.com/*
 *://*.cxybb.com/*
 *://*.cxybl.com/*
+*://*.cxydev.cc/*
+*://*.cxygjd.com/*
 *://*.cxymm.net/*
 *://*.cxymm.net/*
+*://*.cxyread.cc/*
 *://*.cxyy0429.cn/*
+*://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
 *://*.cxyzjd.com/*
 *://*.cxz114.com/*
@@ -4548,6 +4554,7 @@
 *://*.hotbgm.com/*
 *://*.hotel-britannic.buzz/*
 *://*.hotsync.cn/*
+*://*.houseword.com/*
 *://*.houtaiyun.com/*
 *://*.hovertree.com/*
 *://*.howietech.com/*
@@ -4965,6 +4972,7 @@
 *://*.its201.com/*
 *://*.its203.com/*
 *://*.its203.com/*
+*://*.its301.com/*
 *://*.its301.com/*
 *://*.its304.com/*
 *://*.its304.com/*
