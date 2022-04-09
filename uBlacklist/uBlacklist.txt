@@ -2681,6 +2681,7 @@
 *://*.codesearch.codelibs.org/*
 *://*.codesoftchina.com/*
 *://*.codetd.com/*
+*://*.codetd.com/*
 *://*.codingdict.com/*
 *://*.codingdict.com/*
 *://*.codingnote.cc/*
@@ -3333,6 +3334,7 @@
 *://*.ed2ks.com/*
 *://*.edchgo.cn/*
 *://*.editcode.net/*
+*://*.editcode.net/*
 *://*.edithllp.cn/*
 *://*.ediuschina.com/*
 *://*.edkdq3q.cn/*
@@ -3442,6 +3444,7 @@
 *://*.estherboesche.com/*
 *://*.estjc9.com/*
 *://*.estt94.cn/*
+*://*.etbot.net/*
 *://*.ete68e1.cn/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
@@ -6535,6 +6538,7 @@
 *://*.muzijx.com/*
 *://*.mv2i7.cn/*
 *://*.mvcomcz.cn/*
+*://*.mvpsky.com/*
 *://*.mvtiku.cn/*
 *://*.mwd8.cn/*
 *://*.mwenku.lingfengyun.com/*
@@ -9232,6 +9236,7 @@
 *://*.vpsmm.com/*
 *://*.vpsmr.com/*
 *://*.vpsurl.com/*
+*://*.vpsxxs.com/*
 *://*.vqgzsxm.cn/*
 *://*.vqtddz.cn/*
 *://*.vs-metallbildner.de/*
@@ -9426,6 +9431,7 @@
 *://*.wenda123.org/*
 *://*.wendangwang.com/*
 *://*.wenduyun.com/*
+*://*.wenjiangs.com/*
 *://*.wenku1.com/*
 *://*.wenliku.com/*
 *://*.wenlongkm.com/*
@@ -10873,6 +10879,8 @@
 *://39.108.60.68/*
 *://4000840088.com/*
 *://45.207.61.193/*
+*://45.62.238.160/*
+*://4563.org/*
 *://47.241.89.120/*
 *://52movs.com/*
 *://55478o.edns.biz/*
@@ -10889,6 +10897,7 @@
 *://aeam.nervenbahnmassage.de/*
 *://ahwdtz.com/*
 *://aihejin.com/*
+*://aiznh.com/*
 *://alltodev.com/*
 *://alwaysemmyhope.com/*
 *://androidcookie.com/*
@@ -10943,6 +10952,7 @@
 *://cainiaojiaocheng.com/*
 *://casino-pin-up-official.win/
 *://cdbike.net/*
+*://cdmana.com/*
 *://ceji.ayotechnology.de/*
 *://cf628.com/*
 *://chaosou.cc/*
@@ -10984,6 +10994,8 @@
 *://cyfq.women-selfdefense-regensburg.de/*
 *://czba.quazzle.de/*
 *://d.zymrg.com/*
+*://dacongyun.com/*
+*://dafuhua.com/*
 *://dafx.cc/*
 *://daijoubu-hai.osyaberiina.com/*
 *://daimajiaoliu.com/*
@@ -11001,6 +11013,7 @@
 *://dmi286.com/*
 *://dmpp.nasp3-5.de/*
 *://docs.tita.com/*
+*://dongdaima.com/*
 *://donolik.com/*
 *://dotblogs.com.tw/*
 *://dsj51.com/*
@@ -11010,6 +11023,7 @@
 *://e-bamboo.com/*
 *://e-learn.cn/*
 *://easysavecode.com/*
+*://eatash.com/*
 *://edupro.id/*
 *://egny.fieldball.de/*
 *://el.lirenfs.com/*
@@ -11077,6 +11091,7 @@
 *://hosf.flusskreuzfahrten-elbe.de/*
 *://host5778.com/*
 *://hostsidc.com/*
+*://hostzxw.com/*
 *://hoteles.bluevalencia.com/*
 *://howtofix.io/*
 *://htofe.com/*
@@ -11086,6 +11101,7 @@
 *://hyznkj.com/*
 *://hzhjjx.com/*
 *://hziho.com/*
+*://i4k.xyz/*
 *://iamlishuo.com/*
 *://iask.sina.com.cn/*
 *://ibootweb.com/*
@@ -11111,6 +11127,8 @@
 *://itectec.com/*
 *://iter01.com/*
 *://itranslater.com/*
+*://its301.com/*
+*://its304.com/*
 *://iwhqa.lostbooks.net/*
 *://j.17qq.com/*
 *://ja.coder.work/*
@@ -11221,6 +11239,7 @@
 *://neutrikmall.com/*
 *://newbedev.com/*
 *://ni.cafegatto.com/*
+*://niul.net/*
 *://njchgd.com/*
 *://njvhjp.hybrishop.com/*
 *://notesearch.cc/*
@@ -11250,6 +11269,7 @@
 *://progaide.com/*
 *://progexact.com/*
 *://progi.pro/*
+*://programmer.group/*
 *://programmerz.ru/*
 *://project-gutenberg.github.io/*
 *://pytannie.com/*
@@ -11809,6 +11829,7 @@
 *://www.zzbhg.com/*
 *://www.zzthmu.com/*
 *://wwwc809.com/*
+*://xa8.net/*
 *://xbuba.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xfqc186.com/*
@@ -11840,6 +11861,7 @@
 *://yyxingte.com/*
 *://yzf6.com/*
 *://yzonelife.com/*
+*://z.sogou.com/*
 *://zapcs.com/*
 *://zapytay.com/*
 *://zczz1.com/*
