@@ -6814,6 +6814,7 @@
 *://*.nsh8.cn/*
 *://*.nsyr3xc.cn/*
 *://*.ntbdvalve.com/*
+*://*.ntcdoon.org/*
 *://*.ntdtv.com//*
 *://*.ntfsformac.cc/*
 *://*.ntfsformac.cn/*
@@ -11117,6 +11118,7 @@
 *://inkworker.com/*
 *://intellipaat.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
+*://iquestion.pro/*
 *://iskeke.com/*
 *://isolution.pro/*
 *://issue.life/*
@@ -11275,6 +11277,7 @@
 *://progi.pro/*
 *://programmer.group/*
 *://programmerz.ru/*
+*://programmierfrage.com/*
 *://project-gutenberg.github.io/*
 *://pytannie.com/*
 *://python-stack.de/*
