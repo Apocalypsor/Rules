@@ -461,6 +461,7 @@
 *://*.22ggg.cn/*
 *://*.22head.com/*
 *://*.231127.com/*
+*://*.231327.com/*
 *://*.231395.com/*
 *://*.231715.com/*
 *://*.231727.com/*
@@ -7222,6 +7223,7 @@
 *://*.pnp8.com/*
 *://*.pns8.cn/*
 *://*.pny555.com/*
+*://*.pny9.com/*
 *://*.po369.com/*
 *://*.poemsoft.com/*
 *://*.poetnamelife.buzz/*
@@ -7337,6 +7339,8 @@
 *://*.py3study.com/*
 *://*.pyax021.cn/*
 *://*.pybyb.com/*
+*://*.pyk696.com/*
+*://*.pyk868.com/*
 *://*.python5.com/*
 *://*.pythonf.cn/*
 *://*.pythonf.cn/*
