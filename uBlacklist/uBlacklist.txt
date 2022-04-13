@@ -2022,6 +2022,7 @@
 *://*.biancheng.dnbcw.net/*
 *://*.bianchengquan.com/*
 *://*.bianchengquan.com/*
+*://*.bianmawd.cc/*
 *://*.bicycle-zone.buzz/*
 *://*.biecuoliao.com/*
 *://*.big-tits-and-round-asses.com/*
@@ -2103,6 +2104,7 @@
 *://*.bk8848.cn/*
 *://*.bkcmt.com/*
 *://*.bkmhgc0.cn/*
+*://*.bkrk.cc/*
 *://*.bl8t0xj.cn/*
 *://*.blackmesatrading.buzz/*
 *://*.blacktiny.buzz/*
@@ -2688,6 +2690,7 @@
 *://*.codesoftchina.com/*
 *://*.codetd.com/*
 *://*.codetd.com/*
+*://*.codewdw.com/*
 *://*.codingdict.com/*
 *://*.codingdict.com/*
 *://*.codingnote.cc/*
@@ -7344,6 +7347,7 @@
 *://*.pwelder.com/*
 *://*.pwf8.cn/*
 *://*.pwl8.cn/*
+*://*.pwpc.cc/*
 *://*.pwv8qi8.cn/*
 *://*.px55.cn/*
 *://*.pxb8.cn/*
