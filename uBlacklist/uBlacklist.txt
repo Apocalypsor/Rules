@@ -936,6 +936,7 @@
 *://*.54it.top/*
 *://*.55118885.com/*
 *://*.55468z8.cn/*
+*://*.555.gd/*
 *://*.5558xx.com/*
 *://*.555iw.com/*
 *://*.55667766.com/*
@@ -1723,6 +1724,7 @@
 *://*.apuestas21.buzz/*
 *://*.apyequan.com/*
 *://*.aqbbb.com/*
+*://*.aqtt.cc/*
 *://*.aquacool-gaffney.buzz/*
 *://*.ar3326k.cn/*
 *://*.arabian-gallery.buzz/*
@@ -1936,6 +1938,7 @@
 *://*.bccelue.com/*
 *://*.bccrwp.org/*
 *://*.bclvlbf.cn/*
+*://*.bcqaw.com/*
 *://*.bcqaw.com/*
 *://*.bctv082.cn/*
 *://*.bcylxs.com/*
@@ -2252,6 +2255,7 @@
 *://*.bugshoot.cn/*
 *://*.buitragonotaria.buzz/*
 *://*.bulinwh.com/*
+*://*.bupn.cc/*
 *://*.bupubcrawl.buzz/*
 *://*.bupubcrawls.buzz/*
 *://*.buscodepto.com/*
@@ -2530,6 +2534,7 @@
 *://*.chqonline.com/*
 *://*.chrome.playes.net/*
 *://*.chromes.cn/*
+*://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
 *://*.chuangyi86.com/*
@@ -4280,6 +4285,7 @@
 *://*.hard4it.com/*
 *://*.harmonyteck.com/*
 *://*.harrysurplus.buzz/*
+*://*.hashbet.casino/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
 *://*.hayaliicraat.com/*
@@ -4892,6 +4898,7 @@
 *://*.insitedesigns.net/*
 *://*.insurancefindersonline.com/*
 *://*.insurancewikitw.com/*
+*://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
 *://*.intellisense.io/*
 *://*.intellisys-haiti.buzz/*
@@ -5547,6 +5554,7 @@
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
 *://*.kexinfood.com/*
+*://*.key.dog/*
 *://*.keyshot.cc/*
 *://*.kf115.com/*
 *://*.kfbiji.com/*
@@ -5832,6 +5840,7 @@
 *://*.lgfvci.cn/*
 *://*.lgx168.com/*
 *://*.lhafy.com/*
+*://*.lhc.bet/*
 *://*.lhckds.com/*
 *://*.lhdwoug.cn/*
 *://*.lheqn5u.cn/*
@@ -6659,6 +6668,7 @@
 *://*.nbyoho.com/*
 *://*.nbyoho.com/*
 *://*.nbyunhaijx.cn/*
+*://*.nbz.ai/*
 *://*.nbzlmc.com/*
 *://*.nc3w7xk.cn/*
 *://*.ncb8.cn/*
@@ -8398,6 +8408,7 @@
 *://*.sqbqzs.com/*
 *://*.sqf2a4r.cn/*
 *://*.sqhnxw.com/*
+*://*.sql.la/*
 *://*.sqlcodeqa.cc/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
@@ -8420,6 +8431,7 @@
 *://*.sshkz.com/*
 *://*.ssiatvh.cn/*
 *://*.ssjxhy.com/*
+*://*.ssl.bet/*
 *://*.ssnkr.cn/*
 *://*.ssq02.com/*
 *://*.ssq13.com/*
@@ -9569,6 +9581,7 @@
 *://*.wk5shhb.cn/*
 *://*.wkda.cn/*
 *://*.wkee.net/*
+*://*.wkto.cc/*
 *://*.wla50se.cn/*
 *://*.wlccb.cn/*
 *://*.wldbs.com/*
@@ -9982,6 +9995,7 @@
 *://*.xp7rb9.cn/*
 *://*.xp8.net/*
 *://*.xphym.com/*
+*://*.xppc.cc/*
 *://*.xptian.com/*
 *://*.xptshanghai.com/*
 *://*.xpwp.com.cn/*
