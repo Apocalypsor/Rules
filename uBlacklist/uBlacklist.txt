@@ -252,6 +252,7 @@
 *://*.12312399.cn/*
 *://*.1233win.com/*
 *://*.12349.net/*
+*://*.123admin.com/*
 *://*.123boma.com/*
 *://*.123kxj.com/*
 *://*.123lulu.cn/*
@@ -267,6 +268,7 @@
 *://*.128ic.com/*
 *://*.128jq.cn/*
 *://*.128shoe.com/*
+*://*.129.226.226.195/*
 *://*.12dy.com/*
 *://*.12mtgf9.cn/*
 *://*.12xun.com/*
@@ -667,6 +669,7 @@
 *://*.3n3nhv4.cn/*
 *://*.3o32.com/*
 *://*.3pennycinema.buzz/*
+*://*.3qphp.com/*
 *://*.3rxing.org/*
 *://*.3rxing.org/*
 *://*.3sideslive.buzz/*
@@ -740,6 +743,7 @@
 *://*.44847.cn/*
 *://*.44849.cn/*
 *://*.4486084.cn/*
+*://*.45.76.17.132/*
 *://*.450204s.cn/*
 *://*.45410.cn/*
 *://*.4563.org/*
@@ -1263,6 +1267,7 @@
 *://*.8899yu.com/*
 *://*.88kka.com/*
 *://*.88pig.cn/*
+*://*.88vap.com/*
 *://*.8923.download/*
 *://*.89d48xf.cn/*
 *://*.8a.hk/*
@@ -2036,6 +2041,7 @@
 *://*.bianchengquan.com/*
 *://*.bianchengquan.com/*
 *://*.bianmawd.cc/*
+*://*.bianmawd.cc/*
 *://*.biaoqingb.com/*
 *://*.bicycle-zone.buzz/*
 *://*.biecuoliao.com/*
@@ -2226,6 +2232,7 @@
 *://*.bpmxq.com/*
 *://*.bpren.cn/*
 *://*.bqbaike.work/*
+*://*.bqtt.cc/*
 *://*.bqtt.cc/*
 *://*.br1500hs.com/*
 *://*.brainstormpk.buzz/*
@@ -2633,6 +2640,7 @@
 *://*.cn.pinlivingcolor.com/*
 *://*.cn.sanchezsalvador.com/*
 *://*.cn.siwib.org/*
+*://*.cn.skydivenewmarket.com/*
 *://*.cn.smnggeophysics.com/*
 *://*.cn.sunflowercreations.org/*
 *://*.cn.transcend-info.com/*
@@ -2884,6 +2892,7 @@
 *://*.cxymm.net/*
 *://*.cxymm.net/*
 *://*.cxyread.cc/*
+*://*.cxywk.com/*
 *://*.cxyy0429.cn/*
 *://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
@@ -3356,6 +3365,7 @@
 *://*.eappae.cn/*
 *://*.earmasterchina.cn/*
 *://*.earn2002.cn/*
+*://*.easesdk.com/*
 *://*.eastmay.cn/*
 *://*.eastonhotel.cn/*
 *://*.eastwoodpaper.buzz/*
@@ -3766,6 +3776,7 @@
 *://*.fr9byi.cn/*
 *://*.fra6hl.cn/*
 *://*.frag3.buzz/*
+*://*.frameboxxindore.com/*
 *://*.francispublications.buzz/*
 *://*.frat-movie.buzz/*
 *://*.freax.be/*
@@ -3870,6 +3881,7 @@
 *://*.g.xker.com/*
 *://*.g0bcd5.cn/*
 *://*.g0jq8li.cn/*
+*://*.g13.baidu.com/*
 *://*.g25cmfn.cn/*
 *://*.g3sixfb.cn/*
 *://*.g408.com/*
@@ -5413,6 +5425,7 @@
 *://*.js-fetion.cn/*
 *://*.js56878.com/*
 *://*.js83188.com/*
+*://*.jsbgp.com/*
 *://*.jsdongxin.com/*
 *://*.jsdxt.cn/*
 *://*.jsemw122.com/*
@@ -6212,6 +6225,7 @@
 *://*.m.cfan.com.cn/*
 *://*.m.cgmodel.com/*
 *://*.m.chashebao.com/*
+*://*.m.cnjita.com/*
 *://*.m.copyan.com/*
 *://*.m.cyhs888.com/*
 *://*.m.dgxhskkj.com/*
@@ -6260,6 +6274,7 @@
 *://*.m.tuituisoft.com/*
 *://*.m.v3nue.com/*
 *://*.m.wenda.so.com/*
+*://*.m.xiaodongdz.com/*
 *://*.m.xing73.com/*
 *://*.m.xp.cn/*
 *://*.m.xuexi.la/*
@@ -6488,6 +6503,7 @@
 *://*.minimidimaxidress.com/*
 *://*.mintcx.com/*
 *://*.mirgpro.ru/*
+*://*.mississippifaithinaction.org/*
 *://*.mississippifaithinaction.org/*
 *://*.misterzeng.com/*
 *://*.mitchsmotorcycles.com/*
@@ -6865,6 +6881,7 @@
 *://*.nk3ielk.cn/*
 *://*.nk40.com/*
 *://*.nkpz8u.cn/*
+*://*.nksou.cc/*
 *://*.nl38.cn/*
 *://*.nl85ob0.cn/*
 *://*.nladuktg.cn/*
@@ -6932,6 +6949,7 @@
 *://*.ntzhonglin.com/*
 *://*.nuanzhu100.com/*
 *://*.nujkw33.cn/*
+*://*.nuomiphp.com/*
 *://*.nutritiontheatre.com/*
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
@@ -6951,6 +6969,7 @@
 *://*.nyp655.com/*
 *://*.nyp655.com/*
 *://*.nywanai.com/*
+*://*.nyzcjc.com/*
 *://*.nzb8.cn/*
 *://*.nzchip.com/*
 *://*.nzhdvi.cn/*
@@ -7188,6 +7207,7 @@
 *://*.pblcode.com/*
 *://*.pbsfyee.cn/*
 *://*.pbup.cc/*
+*://*.pbup.cc/*
 *://*.pc-daily.com/*
 *://*.pc.geren-jianli.org/*
 *://*.pc0691.com/*
@@ -7306,6 +7326,7 @@
 *://*.pkjnp.com/*
 *://*.pkkpva.cn/*
 *://*.pknn.cc/*
+*://*.pknn.cc/*
 *://*.pktl.net/*
 *://*.pl91.cn/*
 *://*.placeandmap.com/*
@@ -7404,6 +7425,7 @@
 *://*.projectservers.net/*
 *://*.promar1.buzz/*
 *://*.promoworksnow.buzz/*
+*://*.proyy.com/*
 *://*.prtfp35.cn/*
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
@@ -8030,6 +8052,7 @@
 *://*.sanxingduii.com/*
 *://*.sanzda.com/*
 *://*.saojiejie.023mp.net/*
+*://*.saoniuhuo.com/*
 *://*.saopaulocalling.org/*
 *://*.saoweb.cn/*
 *://*.sartoriamoderna.com/*
@@ -8128,6 +8151,7 @@
 *://*.sdzwhmw.com/*
 *://*.seaofredinc.buzz/*
 *://*.seaolife.com/*
+*://*.search.bilibili.com/*
 *://*.search.discuz.qq.com/*
 *://*.sebastianyepesdesign.com/*
 *://*.sebina2006.cn/*
@@ -9014,6 +9038,7 @@
 *://*.toranj-co.com/*
 *://*.toriphile.buzz/*
 *://*.tourcoder.com/*
+*://*.tousu.in/*
 *://*.toutiao.com/*
 *://*.toutiao.io/*
 *://*.toutiao.sogou.com/*
@@ -9178,6 +9203,7 @@
 *://*.uc135.com/*
 *://*.ucbaike.com/*
 *://*.ucgbji0.cn/*
+*://*.ucloud.cn/*
 *://*.ucomcn.com/*
 *://*.ud3rihc.cn/*
 *://*.udcar.cn/*
@@ -10376,6 +10402,7 @@
 *://*.yingkehz.com/*
 *://*.yingshanrc.com/*
 *://*.yingshii.cn/*
+*://*.yingtwo.com/*
 *://*.yingxiao.baidu.com/*
 *://*.yingyuwen.com/*
 *://*.yinhai06ng.cn/*
@@ -10782,6 +10809,7 @@
 *://*.zhhmcm.com/*
 *://*.zhhyst.com/*
 *://*.zhi07j8.cn/*
+*://*.zhidao.baidu.com/index/?word=*/*
 *://*.zhihu.la/*
 *://*.zhihujingxuan.com/*
 *://*.zhijiad.com/*
