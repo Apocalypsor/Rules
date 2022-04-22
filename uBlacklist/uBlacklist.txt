@@ -1870,6 +1870,7 @@
 *://*.baidu.com.se/*
 *://*.baidu.com.swd1rsv_spt1rsv_iqid.1234on.com/*
 *://*.baidu.com.txzer.com/*
+*://*.baidu.com/s?word=*
 *://*.baidu.fileso.com/*
 *://*.baidu.mx/*
 *://*.baidu.seo-taiwan.com/*
@@ -2892,6 +2893,7 @@
 *://*.cxymm.net/*
 *://*.cxymm.net/*
 *://*.cxyread.cc/*
+*://*.cxywk.com/*
 *://*.cxywk.com/*
 *://*.cxyy0429.cn/*
 *://*.cxyzd.xyz/*
@@ -7056,6 +7058,7 @@
 *://*.oliobonamini.com/*
 *://*.olkyg.cn/*
 *://*.olxls.com/*
+*://*.olzl.net/*
 *://*.om00ibj.cn/*
 *://*.omatomeloanhikaku.com/*
 *://*.omerdesser.buzz/*
@@ -10720,6 +10723,7 @@
 *://*.zdes-film.com/*
 *://*.zdes-film.com/*
 *://*.zdfaxhp.cn/*
+*://*.zditect.com/*
 *://*.zditect.com/*
 *://*.ze3.234665.top/*
 *://*.ze7tpv2.cn/*
