@@ -50,11 +50,6 @@ jobs:
           curl -sS https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt >> /tmp/list && echo "" >> /tmp/list
           cat uBlacklist/Extra.txt >> /tmp/list
           cat /tmp/list | sed -e "s/^!.*//g" -e "s/^ *Update.*//g" -e "s/^#.*//g" -e "s/\*\.www\./*./g" -e "/^$/d" | sort -u > uBlacklist/uBlacklist.txt
-      - name: Update Zhihu
-        run: |
-          curl https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.js > ./Surge/Script/zhihu.js
-          sed -i "s/const settings_remove_yanxuan.*true/const settings_remove_yanxuan = true/g" ./Surge/Script/zhihu.js
-          sed -i "s/const settings_recommend_stream.*true/const settings_recommend_stream = true/g" ./Surge/Script/zhihu.js
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
