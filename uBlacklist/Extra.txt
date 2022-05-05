@@ -315,3 +315,6 @@
 *://*.tspweb.com/*
 *://*.skitter.nl/*
 *://*.wo152.com/*
+*://*.vgover.com/*
+*://*.piewan.com/*
+*://yuzu.news/*
