@@ -7298,6 +7298,7 @@
 *://*.picbr.com/*
 *://*.picciutofamily.buzz/*
 *://*.picis.cn/*
+*://*.piewan.com/*
 *://*.pigfun.cn/*
 *://*.piletoys.cn/*
 *://*.pilishen.com/*
@@ -9345,6 +9346,7 @@
 *://*.vfhzpxx.cn/*
 *://*.vfnxjn.cn/*
 *://*.vgold6688.com/*
+*://*.vgover.com/*
 *://*.vgrwzp.cn/*
 *://*.vgsa50t.cn/*
 *://*.vgz4b0n.cn/*
@@ -12081,6 +12083,7 @@
 *://yrhtech.com/*
 *://ytxjjx.com/*
 *://yues.org/*
+*://yuzu.news/*
 *://ywcreations.com/*
 *://yx.kbjcuiru.com/*
 *://yyspay.com/*
