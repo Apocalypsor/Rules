@@ -1735,6 +1735,7 @@
 *://*.apshengdun.com/*
 *://*.aptvgo.com/*
 *://*.apuapqr.cn/*
+*://*.apude.com/*
 *://*.apuestas21.buzz/*
 *://*.apyequan.com/*
 *://*.aqbbb.com/*
@@ -1748,6 +1749,7 @@
 *://*.argointernet.buzz/*
 *://*.ariadnesthread.cn/*
 *://*.arip-photo.org/*
+*://*.arkanhospitals.com/*
 *://*.armgs.com/*
 *://*.armour-tires.buzz/*
 *://*.arrow-sales.buzz/*
@@ -3935,6 +3937,7 @@
 *://*.gaoyongboke.com/*
 *://*.gapemill.com/*
 *://*.garantiparamatik.buzz/*
+*://*.gardaseepanorama.de/*
 *://*.gatenet1.buzz/*
 *://*.gatos.buzz/*
 *://*.gaydamax.com/*
@@ -5039,6 +5042,7 @@
 *://*.it1352.com/*
 *://*.it1352.com/*
 *://*.it145.com/*
+*://*.it1946.com/*
 *://*.it235.cn/*
 *://*.it5120.com/*
 *://*.it566.top/*
@@ -5098,6 +5102,7 @@
 *://*.its500.com/*
 *://*.its500.com/*
 *://*.itspxx.com/*
+*://*.ittone.ma/*
 *://*.ittribalwo.com/*
 *://*.itvgm.cn/*
 *://*.itw01.com/*
@@ -7149,6 +7154,7 @@
 *://*.ourmercado.buzz/*
 *://*.ours2008.com/*
 *://*.oustv.com/*
+*://*.outofmemory.cn/*
 *://*.outshine.cn/*
 *://*.ouub.cn/*
 *://*.ouyiyule8.com/*
@@ -7245,6 +7251,7 @@
 *://*.pcok100.com/*
 *://*.pconline.com.cn/*
 *://*.pcpn.cc/*
+*://*.pcppw.com/*
 *://*.pctantao.com/*
 *://*.pctantao.com/*
 *://*.pcuovl.cn/*
@@ -8511,6 +8518,7 @@
 *://*.soinside.com/*
 *://*.sokuer.com/*
 *://*.sokutu.com/*
+*://*.sole-verde.com/*
 *://*.solutions-team.buzz/*
 *://*.some-itech.com/*
 *://*.some-itech.com/*
@@ -8663,6 +8671,7 @@
 *://*.superchanges.buzz/*
 *://*.superclubs.com.cn/*
 *://*.supermobileqa.com/*
+*://*.superweb999.com/*
 *://*.supremeppe.buzz/*
 *://*.surf4gifts.buzz/*
 *://*.surprise8.com/*
@@ -9422,6 +9431,7 @@
 *://*.vivi158.com/*
 *://*.viwxhj3.cn/*
 *://*.viyunying.com/*
+*://*.vj04.com/*
 *://*.vj2jmm3.cn/*
 *://*.vjsun.com/*
 *://*.vjvkbgv.cn/*
@@ -10594,6 +10604,7 @@
 *://*.ythyyy14.com/*
 *://*.ytmushroom.com/*
 *://*.ytplqb.com/*
+*://*.ytso.com/*
 *://*.ytswx.com/*
 *://*.ytvgca.cn/*
 *://*.ytxjjx.com/*
