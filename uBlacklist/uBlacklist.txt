@@ -11552,6 +11552,7 @@
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
 *://qa.codeflow.site/*
+*://qa.icopy.site/*
 *://qacode.ru/*
 *://qapicks.com/*
 *://qarchive.ru/*
@@ -11588,6 +11589,7 @@
 *://qzczd.com/*
 *://qzjlnm.com/*
 *://read01.com/*
+*://reddit.fun/*
 *://riptutorial.com/*
 *://rnazzy.question2answer.website/*
 *://rohv.madame-creations.fr/*
