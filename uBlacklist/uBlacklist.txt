@@ -11301,7 +11301,6 @@
 *://eu.fwbdl.com/*
 *://exceptionshub.com/*
 *://extension.info/*
-*://farath.com/*
 *://fazhiyanjiu.cn/*
 *://fes.wiki/*
 *://ffff65535.com/*
@@ -11693,7 +11692,6 @@
 *://wawb.mode-pur-tangermuende.de/*
 *://web-answers.ru/*
 *://webdevdesigner.com/*
-*://webmonkez.com/*
 *://websou.cc/*
 *://wedt.rollender-bauernladen.de/*
 *://weisearch.cc/*
@@ -12045,7 +12043,9 @@
 *://www.wcwol.com/*
 *://www.wdfyw.com/*
 *://www.wdzj.com/*
+*://www.web-dev-qa-db-fr.com/*
 *://www.web-dev-qa-db-ja.com/*
+*://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
 *://www.webdevqa.jp.net/*
 *://www.weidik.com/*
