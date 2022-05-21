@@ -11246,6 +11246,7 @@
 *://codechacha.com/*
 *://codeday.me/*
 *://codefaq.ru/*
+*://codegrepr.com/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://codeindex.ru/*
@@ -11298,6 +11299,7 @@
 *://elxc.st-energieservices.fr/*
 *://eoncon.com/*
 *://eozy.vip-erfolgscoach.de/*
+*://errorsfixing.com/*
 *://eu.fwbdl.com/*
 *://exceptionshub.com/*
 *://extension.info/*
@@ -11602,6 +11604,7 @@
 *://scbingdiao.com/*
 *://search.zonealarm.com/*
 *://segmentfault.com/*
+*://serveanswer.com/*
 *://sgub.kerstinraphahn.de/*
 *://shangdixinxi.com/*
 *://shengqian001.com/*
@@ -11644,6 +11647,7 @@
 *://support.huaweicloud.com/topic/*
 *://switch-case.ru/*
 *://sxcpsjapp.org/*
+*://syntaxfix.com/*
 *://syoyougame.jp/*
 *://sysadminde.com/*
 *://syshizhi.com/*
