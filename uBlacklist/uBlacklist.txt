@@ -11554,6 +11554,7 @@
 *://qa.1r1g.com/*
 *://qa.codeflow.site/*
 *://qa.icopy.site/*
+*://qa.ostack.cn/*
 *://qacode.ru/*
 *://qapicks.com/*
 *://qarchive.ru/*
@@ -11708,6 +11709,7 @@
 *://wsearch.cc/*
 *://wthe.singende-wirte.de/*
 *://wtsearch.cc/*
+*://wujigu.com/*
 *://ww.106jsk.com/*
 *://ww1.wode6.com/*
 *://www.00004.org/*
