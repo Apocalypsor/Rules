@@ -1130,6 +1130,7 @@
 *://*.6z9kva.cn/*
 *://*.706qjdu.cn/*
 *://*.707o.com/*
+*://*.709xs.com/*
 *://*.70ol.com/*
 *://*.70sf.org/*
 *://*.710dnuv.com/*
@@ -1808,6 +1809,7 @@
 *://*.athletessolution.buzz/*
 *://*.atlanticecon.buzz/*
 *://*.atlanticpharmacyla.buzz/*
+*://*.atpp.cc/*
 *://*.attentionone.buzz/*
 *://*.attjp4.cn/*
 *://*.atwhcb.com/*
@@ -2022,6 +2024,7 @@
 *://*.besthuaxia.com/*
 *://*.bestoaa.com/*
 *://*.bestpdm.com/*
+*://*.bestsou.cc/*
 *://*.bethelroadsweepers.buzz/*
 *://*.betriebspaedagogik.buzz/*
 *://*.betsy0120.com/*
@@ -4075,6 +4078,7 @@
 *://*.girard-lakecity.buzz/*
 *://*.girlboy.cn/*
 *://*.git2get.com/*
+*://*.gitanswer.com/*
 *://*.giters.com/*
 *://*.github-wiki-see.page/*
 *://*.githubhelp.com/*
@@ -5637,6 +5641,7 @@
 *://*.k7f6g.cn/*
 *://*.k7so2q.cn/*
 *://*.k7stccl.cn/*
+*://*.k90e.com/*
 *://*.k9boxes.buzz/*
 *://*.k9hz4u8.cn/*
 *://*.kabaresta.com/*
@@ -5985,6 +5990,7 @@
 *://*.letaoshui.com/*
 *://*.levigrey.buzz/*
 *://*.leyendatour.buzz/*
+*://*.leyijc.com/*
 *://*.leyunad.com/*
 *://*.lf82.cn/*
 *://*.lf998.com/*
@@ -6318,6 +6324,7 @@
 *://*.m.hainanxiaochi.com/*
 *://*.m.hebeisian.com/*
 *://*.m.hexun.com/*
+*://*.m.hljbwjf.com/*
 *://*.m.hncmx.com/*
 *://*.m.hnnewx.com/*
 *://*.m.html.cn/*
@@ -6966,6 +6973,7 @@
 *://*.nk3ielk.cn/*
 *://*.nk40.com/*
 *://*.nkpz8u.cn/*
+*://*.nksou.cc/*
 *://*.nksou.cc/*
 *://*.nl38.cn/*
 *://*.nl85ob0.cn/*
@@ -10632,6 +10640,7 @@
 *://*.youdns13.com/*
 *://*.youdns4.com/*
 *://*.youdns5.com/*
+*://*.youfx.cc/*
 *://*.yougaowang.com/*
 *://*.youhuido.com/*
 *://*.youjinjia.com/*
@@ -10802,7 +10811,6 @@
 *://*.yzylzy.com/*
 *://*.yzzhonglu.com/*
 *://*.z.itpub.net/*
-*://*.z.sogou.com/*
 *://*.z.sogou.com/*
 *://*.z0bgb5i.cn/*
 *://*.z0i8y1l.cn/*
@@ -11546,6 +11554,7 @@
 *://yq.aliyun.com/*
 *://yuzu.news/*
 *://yx.kbjcuiru.com/*
+*://z.sogou.com/*
 *://z.sogou.com/web/searchList.jsp?keyword=*
 *://zapytay.com/*
 *://zhidao.baidu.com/index/?word=*
