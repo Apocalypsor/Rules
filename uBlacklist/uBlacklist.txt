@@ -11312,6 +11312,7 @@
 *://fileinfo.jp/*
 *://filemagic.com/*
 *://files.biz/*
+*://flutterhq.com/*
 *://flyzyblog.com/*
 *://flyzyblog.net/*
 *://fooobar.com/*
