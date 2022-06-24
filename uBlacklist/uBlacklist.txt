@@ -586,6 +586,7 @@
 *://*.3407001.com/*
 *://*.3456wan.cn/*
 *://*.345l.cn/*
+*://*.34yu.com/*
 *://*.351007.com/*
 *://*.3511844.cn/*
 *://*.35451.cn/*
@@ -1166,6 +1167,7 @@
 *://*.777xz.com/*
 *://*.77tui.cn/*
 *://*.782268.cn/*
+*://*.7880151.com/*
 *://*.788woool.com/*
 *://*.7891993.com/*
 *://*.78dzx.com/*
@@ -1444,6 +1446,7 @@
 *://*.a7zsboe.cn/*
 *://*.a8oglca.cn/*
 *://*.a8om15x.cn/*
+*://*.a8u.net/*
 *://*.a8youxi.com/*
 *://*.a9v0oxx.cn/*
 *://*.aaadddd.com/*
@@ -1907,6 +1910,7 @@
 *://*.baixsb.cn/*
 *://*.baiziy.com/*
 *://*.bajiaoyingshi.com/*
+*://*.bajiaoyingshi.com/*
 *://*.bajieyou.com/*
 *://*.bajieyou.com/*
 *://*.balagongzhu.cn/*
@@ -2067,6 +2071,7 @@
 *://*.biaoqingb.com/*
 *://*.bicycle-zone.buzz/*
 *://*.biecuoliao.com/*
+*://*.bieguolaia.com/*
 *://*.big-tits-and-round-asses.com/*
 *://*.bigdatabuy.com/*
 *://*.bigeunion.com/*
@@ -2300,6 +2305,7 @@
 *://*.bugshoot.cn/*
 *://*.buitragonotaria.buzz/*
 *://*.bulinwh.com/*
+*://*.bullforyou.com/*
 *://*.bupn.cc/*
 *://*.bupubcrawl.buzz/*
 *://*.bupubcrawls.buzz/*
@@ -2511,6 +2517,7 @@
 *://*.cgwindows.cn/*
 *://*.cgzjj.com/*
 *://*.ch1588.com/*
+*://*.chabuduoyang.com/*
 *://*.chabuduoyang.com/*
 *://*.chacalanghanoi.com/*
 *://*.chagzh.com/*
@@ -2925,6 +2932,7 @@
 *://*.cxybb.com/*
 *://*.cxybb.com/*
 *://*.cxybl.com/*
+*://*.cxyck.com/*
 *://*.cxydev.cc/*
 *://*.cxygjd.com/*
 *://*.cxymm.net/*
@@ -2999,6 +3007,7 @@
 *://*.dafn.cc/*
 *://*.dafuhua.com/*
 *://*.dafx.cc/*
+*://*.dahuazixun.site/*
 *://*.daidaigou.org/*
 *://*.daigoupiggy.com/*
 *://*.daima.net/*
@@ -3337,6 +3346,7 @@
 *://*.dunimd.com/*
 *://*.dunstanhardcastle.com/*
 *://*.duoduohelp.com/*
+*://*.duoke360.com/*
 *://*.duonao.cc/*
 *://*.duosf.org.cn/*
 *://*.duote.com/*
@@ -3504,6 +3514,7 @@
 *://*.elianwares.com/*
 *://*.elisongs.com/*
 *://*.eliveint.com/*
+*://*.eliveint.com/*
 *://*.ellceedee.buzz/*
 *://*.elsh79.cn/*
 *://*.elyjob.cn/*
@@ -3573,6 +3584,7 @@
 *://*.estarch.cn/*
 *://*.estherboesche.com/*
 *://*.estjc9.com/*
+*://*.estore-1.com/*
 *://*.estt.cc/*
 *://*.estt94.cn/*
 *://*.etbot.net/*
@@ -3952,6 +3964,7 @@
 *://*.g8028.com/*
 *://*.g8gbsq2.cn/*
 *://*.g8q9699.cn/*
+*://*.g9.baidu.com/*
 *://*.gaaf.klvgb.loan/*
 *://*.gacuqg.cn/*
 *://*.gadgetarq.com/*
@@ -4033,6 +4046,7 @@
 *://*.gene-therapeutix.buzz/*
 *://*.generacodice.com/*
 *://*.gerecippower.buzz/*
+*://*.gergj.top/*
 *://*.gershderbylaw.com/*
 *://*.getaoquan.com/*
 *://*.getdocs.org/*
@@ -4951,6 +4965,7 @@
 *://*.icode.best/*
 *://*.icode.best/*
 *://*.icode9.com/*
+*://*.icodebang.com/*
 *://*.iconworkshop.cn/*
 *://*.icoosky.com/*
 *://*.icplf.cn/*
@@ -5097,6 +5112,7 @@
 *://*.it5120.com/*
 *://*.it566.top/*
 *://*.it603.com/*
+*://*.it610.com/*
 *://*.it610.com/*
 *://*.it880880.com/*
 *://*.itakesoft.com/*
@@ -6357,6 +6373,7 @@
 *://*.m.studyofnet.com/*
 *://*.m.systemcity.cn/*
 *://*.m.taoqqba.com/*
+*://*.m.toutiao.com/*
 *://*.m.tribias.com/*
 *://*.m.tuituisoft.com/*
 *://*.m.v3nue.com/*
@@ -6402,6 +6419,7 @@
 *://*.magelinesc.com/*
 *://*.magicalcn.com/*
 *://*.maguro.cn/*
+*://*.mahu520.com/*
 *://*.mai14.com/*
 *://*.mai520.cn/*
 *://*.maijingang.com/*
@@ -7521,6 +7539,7 @@
 *://*.programminghunter.com/*
 *://*.programqa.com/*
 *://*.programtip.com/*
+*://*.progsoft.net/*
 *://*.projectbackpack.org/*
 *://*.projectservers.net/*
 *://*.promar1.buzz/*
@@ -7580,6 +7599,7 @@
 *://*.pxz8.cn/*
 *://*.py.cn/*
 *://*.py3study.com/*
+*://*.py5k.com/*
 *://*.pyax021.cn/*
 *://*.pybyb.com/*
 *://*.pyk696.com/*
@@ -8020,6 +8040,7 @@
 *://*.ronghuipin.com/*
 *://*.rongtaihe1879.com/*
 *://*.rongyidagl.com/*
+*://*.rongyidagl.com/*
 *://*.ronzhuan.com/*
 *://*.rookiesavior.net/*
 *://*.roseanhome.com/*
@@ -8065,6 +8086,7 @@
 *://*.ruby-china.org/*
 *://*.ruigejgj.cn/*
 *://*.ruilianmen666.com/*
+*://*.ruipinad.com/*
 *://*.ruiqs.com/*
 *://*.ruiyulm.com/*
 *://*.runronger.com/*
@@ -8342,6 +8364,7 @@
 *://*.shdsn118.com/*
 *://*.shegiveshead.buzz/*
 *://*.shehuiwenhua.com/*
+*://*.sheiwai.com/*
 *://*.shejiaodianshangshishenme.com/*
 *://*.shejizixue.com/*
 *://*.shellfishsoft.com/*
@@ -8494,6 +8517,7 @@
 *://*.sjztdhg.com/*
 *://*.sk2.net/*
 *://*.sk8lri4.cn/*
+*://*.skbkd.top/*
 *://*.skcard.cn/*
 *://*.skflawyer.com/*
 *://*.skh1oni.cn/*
@@ -8719,6 +8743,7 @@
 *://*.stmhxqs.com/*
 *://*.stor.51cto.com/*
 *://*.storewes.com/*
+*://*.string.quest/*
 *://*.structcalc.buzz/*
 *://*.stx160.com/*
 *://*.subaidajs.com/*
@@ -8899,6 +8924,7 @@
 *://*.taijimuye.com/*
 *://*.tajz5c.cn/*
 *://*.takecare.com.tw/*
+*://*.takedown.icu/*
 *://*.takedown.icu/*
 *://*.talex-soft.com/*
 *://*.talleralcubo.com/*
