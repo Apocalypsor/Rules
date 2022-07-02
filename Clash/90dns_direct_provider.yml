@@ -1,2 +1,4 @@
 payload:
-    <p>For more information about what we're up to, you can check out our <a href="https://about.gitlab.com/blog'
+  - 'conntest.nintendowifi.net'
+  - 'ctest.cdn.nintendo.net'
+  - '90dns.test'
