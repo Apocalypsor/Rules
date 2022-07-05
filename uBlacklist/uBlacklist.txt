@@ -6832,6 +6832,7 @@
 *://*.nachvb9.cn/*
 *://*.nacktfilm.buzz/*
 *://*.nadenegrey.buzz/*
+*://*.naifei.pro/*
 *://*.naijasme.buzz/*
 *://*.nailaila.cn/*
 *://*.nam.qiruigou.com/*
@@ -9575,6 +9576,7 @@
 *://*.voycn.com/*
 *://*.vpfwzjt.cn/*
 *://*.vplugins.com/*
+*://*.vpnranks.com/*
 *://*.vpsak.com/*
 *://*.vpsman.net/*
 *://*.vpsmm.com/*
