@@ -318,3 +318,5 @@
 *://*.vgover.com/*
 *://*.piewan.com/*
 *://yuzu.news/*
+*://*.naifei.pro/*
+*://*.vpnranks.com/*
