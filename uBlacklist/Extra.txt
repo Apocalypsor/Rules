@@ -320,3 +320,4 @@
 *://yuzu.news/*
 *://*.naifei.pro/*
 *://*.vpnranks.com/*
+*://pyerror.com/*
