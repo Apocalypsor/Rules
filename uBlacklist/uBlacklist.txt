@@ -11164,6 +11164,7 @@
 *://*.zhihujingxuan.com/*
 *://*.zhijiad.com/*
 *://*.zhijiaw.com/*
+*://*.zhilian.host/*
 *://*.zhinan.sogou.com/*
 *://*.zhipanyou.com/*
 *://*.zhishilin.com/*
@@ -11569,6 +11570,7 @@
 *://lifetimeuscn.com/*
 *://living-sun.com/*
 *://m.enkj.com/*
+*://m.toutiao.com/search?keyword=*
 *://machbbs.com/*
 *://matukusu-game.xyz/*
 *://mexstroda.blogspot.com/*
