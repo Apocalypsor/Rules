@@ -281,6 +281,7 @@
 *://*.136.la/*
 *://*.136.la/*
 *://*.136hh.com/*
+*://*.1377003.com/*
 *://*.137997.com/*
 *://*.137wl.cn/*
 *://*.137zw.com/*
@@ -645,7 +646,9 @@
 *://*.38zhan.cn/*
 *://*.39.107.74.11/*
 *://*.392623.com/*
+*://*.3955013.com/*
 *://*.3955015.com/*
+*://*.3997025.com/*
 *://*.3997025.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
@@ -680,6 +683,7 @@
 *://*.3n3nhv4.cn/*
 *://*.3o32.com/*
 *://*.3pennycinema.buzz/*
+*://*.3pppys.com/*
 *://*.3pppys.com/*
 *://*.3qphp.com/*
 *://*.3rxing.org/*
@@ -1067,6 +1071,7 @@
 *://*.62veuu.cn/*
 *://*.634001.com/*
 *://*.63458799.com/*
+*://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
 *://*.635sc.com/*
@@ -1081,6 +1086,7 @@
 *://*.64tianwang.com/*
 *://*.652951.com/*
 *://*.652zh.cn/*
+*://*.6532088.com/*
 *://*.655dj.com/*
 *://*.657981.com/*
 *://*.658990.com/*
@@ -1172,6 +1178,7 @@
 *://*.7465hy.com/*
 *://*.74koj8y.cn/*
 *://*.75.team/*
+*://*.7511156.com/*
 *://*.755hunqing.com/*
 *://*.75q.net/*
 *://*.75yy.com/*
@@ -3155,6 +3162,7 @@
 *://*.dcchildcustody.buzz/*
 *://*.dcdapp.com/*
 *://*.dcep676.com/*
+*://*.dcep676.com/*
 *://*.dcsdn.com/*
 *://*.dcxhnj.com/*
 *://*.ddccaa.com/*
@@ -3215,10 +3223,12 @@
 *://*.deyu1688.com/*
 *://*.df5d.com/*
 *://*.dfjdtz.com/*
+*://*.dfkre.com/*
 *://*.dflag.pw/*
 *://*.dflkj.top/*
 *://*.dflkj.top/*
 *://*.dfrzlc.com/*
+*://*.dfskw.top/*
 *://*.dfxiaoshuo.com/*
 *://*.dg4567.com/*
 *://*.dgbx888.com/*
@@ -3639,6 +3649,7 @@
 *://*.eqy5ym6.cn/*
 *://*.er3561.cn/*
 *://*.erdie826.com/*
+*://*.ergie.top/*
 *://*.erigd.com/*
 *://*.erjiinfo.com/*
 *://*.erlianhaote1.cn/*
@@ -3785,6 +3796,7 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf42.com/*
 *://*.fdf42.com/*
 *://*.fdf44.com/*
 *://*.fdf45.com/*
@@ -4778,6 +4790,7 @@
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
 *://*.home.kuniu.online/*
+*://*.homedt.net/*
 *://*.homefindernow.buzz/*
 *://*.homefindersint.buzz/*
 *://*.homeliva.com/*
@@ -5680,6 +5693,7 @@
 *://*.jus065o.cn/*
 *://*.jushengseo.com/*
 *://*.jusoso.com/*
+*://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
 *://*.jvagf.cn/*
 *://*.jvhzq9c.cn/*
@@ -5827,6 +5841,7 @@
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
+*://*.kewenba.com/*
 *://*.kexinfood.com/*
 *://*.key.dog/*
 *://*.keyshot.cc/*
@@ -6072,6 +6087,7 @@
 *://*.ldc11.com/*
 *://*.ldc99.com/*
 *://*.ldjljmh.cn/*
+*://*.ldkwi.top/*
 *://*.ldlgzs.com/*
 *://*.ldnpslv.cn/*
 *://*.ldoda.cn/*
@@ -6740,6 +6756,7 @@
 *://*.minghui.org/*
 *://*.mingrenze.com/*
 *://*.minijiaju.com/*
+*://*.minimalathletics.com/*
 *://*.minimidimaxidress.com/*
 *://*.mintcx.com/*
 *://*.mirgpro.ru/*
@@ -7454,6 +7471,7 @@
 *://*.paopaoche.net/*
 *://*.papa78.com/*
 *://*.paperbert.com/*
+*://*.paperbert.com/*
 *://*.paradacreativa.es/*
 *://*.paradiso.cat/*
 *://*.parkous.com/*
@@ -7623,6 +7641,7 @@
 *://*.pmtt.cc/*
 *://*.pmyx.net/*
 *://*.pn3p.com/*
+*://*.pn9y.com/*
 *://*.pnelwjz.cn/*
 *://*.pnih1wn.cn/*
 *://*.pnp8.com/*
@@ -8537,6 +8556,7 @@
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
 *://*.shenmedaquan.com/*
+*://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shenso.wang/*
 *://*.shenyun.com/*
@@ -9159,6 +9179,7 @@
 *://*.techwrestler.com/*
 *://*.tecnobreak.com/*
 *://*.tee-verkauf.buzz/*
+*://*.tee25.com/*
 *://*.teenagebabes.buzz/*
 *://*.teengurls.buzz/*
 *://*.teenpornoclub.buzz/*
@@ -10658,6 +10679,7 @@
 *://*.yaoanzx.com/*
 *://*.yaohuwh.com/*
 *://*.yaowenming.com/*
+*://*.yaowenming.com/*
 *://*.yapingguo.cn/*
 *://*.yascs.com/*
 *://*.yaseng.cn/*
@@ -11522,6 +11544,7 @@
 *://de.jbckj.com/*
 *://devdreamz.com/*
 *://developer.aliyun.com/article/*
+*://developer.aliyun.com/ask/*
 *://digitrain.ru/*
 *://donolik.com/*
 *://doraprojects.net/*
@@ -11589,6 +11612,7 @@
 *://lifetimeuscn.com/*
 *://living-sun.com/*
 *://m.enkj.com/*
+*://m.toutiao.com/*
 *://m.toutiao.com/search?keyword=*
 *://machbbs.com/*
 *://matukusu-game.xyz/*
