@@ -1848,6 +1848,7 @@
 *://*.assiette.pl/*
 *://*.asspunk.iteye.com/*
 *://*.assurancesmeilleur.buzz/*
+*://*.astonmartin-hangzhou.com/*
 *://*.asylan.com/*
 *://*.atamaldives.net/*
 *://*.athabasca-foto.com/*
@@ -1950,6 +1951,7 @@
 *://*.baipat.com/*
 *://*.baishengmedia.cn/*
 *://*.baishengyl82.date/*
+*://*.baitv.cc/*
 *://*.baiweisao.com/*
 *://*.baixsb.cn/*
 *://*.baiziy.com/*
@@ -2498,6 +2500,7 @@
 *://*.ccqczzy.com/*
 *://*.ccruihe.com/*
 *://*.ccsearch.cc/*
+*://*.ccsearch.cc/*
 *://*.cctgou.com/*
 *://*.cctime.com/*
 *://*.cctsuzhou.cn/*
@@ -2750,6 +2753,7 @@
 *://*.cn.sunflowercreations.org/*
 *://*.cn.transcend-info.com/*
 *://*.cn.voidcc.com/*
+*://*.cn.wayzata-homestead-harvest.com/*
 *://*.cn0931.cn/*
 *://*.cn2u39.cn/*
 *://*.cn3hr3g.cn/*
@@ -2907,6 +2911,7 @@
 *://*.cqrfny.com/*
 *://*.cqshuzhuo.com/*
 *://*.cqsscai3188.com/*
+*://*.cqtt.cc/*
 *://*.cqtt.cc/*
 *://*.cqxhfgz.com/*
 *://*.cqyqty.com/*
@@ -3680,6 +3685,7 @@
 *://*.estt94.cn/*
 *://*.etbot.net/*
 *://*.ete68e1.cn/*
+*://*.eternalelectronics.com/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
 *://*.etq3ae.cn/*
@@ -5527,6 +5533,7 @@
 *://*.jjkangdi.com/*
 *://*.jjs8.cn/*
 *://*.jjsx.com.cn/*
+*://*.jjub.cc/*
 *://*.jjvtkbeq.cn/*
 *://*.jjy9.com/*
 *://*.jjytsh.com/*
@@ -5952,6 +5959,7 @@
 *://*.ksjd3.cn/*
 *://*.ksjd9.cn/*
 *://*.ksjds3.cn/*
+*://*.ksou.cc/*
 *://*.ksou.cc/*
 *://*.kspzj.com/*
 *://*.ksxianglu.com/*
@@ -6508,6 +6516,7 @@
 *://*.m.s-on-s.com/*
 *://*.m.sbmmt.com/*
 *://*.m.sdfcxw.com/*
+*://*.m.shaoxingby.com/*
 *://*.m.shcuizhong.com/*
 *://*.m.shu74.com/*
 *://*.m.somode.com/*
@@ -6564,6 +6573,7 @@
 *://*.magarfid.com/*
 *://*.magarom.com/*
 *://*.magelinesc.com/*
+*://*.maggie-siff.com/*
 *://*.magicalcn.com/*
 *://*.maguro.cn/*
 *://*.mahu520.com/*
@@ -6803,6 +6813,7 @@
 *://*.mobans.com/*
 *://*.mobilephoneslive.com/*
 *://*.mobilewebsitebook.com/*
+*://*.mobillegends.net/*
 *://*.modb.pro/*
 *://*.modelosquetarojas.buzz/*
 *://*.modoaydinlatma.buzz/*
@@ -7092,6 +7103,7 @@
 *://*.nf91.cn/*
 *://*.nfajasi.cn/*
 *://*.nfrfest.com/*
+*://*.nfrmate.com/*
 *://*.nfrmate.com/*
 *://*.nfteap.org/*
 *://*.nfwjs.com/*
@@ -7506,6 +7518,7 @@
 *://*.pcok100.com/*
 *://*.pconline.com.cn/*
 *://*.pcpn.cc/*
+*://*.pcpn.cc/*
 *://*.pcppw.com/*
 *://*.pctantao.com/*
 *://*.pctantao.com/*
@@ -7916,12 +7929,14 @@
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
 *://*.qimei888.com/*
+*://*.qimowly.com/*
 *://*.qingkeyy.com/*
 *://*.qingniaosouti.com/*
 *://*.qingningtiku.com/*
 *://*.qingshi8.cn/*
 *://*.qinianqing.com/*
 *://*.qinnicy.com/*
+*://*.qinsen-la.com/*
 *://*.qioa.pw/*
 *://*.qiongbaba.net/*
 *://*.qiongling.com/*
@@ -9080,6 +9095,7 @@
 *://*.t-salon.cc/*
 *://*.t.cj.sina.com.cn/*
 *://*.t.codebug.vip/*
+*://*.t.zoukankan.com/*
 *://*.t0st9a.cn/*
 *://*.t0tmdqj.cn/*
 *://*.t109jgz.cn/*
@@ -9400,6 +9416,7 @@
 *://*.trafficonline.cn/*
 *://*.trampolinfm.cl/*
 *://*.traumland-musik.buzz/*
+*://*.trbethksua.web.app/*
 *://*.treeprice.cn/*
 *://*.tremplin-numerique.org/*
 *://*.trendsshop.cn/*
@@ -9882,7 +9899,6 @@
 *://*.wap.econ300.com/*
 *://*.wap.fmt2.com/*
 *://*.wap.fwt-zh.com/*
-*://*.wap.gamersky.com/*
 *://*.wap.h4ui.com/*
 *://*.wap.hxsd.com/*
 *://*.wap.pai-hang-bang.com/*
@@ -9968,6 +9984,7 @@
 *://*.weimintiyu.com/*
 *://*.weinblattfamily.buzz/*
 *://*.weipxiu.com/*
+*://*.weisearch.cc/*
 *://*.weisearch.cc/*
 *://*.weishengjkk.com/*
 *://*.weitt.cc/*
@@ -10326,6 +10343,7 @@
 *://*.xdsneaker.com/*
 *://*.xdsucai.com/*
 *://*.xdwy888.com/*
+*://*.xdyv.cc/*
 *://*.xdyv.cc/*
 *://*.xeasyauto.com/*
 *://*.xerer.com/*
@@ -10874,6 +10892,7 @@
 *://*.yon.hk/*
 *://*.yoneihan.com/*
 *://*.yonganwl.cn/*
+*://*.yongnongbiosciences.com/*
 *://*.yongvalley.com/*
 *://*.yongwenhu.com/*
 *://*.yoolle.com/*
