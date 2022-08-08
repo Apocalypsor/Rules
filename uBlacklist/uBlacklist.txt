@@ -11815,6 +11815,7 @@
 *://webdevdesigner.com/*
 *://wenjiangs.com/*
 *://while-do.com/*
+*://wp-qa.com/*
 *://www.366service.com/*
 *://www.5axxw.com/*
 *://www.aliyun.com/sswd/*
