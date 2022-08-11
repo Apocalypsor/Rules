@@ -8,6 +8,7 @@
 *://*.007sx.cn/*
 *://*.0082932.com/*
 *://*.0086cnc.com/*
+*://*.0099011.com/*
 *://*.0099033.com/*
 *://*.00s3t3k.cn/*
 *://*.01-123.com/*
@@ -494,6 +495,7 @@
 *://*.2587862.com/*
 *://*.2587862.com/*
 *://*.25cr2ni4w.com/*
+*://*.25duo.cn/*
 *://*.25pp.com/*
 *://*.25umb5.cn/*
 *://*.2612610.com/*
@@ -599,6 +601,7 @@
 *://*.356ae.com/*
 *://*.356ceo.com/*
 *://*.356jh.cn/*
+*://*.35df.cn/*
 *://*.35r48r.cn/*
 *://*.35wed.com/*
 *://*.35wed.com/*
@@ -1173,6 +1176,7 @@
 *://*.730r8m.cn/*
 *://*.732722.com/*
 *://*.7372.fun/*
+*://*.7372.fun/*
 *://*.7376.fun/*
 *://*.73aufl9.cn/*
 *://*.73o3ah.cn/*
@@ -1181,6 +1185,7 @@
 *://*.7465hy.com/*
 *://*.74koj8y.cn/*
 *://*.75.team/*
+*://*.7511156.com/*
 *://*.7511156.com/*
 *://*.755hunqing.com/*
 *://*.75q.net/*
@@ -1298,6 +1303,7 @@
 *://*.86jzdd.com/*
 *://*.86qg.cn/*
 *://*.870307.wang/*
+*://*.8712122.com/*
 *://*.87994.com/*
 *://*.87ha60d.cn/*
 *://*.87nmg.com/*
@@ -2039,6 +2045,7 @@
 *://*.bdrcmp.com/*
 *://*.bdsmzj.com/*
 *://*.bdtjbld.cn/*
+*://*.bduichenb.xyz/*
 *://*.bdw365.com/*
 *://*.bdwanfenghuagong.com/*
 *://*.bdzgd67.cn/*
@@ -3140,6 +3147,7 @@
 *://*.dapb.cc/*
 *://*.dape.cc/*
 *://*.dapg.cc/*
+*://*.dapingpai.com/*
 *://*.dapx.cc/*
 *://*.daqianduan.com/*
 *://*.dasearch.cc/*
@@ -3629,6 +3637,7 @@
 *://*.eliveint.com/*
 *://*.eliveint.com/*
 *://*.ellceedee.buzz/*
+*://*.elmercaditonacional.cl/*
 *://*.elsh79.cn/*
 *://*.elyjob.cn/*
 *://*.embash.cn/*
@@ -3810,6 +3819,7 @@
 *://*.fastso.cn/*
 *://*.fatie.me/*
 *://*.fatnvc.cn/*
+*://*.faxlibraryrxmjdm.netlify.app/*
 *://*.fazhiyanjiu.cn/*
 *://*.fbadorp.cn/*
 *://*.fbijeans.cn/*
@@ -3830,6 +3840,7 @@
 *://*.fdf45.com/*
 *://*.fdf55.com/*
 *://*.fdf58.com/*
+*://*.fdf63.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -3954,6 +3965,7 @@
 *://*.forenose.com/*
 *://*.forensicpsychologysussex.co.uk/*
 *://*.foreverglory.me/*
+*://*.forevertravel.it/*
 *://*.forgerynet.buzz/*
 *://*.formysql.com/*
 *://*.forum.gamer.com.tw/*
@@ -6809,6 +6821,7 @@
 *://*.minimalathletics.com/*
 *://*.minimidimaxidress.com/*
 *://*.mintcx.com/*
+*://*.mip.hongniumaoyi.com/*
 *://*.mirgpro.ru/*
 *://*.mississippifaithinaction.org/*
 *://*.mississippifaithinaction.org/*
@@ -8996,6 +9009,7 @@
 *://*.stmhxqs.com/*
 *://*.stor.51cto.com/*
 *://*.storewes.com/*
+*://*.stormfilesygioc.za.com/*
 *://*.string.quest/*
 *://*.structcalc.buzz/*
 *://*.stx160.com/*
@@ -9250,6 +9264,7 @@
 *://*.techwrestler.com/*
 *://*.tecnobreak.com/*
 *://*.tee-verkauf.buzz/*
+*://*.tee25.com/*
 *://*.tee25.com/*
 *://*.teenagebabes.buzz/*
 *://*.teengurls.buzz/*
@@ -9542,6 +9557,7 @@
 *://*.tuokehj.com/*
 *://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
+*://*.turkbet10mtly.web.app/*
 *://*.tusfam.com/*
 *://*.tuvanduhoc.buzz/*
 *://*.tuwends.com/*
@@ -11244,6 +11260,7 @@
 *://*.zgxue.com/*
 *://*.zh-anyu.cn/*
 *://*.zh-hant.hotbak.net/*
+*://*.zh.101-help.com/*
 *://*.zh.codepre.com/*
 *://*.zh.info-about.info/*
 *://*.zh.quish.tv/*
@@ -11301,6 +11318,7 @@
 *://*.zhixiangbaozhuang.net/*
 *://*.zhixinlu.com/*
 *://*.zhiya360.com/*
+*://*.zhiyinxx.xyz/*
 *://*.zhiyitech.net/*
 *://*.zhizhizhi.com/*
 *://*.zhizhusou.com/*
