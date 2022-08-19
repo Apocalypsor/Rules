@@ -11656,6 +11656,7 @@
 *://digitrain.ru/*
 *://donolik.com/*
 *://doraprojects.net/*
+*://dtuto.com/*
 *://e-learn.cn/*
 *://edupro.id/*
 *://errorsfixing.com/*
@@ -11840,6 +11841,7 @@
 *://www.aliyun.com/ysc/*
 *://www.answerlib.com/*
 *://www.anycodings.com/*
+*://www.appsloveworld.com/*
 *://www.baidu.com/*
 *://www.binarydevelop.com/*
 *://www.cnblogs.com/Marydon20170307/*
@@ -11884,6 +11886,7 @@
 *://www.manyanu.com/*
 *://www.mejorcodigo.com/*
 *://www.nuomiphp.com/*
+*://www.querythreads.com/*
 *://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.stackfinder.ru/*
