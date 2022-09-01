@@ -9826,6 +9826,7 @@
 *://vircloud.net/*
 *://vultrcn2.com/*
 *://web-answers.ru/*
+*://webdevask.com/*
 *://webdevdesigner.com/*
 *://wenjiangs.com/*
 *://while-do.com/*
