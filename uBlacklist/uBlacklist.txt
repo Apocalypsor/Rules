@@ -474,6 +474,7 @@
 *://*.29514.cn/*
 *://*.29534.cn/*
 *://*.2996299.com/*
+*://*.29fq.com/*
 *://*.29gjj.com/*
 *://*.2a2d75.dcmir4f.com/*
 *://*.2a76grb.cn/*
@@ -771,6 +772,7 @@
 *://*.515151game.com/*
 *://*.5151fn.com/*
 *://*.5151wy.com/*
+*://*.5175011.com/*
 *://*.517mcx.com/*
 *://*.5188r.com/*
 *://*.518luck.com/*
@@ -832,6 +834,7 @@
 *://*.52zrm.com/*
 *://*.52zswl.com/*
 *://*.5330.net.cn/*
+*://*.5339901.com/*
 *://*.535love.com/*
 *://*.53so79u.cn/*
 *://*.5403.net/*
@@ -862,6 +865,7 @@
 *://*.56dy56.cn/*
 *://*.56gouwu.com/*
 *://*.56weiyu.com/*
+*://*.5712007.com/*
 *://*.572cq.com/*
 *://*.5730.net/*
 *://*.576nkp.cn/*
@@ -950,6 +954,8 @@
 *://*.64tianwang.com/*
 *://*.652951.com/*
 *://*.652zh.cn/*
+*://*.6532033.com/*
+*://*.6532055.com/*
 *://*.6532088.com/*
 *://*.6532099.com/*
 *://*.655dj.com/*
@@ -1011,12 +1017,14 @@
 *://*.6yf8ipv.cn/*
 *://*.6yhg.com/*
 *://*.6z9kva.cn/*
+*://*.7017886.com/*
 *://*.706qjdu.cn/*
 *://*.707o.com/*
 *://*.709xs.com/*
 *://*.70ol.com/*
 *://*.710dnuv.com/*
 *://*.71usrc.cn/*
+*://*.7200500.com/*
 *://*.720com.cn/*
 *://*.720exl.cn/*
 *://*.723g.com.cn/*
@@ -1044,6 +1052,7 @@
 *://*.76likyx.cn/*
 *://*.7701238.com/*
 *://*.771k52p.cn/*
+*://*.7761551.com/*
 *://*.777enterprise.buzz/*
 *://*.777xz.com/*
 *://*.77tui.cn/*
@@ -1107,6 +1116,8 @@
 *://*.8084d.com/*
 *://*.80jep4o.cn/*
 *://*.8107778.com/*
+*://*.8122700.com/*
+*://*.8122900.com/*
 *://*.81819.download/*
 *://*.81823333.com/*
 *://*.818497.39164.com/*
@@ -1206,6 +1217,7 @@
 *://*.92ysflw.com/*
 *://*.93163js.com/*
 *://*.931782.com/*
+*://*.9338181.com/*
 *://*.937ka.com/*
 *://*.93hx6h.cn/*
 *://*.93mqbu.cn/*
@@ -2107,6 +2119,7 @@
 *://*.car0559.com/*
 *://*.careerengine.us/*
 *://*.carlalucente.com/*
+*://*.carptrix.com/*
 *://*.cartierwood.cn/*
 *://*.cartoluiza.buzz/*
 *://*.carucc.com/*
@@ -2362,6 +2375,7 @@
 *://*.codedefault.com/*
 *://*.codefaq.info/*
 *://*.codeflow.site/*
+*://*.codegrepper.com/*
 *://*.codejzy.com/*
 *://*.codeleading.com/*
 *://*.codenong.com/*
@@ -2764,6 +2778,7 @@
 *://*.djcxy.com
 *://*.djcxy.com/*
 *://*.djfd11.cn/*
+*://*.djnegroup.com/*
 *://*.djyz007.com/*
 *://*.djzz0q.cn/*
 *://*.dkchenpin.cn/*
@@ -2940,6 +2955,7 @@
 *://*.eastonhotel.cn/*
 *://*.eastwoodpaper.buzz/*
 *://*.easyatm.com.tw/*
+*://*.easyfootage.com/*
 *://*.easyrecoverychina.com/*
 *://*.easyzc.com/*
 *://*.eatash.com/*
@@ -3180,8 +3196,10 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf30.com/*
 *://*.fdf35.com/*
 *://*.fdf42.com/*
+*://*.fdf48.com/*
 *://*.fdf58.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
@@ -3492,6 +3510,7 @@
 *://*.gfsousou.cn/*
 *://*.gfsstp.com/*
 *://*.gftna.com/*
+*://*.gfzyecq.com/*
 *://*.ggc-asia.com/*
 *://*.gglzw.com/*
 *://*.ggsloreleykoelnde.com/*
@@ -3539,6 +3558,7 @@
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
 *://*.glehe.com/*
+*://*.glh5770.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
@@ -5169,6 +5189,7 @@
 *://*.lhz8.cn/*
 *://*.li36b.com/*
 *://*.liamharrington.buzz/*
+*://*.lianaiya.com/*
 *://*.liangmir.cn/*
 *://*.liangzl.com/*
 *://*.lianyi0898.com/*
@@ -9414,6 +9435,7 @@
 *://*.zjjbjjtq.com/*
 *://*.zjjiangbei.com/*
 *://*.zjjint.com/*
+*://*.zjkge.top/*
 *://*.zjlgyeda.com/*
 *://*.zjlianteng.com/*
 *://*.zjlimin.com/*
@@ -9460,6 +9482,7 @@
 *://*.zoikf.cn/*
 *://*.zondau.com/*
 *://*.zonghengjy.com/*
+*://*.zongmeimei.com/*
 *://*.zoohcpj.cn/*
 *://*.zoxuenl.cn/*
 *://*.zpcsg.cn/*
@@ -9588,6 +9611,7 @@
 *://45.207.61.193/*
 *://47.241.89.120/*
 *://55478o.edns.biz/*
+*://62.234.115.194/*
 *://711web.com/*
 *://91ai.net/*
 *://a78999.net/*
