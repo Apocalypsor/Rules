@@ -9967,6 +9967,7 @@
 *://www.semicolonworld.com/*
 *://www.stackfinder.ru/*
 *://www.taodudu.cc/*
+*://www.thecodeteacher.com/*
 *://www.titanwolf.org/*
 *://www.ucloud.cn/yun/*
 *://www.uebu-kaihatsu.jp.net/*
