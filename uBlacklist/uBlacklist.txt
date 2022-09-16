@@ -9771,6 +9771,7 @@
 *://iquestion.pro/*
 *://isolution.pro/*
 *://issue.life/*
+*://issuecloser.com/*
 *://issueexplorer.com/*
 *://issuehunt.io/*
 *://it-swarm.asia/*
