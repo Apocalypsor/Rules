@@ -9719,6 +9719,7 @@
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
+*://codeutility.org/*
 *://daijoubu-hai.osyaberiina.com/*
 *://dailydevsblog.com/*
 *://daplus.net/*
@@ -9894,6 +9895,7 @@
 *://tagsqa.com/*
 *://techacademy.jp/*
 *://techhelpnotes.com/*
+*://techinplanet.com/*
 *://thinbug.com/*
 *://tipsfordev.com/*
 *://truthmoviegroup.wixsite.com/*
