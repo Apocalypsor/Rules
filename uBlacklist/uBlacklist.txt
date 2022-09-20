@@ -9737,6 +9737,7 @@
 *://errorsfixing.com/*
 *://eu.fwbdl.com/*
 *://exceptionshub.com/*
+*://exchangetuts.com/*
 *://extension.info/*
 *://fes.wiki/*
 *://ffff65535.com/*
