@@ -17,11 +17,11 @@ function main(enable) {
   let home = ($network.wifi.ssid == ssid);
   if (home && !enable) {
     //家里,未开启模块 => 开启
-    $notification.post("开启dns模块","","")
+    $notification.post("开启Home模块","","")
     enableModule(true);
   } else if (!home && enable){
     //不是家里,开启了模块 => 关闭
-    $notification.post("关闭dns模块","","")
+    $notification.post("关闭Home模块","","")
     enableModule(false);
   } else {
     //重复触发 => 结束
