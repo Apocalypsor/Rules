@@ -1892,6 +1892,7 @@
 *://*.bikinidomains.buzz/*
 *://*.bilbotools.buzz/*
 *://*.billsun.cn/*
+*://*.binarydevelop.com/*
 *://*.binfun.cn/*
 *://*.bingdianhuanyuan.cn/*
 *://*.biogogreen.com/*
@@ -9873,6 +9874,7 @@
 *://soinside.com/*
 *://solveforum.com/*
 *://sozdizimi.com/*
+*://splunktool.com/*
 *://sprosi.pro/*
 *://src-bin.com/*
 *://stackanswers.net/*
