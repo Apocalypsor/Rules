@@ -26,7 +26,7 @@ function main(enable) {
   } else {
     //重复触发 => 结束
     //$notification.post("重复触发","","")
-    $done();
+    $done({});
     }
 }
 
