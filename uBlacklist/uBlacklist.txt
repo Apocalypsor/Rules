@@ -6992,7 +6992,6 @@
 *://*.sad21.cn/*
 *://*.sadyr.party/*
 *://*.saerim.net/*
-*://*.safehavenpetrescue.org/*
 *://*.safetyks.com/*
 *://*.safx.cc/*
 *://*.sagson.ru/*
@@ -9718,6 +9717,7 @@
 *://codeleading.com/*
 *://codengineering.ru/*
 *://coder-solution-es.com/*
+*://coder.gay/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
@@ -9730,6 +9730,7 @@
 *://devdreamz.com/*
 *://developer.aliyun.com/article/*
 *://developer.aliyun.com/ask/*
+*://devfixes.com/*
 *://digitrain.ru/*
 *://donolik.com/*
 *://doraprojects.net/*
@@ -9737,6 +9738,7 @@
 *://e-learn.cn/*
 *://edupro.id/*
 *://errorsfixing.com/*
+*://etsoutdoors.com/*
 *://eu.fwbdl.com/*
 *://exceptionshub.com/*
 *://exchangetuts.com/*
@@ -9750,6 +9752,7 @@
 *://flutterhq.com/*
 *://flyzyblog.com/*
 *://flyzyblog.net/*
+*://fmihm.org/*
 *://fooobar.com/*
 *://freetribe.me/*
 *://fuanclinc.com/*
@@ -9789,7 +9792,6 @@
 *://iwhqa.lostbooks.net/*
 *://ja.coder.work/*
 *://jablogs.com/*
-*://jpdebug.com/*
 *://juejin.cn/s/*
 *://kb.kutu66.com/*
 *://knews.vip/*
@@ -9859,7 +9861,6 @@
 *://question-it.com/*
 *://questu.ru/*
 *://quick-geek.github.io/*
-*://reddit.fun/*
 *://riptutorial.com/*
 *://rnazzy.question2answer.website/*
 *://routinepanic.com/*
@@ -9891,6 +9892,7 @@
 *://steakrecords.com/*
 *://string.quest/*
 *://submitfile.com/*
+*://super-unix.com/*
 *://support.huaweicloud.com/topic/*
 *://switch-case.ru/*
 *://syntaxfix.com/*
@@ -9907,11 +9909,13 @@
 *://tutorialmore.com/*
 *://ubuntu.buildwebhost.com/*
 *://ubuntuaa.com/*
+*://ubuntubin.com/*
 *://ubuntugeeks.com/*
 *://v-resheno.ru/*
 *://vike.io/*
 *://vircloud.net/*
 *://vultrcn2.com/*
+*://waldorf-am-see.org/*
 *://web-answers.ru/*
 *://webdevask.com/*
 *://webdevdesigner.com/*
@@ -9962,7 +9966,6 @@
 *://www.jscodetips.com/*
 *://www.kafan.cn/*
 *://www.ksyun.com/developer/article/*
-*://www.learnfk.com/*
 *://www.linuxfixes.com/*
 *://www.ma173.com/*
 *://www.maishuini.com/news/*
@@ -9980,6 +9983,7 @@
 *://www.uebu-kaihatsu.jp.net/*
 *://www.uxahz.com/*
 *://www.voidcc.com/*
+*://www.wake-up-neo.net/*
 *://www.web-dev-qa-db-fr.com/*
 *://www.web-dev-qa-db-ja.com/*
 *://www.web-dev-qa-db-pt.com/*
