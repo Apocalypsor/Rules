@@ -1606,6 +1606,7 @@
 *://*.appleseedconsulting.buzz/*
 *://*.applicationsbuilder.buzz/*
 *://*.appqianbao.com/*
+*://*.appsloveworld.com/*
 *://*.apsd360.com/*
 *://*.apshengdun.com/*
 *://*.aptvgo.com/*
