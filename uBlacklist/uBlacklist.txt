@@ -9977,6 +9977,7 @@
 *://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.stackfinder.ru/*
+*://www.stackubuntu.com/*
 *://www.taodudu.cc/*
 *://www.thecodeteacher.com/*
 *://www.titanwolf.org/*
