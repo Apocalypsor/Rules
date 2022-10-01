@@ -9675,6 +9675,7 @@
 *://ab-tc.com/*
 *://ajaxhispano.com/*
 *://alwaysemmyhope.com/*
+*://angularfixing.com/*
 *://answer-id.com/*
 *://answeright.com/*
 *://appmedia.jp/*
