@@ -4185,6 +4185,7 @@
 *://*.htd-shop.cn/*
 *://*.htdzzk.com.cn/*
 *://*.htl8.com/*
+*://*.html.cn/*
 *://*.htmlwdw.com/*
 *://*.htourworld.com/*
 *://*.htsc100.com/*
@@ -5679,6 +5680,7 @@
 *://*.mittagongmultimedia.com/*
 *://*.mituang.com/*
 *://*.miudang.cn/*
+*://*.miyil.com/*
 *://*.mjg8.cn/*
 *://*.mjhhx0i.cn/*
 *://*.mjjcpu.com/*
