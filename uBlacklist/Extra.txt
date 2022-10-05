@@ -321,3 +321,5 @@
 *://*.naifei.pro/*
 *://*.vpnranks.com/*
 *://pyerror.com/*
+*://*.miyil.com/*
+*://*.html.cn/*
