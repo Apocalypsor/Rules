@@ -2731,6 +2731,7 @@
 *://*.desou.cc/*
 *://*.dev4living.com/*
 *://*.develop-bugs.com/*
+*://*.developerload.com/*
 *://*.developpaper.com/*
 *://*.developreference.com/*
 *://*.devfgrt.com/*
@@ -3146,6 +3147,7 @@
 *://*.exemm.com/*
 *://*.exoplanetmagazine.com/*
 *://*.expressionssurat.com/*
+*://*.extends.run/*
 *://*.exthe247.com/*
 *://*.extreme-mac.buzz/*
 *://*.eyewated.com/*
@@ -9671,6 +9673,7 @@
 *://brokencontrollers.com/*
 *://bugjia.net/*
 *://bugsdb.com/*
+*://bytemeta.vip/*
 *://cainiaojiaocheng.com/*
 *://casino-pin-up-official.win/
 *://chuansongme.com/*
@@ -9697,6 +9700,7 @@
 *://coder.gay/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
+*://codesti.com/*
 *://codeutility.org/*
 *://daijoubu-hai.osyaberiina.com/*
 *://daplus.net/*
