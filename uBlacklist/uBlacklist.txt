@@ -9755,6 +9755,7 @@
 *://iquestion.pro/*
 *://isolution.pro/*
 *://issue.life/*
+*://issueantenna.com/*
 *://issuecloser.com/*
 *://issueexplorer.com/*
 *://issuehunt.io/*
