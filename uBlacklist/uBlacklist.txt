@@ -9770,6 +9770,7 @@
 *://iwhqa.lostbooks.net/*
 *://ja.coder.work/*
 *://jpdebug.com/*
+*://jtuto.com/*
 *://juejin.cn/s/*
 *://kb.kutu66.com/*
 *://knews.vip/*
