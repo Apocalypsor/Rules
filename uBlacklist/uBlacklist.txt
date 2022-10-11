@@ -5265,6 +5265,7 @@
 *://*.linksure.cn/*
 *://*.linqq.net/*
 *://*.linux.it.net.cn/*
+*://*.linuxidc.com/*
 *://*.linyuanfs.com/*
 *://*.liqijmg.com/*
 *://*.lirenfs.com/*
