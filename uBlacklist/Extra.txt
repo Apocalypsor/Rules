@@ -323,3 +323,4 @@
 *://pyerror.com/*
 *://*.miyil.com/*
 *://*.html.cn/*
+*://*.linuxidc.com/*
