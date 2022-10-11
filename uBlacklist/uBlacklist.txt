@@ -9669,6 +9669,7 @@
 *://bbs.huaweicloud.com/*
 *://bestecode.com/*
 *://bildiredi.com/*
+*://bitcoden.com/*
 *://blog.csdn.net/*
 *://bonprog.com/*
 *://brokencontrollers.com/*
