@@ -9,6 +9,3 @@ DOMAIN-SUFFIX,monzo.com
 
 # giffgaff
 DOMAIN-SUFFIX,giffgaff.com
-
-# Stripe
-DOMAIN-SUFFIX,stripe.com
