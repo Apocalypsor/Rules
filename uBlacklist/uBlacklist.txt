@@ -9652,6 +9652,7 @@
 *://62.234.115.194/*
 *://711web.com/*
 *://91ai.net/*
+*://9to5answer.com/*
 *://a78999.net/*
 *://ab-tc.com/*
 *://ajaxhispano.com/*
@@ -9943,6 +9944,7 @@
 *://www.javafixing.com/*
 *://www.kafan.cn/*
 *://www.ksyun.com/developer/article/*
+*://www.kutombawewe.net/*
 *://www.linuxfixes.com/*
 *://www.ma173.com/*
 *://www.maishuini.com/news/*
