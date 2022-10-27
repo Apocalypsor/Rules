@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,monzo.com
 
 # giffgaff
 DOMAIN-SUFFIX,giffgaff.com
+
+# Telegram
+DOMAIN-SUFFIX,fragment.com
