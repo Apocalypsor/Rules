@@ -1594,7 +1594,6 @@
 *://*.aoyoutao.com/*
 *://*.ap8o2.cn/*
 *://*.apartmentcenters.buzz/*
-*://*.ape-ask.com/*
 *://*.apkhr.com/*
 *://*.apotheken-bestellung.buzz/*
 *://*.app-good.com/*
@@ -7903,7 +7902,6 @@
 *://*.trust1688.com/*
 *://*.trvhyxw.cn/*
 *://*.trw9n5h.cn/*
-*://*.try2explore.com/*
 *://*.tsfx.cc/*
 *://*.tsltw.com/*
 *://*.tsm8.cn/*
@@ -9699,7 +9697,6 @@
 *://codeindex.ru/*
 *://codeleading.com/*
 *://codengineering.ru/*
-*://coder-solution-es.com/*
 *://coder.gay/*
 *://coderoad.ru/*
 *://coderquestion.ru/*
@@ -9776,7 +9773,6 @@
 *://jtuto.com/*
 *://juejin.cn/s/*
 *://kb.kutu66.com/*
-*://knews.vip/*
 *://kompsekret.ru/*
 *://kotaeta.com/*
 *://legkovopros.ru/*
@@ -9848,7 +9844,6 @@
 *://rstopup.com/*
 *://search.zonealarm.com/*
 *://segmentfault.com/*
-*://serveanswer.com/*
 *://shangdixinxi.com/*
 *://shenghuobao.net/*
 *://shengqian001.com/*
@@ -9877,11 +9872,9 @@
 *://switch-case.ru/*
 *://syntaxfix.com/*
 *://syoyougame.jp/*
-*://sysadminde.com/*
 *://tagsqa.com/*
 *://techacademy.jp/*
 *://techhelpnotes.com/*
-*://techinplanet.com/*
 *://thinbug.com/*
 *://truthmoviegroup.wixsite.com/*
 *://tuijianqingdan.com/*
@@ -9933,13 +9926,11 @@
 *://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
 *://www.huaweicloud.com/theme/*
-*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.dev/*
 *://www.it-swarm.jp.net/*
-*://www.itranslater.com/*
 *://www.javaer101.com/*
 *://www.javafixing.com/*
 *://www.kafan.cn/*
@@ -9955,7 +9946,6 @@
 *://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.stackfinder.ru/*
-*://www.stackubuntu.com/*
 *://www.taodudu.cc/*
 *://www.thecodeteacher.com/*
 *://www.ucloud.cn/yun/*
@@ -9966,7 +9956,6 @@
 *://www.web-dev-qa-db-ja.com/*
 *://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
-*://www.xsprogram.com/*
 *://www.yingtwo.com/article/*
 *://xbuba.com/*
 *://xjbol.com/*
