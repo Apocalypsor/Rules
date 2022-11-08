@@ -26,7 +26,7 @@
             unsafeWindow.XMLHttpRequest.prototype.open = function() {
                 try {
                     const urlObj = new URL(arguments[1]);
-                    if (urlObj.hostname.endsWith(".mcdn.bilivideo.cn") || urlObj.hostname.endsWith(".bilivideo.com")) {
+                    if (urlObj.hostname.endsWith(".mcdn.bilivideo.cn")) {
                         urlObj.host = cdnDomain || 'upos-hz-mirrorakam.akamaized.net'
                         urlObj.port = 443
                         console.warn(`更换视频源: ${urlObj.host}`);
