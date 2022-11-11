@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BiliBili CDN Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Optimize BiliBili CDN
 // @author       Apocalypsor
 // @match        https://*.bilibili.com/*
@@ -29,12 +29,16 @@
                     if (urlObj.hostname.endsWith(".mcdn.bilivideo.cn")) {
                         urlObj.host = cdnDomain || 'upos-hz-mirrorakam.akamaized.net'
                         urlObj.port = 443
-                        console.warn(`更换视频源: ${urlObj.host}`);
+                        console.warn(`更换源: ${urlObj.host}`);
+                        arguments[1] = urlObj.toString()
+                    } else if (urlObj.hostname.endsWith(".bilivideo.com") && cdnDomain) {
+                        urlObj.host = cdnDomain;
+                        console.warn(`更换源: ${urlObj.host}`);
                         arguments[1] = urlObj.toString()
                     } else if (urlObj.hostname.endsWith(".szbdyd.com")) {
                         urlObj.host = urlObj.searchParams.get('xy_usource');
                         urlObj.port = 443;
-                        console.warn(`更换视频源: ${urlObj.host}`);
+                        console.warn(`更换源: ${urlObj.host}`);
                         arguments[1] = urlObj.toString();
                     }
                 } finally {
