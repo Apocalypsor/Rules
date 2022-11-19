@@ -8308,6 +8308,8 @@
 *://*.we8866.cn/*
 *://*.web-cottage.buzz/*
 *://*.web-dev-qa-db-fra.com/*
+*://*.web-dev-qa-db-ja.com/*
+*://*.web-development-kb-ja.site/*
 *://*.web.mybnb.tw/*
 *://*.webcorreu.buzz/*
 *://*.webdurable.com/*
@@ -8316,6 +8318,7 @@
 *://*.weblanguage.cn/*
 *://*.weblogographic.com/*
 *://*.webplus.org.cn/*
+*://*.webpuroguramingu-zhi-wen-ying-dashisutemu.com/*
 *://*.webrobb.buzz/*
 *://*.websajts.buzz/*
 *://*.websetnet.net/*
