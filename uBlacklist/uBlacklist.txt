@@ -9705,6 +9705,7 @@
 *://coderquestion.ru/*
 *://codesti.com/*
 *://codeutility.org/*
+*://configlinux.com/*
 *://daijoubu-hai.osyaberiina.com/*
 *://daplus.net/*
 *://de-vraag.com/*
