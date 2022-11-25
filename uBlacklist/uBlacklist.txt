@@ -9769,6 +9769,7 @@
 *://it-swarm.xyz/*
 *://itdaan.com/*
 *://itecnote.com/*
+*://itecnotes.com/*
 *://itectec.com/*
 *://itranslater.com/*
 *://iwhqa.lostbooks.net/*
