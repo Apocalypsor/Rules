@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,giffgaff.com
 
 # Telegram
 DOMAIN-SUFFIX,fragment.com
+
+# Experian
+DOMAIN-SUFFIX,experian.co.uk
