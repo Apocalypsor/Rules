@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,fragment.com
 
 # Experian
 DOMAIN-SUFFIX,experian.co.uk
+
+# Tide
+DOMAIN-SUFFIX,tide.co
