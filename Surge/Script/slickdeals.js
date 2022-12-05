@@ -6,10 +6,10 @@ try {
         let newSections = []
         for (let section of obj.pages[pageNum].screen.sections) {
             if (section.containerType === 'ad') continue;
-            if (section.containers.filter(item => item.contentType === 'VersatileDealCard')) continue;
+            if (section.containers.filter(item => item.contentType === 'VersatileDealCard').length > 0) continue;
             section.containers = section.containers.filter(item => {
                 if (item.value.flag && item.value.flag.flagText === 'PROMOTED') return false;
-                if (item.value.storeName.includes('Advertiser')) return false;
+                if (item.value.storeName && item.value.storeName.includes('Advertiser')) return false;
                 return true;
             });
             section.headline = null;
