@@ -324,3 +324,4 @@
 *://*.miyil.com/*
 *://*.html.cn/*
 *://*.linuxidc.com/*
+*://*.d3tt.com/*
