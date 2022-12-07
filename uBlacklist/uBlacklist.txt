@@ -304,6 +304,7 @@
 *://*.1753235.cn/*
 *://*.176buy.com/*
 *://*.178cj.com/*
+*://*.17bigdata.com/*
 *://*.17dhs.cn/*
 *://*.17dotaba.com/*
 *://*.17fuyou.com/*
@@ -5284,6 +5285,7 @@
 *://*.livefilestore.cn/*
 *://*.liveidc.cn/*
 *://*.living-sun.com/*
+*://*.liweiliang.com/*
 *://*.liwuxian.com/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
@@ -6333,6 +6335,7 @@
 *://*.photozoomchina.com/*
 *://*.php.cn/*
 *://*.phphqc.cc/*
+*://*.phpmianshi.com/*
 *://*.phpqaw.cc/*
 *://*.phpyuan.com/*
 *://*.phqyauh.cn/*
@@ -6618,6 +6621,7 @@
 *://*.qifakeji.com/*
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
+*://*.qilin668.com/*
 *://*.qimei888.com/*
 *://*.qingkeyy.com/*
 *://*.qingniaosouti.com/*
@@ -7994,6 +7998,7 @@
 *://*.u4j2nj.cn/*
 *://*.u4paxdt.cn/*
 *://*.u6i6rao.cn/*
+*://*.u72.net/*
 *://*.u88sz.com/*
 *://*.u8nqbfs.cn/*
 *://*.ua648vk.cn/*
@@ -9364,6 +9369,7 @@
 *://*.zhaihai.com/*
 *://*.zhajun.com/*
 *://*.zhandou666.cn/*
+*://*.zhangbj.com/*
 *://*.zhangjingchu.org/*
 *://*.zhangshengrong.com/*
 *://*.zhangyg.com/*
@@ -9441,6 +9447,7 @@
 *://*.zhuoweihr.com/*
 *://*.zhuoyuelunwenwang.com/*
 *://*.zhutigm.com/*
+*://*.zhuxianfei.com/*
 *://*.zhuxuekeji.com/*
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
