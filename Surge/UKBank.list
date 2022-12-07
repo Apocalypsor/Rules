@@ -18,3 +18,8 @@ DOMAIN-SUFFIX,experian.co.uk
 
 # Tide
 DOMAIN-SUFFIX,tide.co
+
+# Algbra
+DOMAIN-SUFFIX,algbra.com
+DOMAIN-SUFFIX,prod-algbra.com
+DOMAIN-SUFFIX,devops-algbra.com
