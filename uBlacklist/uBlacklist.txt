@@ -2397,6 +2397,7 @@
 *://*.cocoachina.com/*
 *://*.coddagn.cn/*
 *://*.code.i-harness.com/*
+*://*.code2s.com/*
 *://*.codeantenna.com/*
 *://*.codebug.vip/*
 *://*.codecocoa.com/*
