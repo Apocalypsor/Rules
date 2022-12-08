@@ -2614,6 +2614,7 @@
 *://*.d2f4gfn.cn/*
 *://*.d2fkfvq.cn/*
 *://*.d2rekjg.cn/*
+*://*.d3tt.com/*
 *://*.d46rp88.cn/*
 *://*.d4games.com/*
 *://*.d4k629f.cn/*
