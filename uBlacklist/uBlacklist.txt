@@ -3957,6 +3957,7 @@
 *://*.helma.buzz/*
 *://*.help315.com.cn/*
 *://*.helplib.com/*
+*://*.helpr.me/*
 *://*.henankuai328.bid/*
 *://*.hengaimeng.com/*
 *://*.hengdingzc.com/*
@@ -9665,6 +9666,7 @@
 *://9to5answer.com/*
 *://a78999.net/*
 *://ab-tc.com/*
+*://abundantcode.com/*
 *://ajaxhispano.com/*
 *://alwaysemmyhope.com/*
 *://angularfixing.com/*
@@ -9727,6 +9729,7 @@
 *://doraprojects.net/*
 *://dtuto.com/*
 *://e-learn.cn/*
+*://emanuelosc.org/*
 *://errorsfixing.com/*
 *://etsoutdoors.com/*
 *://eu.fwbdl.com/*
@@ -9806,6 +9809,7 @@
 *://ne0matrix.com/*
 *://newbedev.com/*
 *://oipapio.com/*
+*://oneechanblog.com/*
 *://oomake.com/*
 *://ostack.cn/*
 *://overcoder.net/*
