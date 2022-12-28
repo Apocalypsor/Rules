@@ -7716,6 +7716,7 @@
 *://*.teenpornoclub.buzz/*
 *://*.teentube18.org/*
 *://*.tejia800.com/*
+*://*.teknikmark.com/*
 *://*.telanganatopnews.com/*
 *://*.tele-cyber.com.cn/*
 *://*.tengxinzs.com/*
@@ -8072,6 +8073,7 @@
 *://*.usloannet.buzz/*
 *://*.uslos.com/*
 *://*.ussh.cc/*
+*://*.uta5.com/*
 *://*.utouchapp.com/*
 *://*.utppzuj.buzz/*
 *://*.utrip365.com/*
@@ -9783,6 +9785,7 @@
 *://itecnote.com/*
 *://itecnotes.com/*
 *://itectec.com/*
+*://itigic.com/*
 *://itranslater.com/*
 *://iwhqa.lostbooks.net/*
 *://ja.coder.work/*
