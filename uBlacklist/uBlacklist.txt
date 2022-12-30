@@ -9910,6 +9910,7 @@
 *://vultrcn2.com/*
 *://waldorf-am-see.org/*
 *://web-answers.ru/*
+*://web-camp.io/*
 *://webdevask.com/*
 *://webdevdesigner.com/*
 *://wenjiangs.com/*
