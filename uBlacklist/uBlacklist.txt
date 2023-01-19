@@ -9795,6 +9795,7 @@
 *://kb.kutu66.com/*
 *://kompsekret.ru/*
 *://kotaeta.com/*
+*://kzen.dev/*
 *://legkovopros.ru/*
 *://lifesaver.codes/*
 *://lifetimeuscn.com/*
@@ -9877,6 +9878,7 @@
 *://sprosi.pro/*
 *://src-bin.com/*
 *://stackanswers.net/*
+*://stackfinder.jp.net/*
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
@@ -9967,6 +9969,7 @@
 *://www.querythreads.com/*
 *://www.sejuku.net/*
 *://www.semicolonworld.com/*
+*://www.solveforum.com/*
 *://www.stackfinder.ru/*
 *://www.taodudu.cc/*
 *://www.thecodeteacher.com/*
