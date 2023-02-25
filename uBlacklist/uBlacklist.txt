@@ -9847,6 +9847,7 @@
 *://question-it.com/*
 *://questu.ru/*
 *://quick-geek.github.io/*
+*://rentry.jp/*
 *://riptutorial.com/*
 *://rnazzy.question2answer.website/*
 *://routinepanic.com/*
