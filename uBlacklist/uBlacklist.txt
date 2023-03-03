@@ -9882,6 +9882,7 @@
 *://switch-case.ru/*
 *://syntaxfix.com/*
 *://syoyougame.jp/*
+*://system2.wiki/*
 *://techacademy.jp/*
 *://techhelpnotes.com/*
 *://thinbug.com/*
