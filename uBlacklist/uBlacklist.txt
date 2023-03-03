@@ -9660,6 +9660,7 @@
 *://711web.com/*
 *://91ai.net/*
 *://9to5answer.com/*
+*://9to5tutorial.com/*
 *://a78999.net/*
 *://ab-tc.com/*
 *://abundantcode.com/*
