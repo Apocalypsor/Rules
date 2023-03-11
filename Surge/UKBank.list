@@ -43,5 +43,8 @@ DOMAIN-SUFFIX,cashplus.com
 # Vodafone
 DOMAIN-SUFFIX,vodafone.co.uk
 
+# Stripe
+DOMAIN-SUFFIX,stripe.com
+
 # Other
 DOMAIN-SUFFIX,zbook.lol
