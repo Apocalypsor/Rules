@@ -46,5 +46,8 @@ DOMAIN-SUFFIX,vodafone.co.uk
 # Stripe
 DOMAIN-SUFFIX,stripe.com
 
+# Virgin Money
+DOMAIN-SUFFIX,virginmoney.com
+
 # Other
 DOMAIN-SUFFIX,zbook.lol
