@@ -802,6 +802,7 @@
 *://*.51huanzu.com/*
 *://*.51p1.com/*
 *://*.51qkk.com/*
+*://*.51quickfox.com/*
 *://*.51qutuanjian.com/*
 *://*.51rujing.net/*
 *://*.51shuibao.cn/*
@@ -2864,6 +2865,7 @@
 *://*.dory.com.cn/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
+*://*.douyin.com/*
 *://*.douyinluansha.cn/*
 *://*.dovov.com/*
 *://*.download-warehouse.buzz/*
@@ -7337,6 +7339,7 @@
 *://*.smzjlmk.com/*
 *://*.sn79.cn/*
 *://*.sn93.cn/*
+*://*.snajd.se/*
 *://*.sncnq79.cn/*
 *://*.sndoo.cn/*
 *://*.snh8.cn/*
@@ -8000,6 +8003,7 @@
 *://*.u72.net/*
 *://*.u88sz.com/*
 *://*.u8nqbfs.cn/*
+*://*.u9h.com/*
 *://*.ua648vk.cn/*
 *://*.uaelotto.buzz/*
 *://*.uajctja.buzz/*
