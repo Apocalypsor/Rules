@@ -325,3 +325,7 @@
 *://*.html.cn/*
 *://*.linuxidc.com/*
 *://*.d3tt.com/*
+*://*.51quickfox.com/*
+*://*.douyin.com/*
+*://*.u9h.com/*
+*://*.snajd.se/*
