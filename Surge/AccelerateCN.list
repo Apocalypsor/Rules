@@ -11,4 +11,5 @@ DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,programmercarl.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,10010.com
-DOMAIN-SUFFIX,mi.com
+DOMAIN,api.m.mi.com
+DOMAIN,api.io.mi.com
