@@ -2,3 +2,9 @@
 
 [General]
 dns-server = 192.168.1.188
+
+[Host]
+beelink.myhome = 192.168.1.188
+
+[Rule]
+DOMAIN-SUFFIX,myhome,DEVICE:MACMINI
