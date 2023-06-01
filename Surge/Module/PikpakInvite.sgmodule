@@ -8,4 +8,4 @@
 
 [Script]
 # ⚠️下方 argument 需填写个人邀请码
-无限会员 = type=cron,cronexp=0 45 1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/pikpak_invite.js,argument=75016823
+无限会员 = type=cron,cronexp=0 45 1 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/Apocalypsor/Rules/master/Surge/Script/pikpak_invite.js,argument=137515
