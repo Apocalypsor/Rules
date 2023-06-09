@@ -6,3 +6,9 @@ DOMAIN-SUFFIX,chase.com
 
 # Wells Fargo
 DOMAIN-SUFFIX,wellsfargo.com
+
+# AmEx
+DOMAIN-SUFFIX,americanexpress.com
+
+# Venmo
+DOMAIN-SUFFIX,venmo.com
