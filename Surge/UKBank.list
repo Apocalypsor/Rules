@@ -10,12 +10,6 @@ DOMAIN-SUFFIX,monzo.com
 # Chase UK
 DOMAIN-SUFFIX,chase.co.uk
 
-# giffgaff
-DOMAIN-SUFFIX,giffgaff.com
-
-# Telegram
-DOMAIN-SUFFIX,fragment.com
-
 # Experian
 DOMAIN-SUFFIX,experian.co.uk
 
@@ -49,5 +43,13 @@ DOMAIN-SUFFIX,stripe.com
 # Virgin Money
 DOMAIN-SUFFIX,virginmoney.com
 
+# Credit Club
+DOMAIN-SUFFIX,moneysavingexpert.com
+
+# HSBC UK
+DOMAIN-SUFFIX,hsbc.co.uk
+
 # Other
 DOMAIN-SUFFIX,zbook.lol
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,giffgaff.com
