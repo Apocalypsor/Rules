@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,moneysavingexpert.com
 # HSBC UK
 DOMAIN-SUFFIX,hsbc.co.uk
 
+# MSE
+DOMAIN-SUFFIX,moneysavingexpert.com
+
 # Other
 DOMAIN-SUFFIX,zbook.lol
 DOMAIN-SUFFIX,fragment.com
