@@ -1,2 +1,5 @@
 # > Binance
 DOMAIN-SUFFIX,binance.info
+
+# > Bitfinex
+DOMAIN-SUFFIX,api.ipify.org
