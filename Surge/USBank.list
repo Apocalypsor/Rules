@@ -1,3 +1,7 @@
 # Wells Fargo
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,wellsfargomedia.com
+
+# Chase
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,chasecdn.com
