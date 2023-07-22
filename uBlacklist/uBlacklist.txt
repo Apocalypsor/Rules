@@ -8392,7 +8392,6 @@
 *://*.wgjttcq.cn/*
 *://*.wgmg8hp.cn/*
 *://*.wh263.cn/*
-*://*.whatismybrowser.com/*
 *://*.whb2r9q.cn/*
 *://*.whcrsl.cn/*
 *://*.whcxzj.com/*
@@ -9684,10 +9683,8 @@
 *://bestecode.com/*
 *://bildiredi.com/*
 *://bitcoden.com/*
-*://blog.csdn.net/*
 *://bonprog.com/*
 *://brokencontrollers.com/*
-*://bugjia.net/*
 *://bugsdb.com/*
 *://bytemeta.vip/*
 *://cainiaojiaocheng.com/*
@@ -9858,7 +9855,6 @@
 *://routinepanic.com/*
 *://rstopup.com/*
 *://search.zonealarm.com/*
-*://segmentfault.com/*
 *://shangdixinxi.com/*
 *://shenghuobao.net/*
 *://shengqian001.com/*
@@ -9898,7 +9894,6 @@
 *://ubuntugeeks.com/*
 *://v-resheno.ru/*
 *://vike.io/*
-*://vircloud.net/*
 *://vultrcn2.com/*
 *://web-answers.ru/*
 *://web-camp.io/*
@@ -9915,7 +9910,6 @@
 *://www.appsloveworld.com/*
 *://www.baidu.com/*
 *://www.binarydevelop.com/*
-*://www.cnblogs.com/Marydon20170307/*
 *://www.cnpython.com/qa/*
 *://www.codebaoku.com/*
 *://www.codenong.com/*
@@ -9926,7 +9920,6 @@
 *://www.debugko.com/*
 *://www.desenv-web-rp.com/*
 *://www.edureka.co/*
-*://www.elecfans.com/*
 *://www.filetypes.jp/*
 *://www.fixes.pub/*
 *://www.fonedog.jp/*
