@@ -328,4 +328,4 @@
 *://*.51quickfox.com/*
 *://*.douyin.com/*
 *://*.u9h.com/*
-*://*.snajd.se/*
+*://clashnode.xyz/*
