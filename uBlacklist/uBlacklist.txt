@@ -7339,7 +7339,6 @@
 *://*.smzjlmk.com/*
 *://*.sn79.cn/*
 *://*.sn93.cn/*
-*://*.snajd.se/*
 *://*.sncnq79.cn/*
 *://*.sndoo.cn/*
 *://*.snh8.cn/*
@@ -9691,6 +9690,7 @@
 *://casino-pin-up-official.win/
 *://chuansongme.com/*
 *://ciupacabra.com/*
+*://clashnode.xyz/*
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/ask/*
 *://cloud.tencent.com/developer/information/*
