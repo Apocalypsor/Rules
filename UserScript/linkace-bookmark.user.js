@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         LinkAce Bookmark
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Bookmark button for linkace.org
+// @icon         https://www.linkace.org/favicon.svg
 // @author       Apocalypsor
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
