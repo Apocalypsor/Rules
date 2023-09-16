@@ -62,6 +62,10 @@ const UNIQUE_ID = 'ea721bc5-51f7-4ce3-8d62-78fd4c7eb7a2';
 
     const existingButton = document.getElementById(UNIQUE_ID);
     if (!existingButton && window.opener === null && window === window.top) {
-        document.body.appendChild(button);
+        // ensure the styles of this button are not influenced by external css 
+        const shadowHost = document.createElement('div');
+        const shadowRoot = shadowHost.attachShadow({ mode: 'closed' });
+        shadowRoot.appendChild(button);
+        document.body.appendChild(shadowHost);
     }
 })();
