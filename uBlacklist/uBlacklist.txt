@@ -1299,6 +1299,7 @@
 *://*.9ct156h.cn/*
 *://*.9dd3.cn/*
 *://*.9g6ygu.cn/*
+*://*.9game.cn/*
 *://*.9gft.com/*
 *://*.9go8lrt.cn/*
 *://*.9ishenzhen.com/*
