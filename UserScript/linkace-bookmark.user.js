@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LinkAce Bookmark
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Bookmark button for linkace.org
 // @icon         https://www.linkace.org/favicon.svg
 // @author       Apocalypsor
@@ -14,6 +14,7 @@
 // ==/UserScript==
 
 'use strict';
+const UNIQUE_ID = 'ea721bc5-51f7-4ce3-8d62-78fd4c7eb7a2';
 
 (function() {
     // Function to handle the configuration
@@ -29,10 +30,11 @@
 
     // Create button and style it
     const button = document.createElement('button');
+    button.id = UNIQUE_ID;
     button.innerHTML = '+';
     button.style.position = 'fixed';
     button.style.bottom = '10px';
-    button.style.right = '10px';
+    button.style.left = '10px';
     button.style.zIndex = '9999';
     button.style.borderRadius = '25px';
     button.style.width = '30px';
@@ -46,7 +48,6 @@
     button.style.outline = 'none';
     button.style.cursor = 'pointer';
 
-    // Attach event to button
     button.addEventListener('click', function() {
         const domain = GM_getValue('custom_domain', 'demo.linkace.org');
         const url = location.href;
@@ -59,6 +60,11 @@
         );
     });
 
+    const existingButton = document.getElementById(UNIQUE_ID);
+    if (!existingButton && window.opener === null && window === window.top) {
+        document.body.appendChild(button);
+    }
+})();
     // Append button to body
     document.body.appendChild(button);
 })();
