@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LinkAce Bookmark
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Bookmark button for linkace.org
 // @icon         https://www.linkace.org/favicon.svg
 // @author       Apocalypsor
@@ -64,7 +64,4 @@ const UNIQUE_ID = 'ea721bc5-51f7-4ce3-8d62-78fd4c7eb7a2';
     if (!existingButton && window.opener === null && window === window.top) {
         document.body.appendChild(button);
     }
-})();
-    // Append button to body
-    document.body.appendChild(button);
 })();
