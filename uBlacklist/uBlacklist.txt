@@ -2914,6 +2914,7 @@
 *://*.duoduohelp.com/*
 *://*.duonao.cc/*
 *://*.duosf.org.cn/*
+*://*.duotegame.com/*
 *://*.duqingming.com/*
 *://*.durenzhe.com/*
 *://*.dushi0375.com/*
@@ -5634,6 +5635,7 @@
 *://*.mh33.cn/*
 *://*.mh4u.org/*
 *://*.mh96.cn/*
+*://*.mhcdkey.com/*
 *://*.mhk5rkt.cn/*
 *://*.mhlyxy.com/*
 *://*.mhona.buzz/*
@@ -8274,6 +8276,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wandouip.com/*
+*://*.wandoujia.com/*
 *://*.wangleju.com/*
 *://*.wangshuai.net/*
 *://*.wangyanni.cn/*
@@ -8708,6 +8711,7 @@
 *://*.xiaokaili.com/*
 *://*.xiaolee.net/*
 *://*.xiaoniaofei.com/*
+*://*.xiaopi.com/*
 *://*.xiaoshuolist.com/*
 *://*.xiaosou.cc/*
 *://*.xiaossx.com/*
@@ -9146,6 +9150,7 @@
 *://*.youree.buzz/*
 *://*.yourselfdo.cn/*
 *://*.yousearch.cc/*
+*://*.youxi369.com/*
 *://*.youxizhinancn.com/*
 *://*.youxwli.com/*
 *://*.youyaling.com/*
@@ -9374,6 +9379,7 @@
 *://*.zhangbj.com/*
 *://*.zhangjingchu.org/*
 *://*.zhangshengrong.com/*
+*://*.zhangton.com/*
 *://*.zhangyg.com/*
 *://*.zhanso.cn/*
 *://*.zhao188.com/*
