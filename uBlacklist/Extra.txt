@@ -330,3 +330,9 @@
 *://*.u9h.com/*
 *://clashnode.xyz/*
 *://*.9game.cn/*
+*://*.youxi369.com/*
+*://*.mhcdkey.com/*
+*://*.wandoujia.com/*
+*://*.duotegame.com/*
+*://*.xiaopi.com/*
+*://*.zhangton.com/*
