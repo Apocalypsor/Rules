@@ -336,3 +336,6 @@
 *://*.duotegame.com/*
 *://*.xiaopi.com/*
 *://*.zhangton.com/*
+*://*.youzix.com/*
+*://*.fwvv.net/*
+*://*.3733.com/*
