@@ -573,6 +573,7 @@
 *://*.369bt.cn/*
 *://*.36ho.com/*
 *://*.36wi.com/*
+*://*.3733.com/*
 *://*.373406.com/*
 *://*.373415.com/*
 *://*.373524.com/*
@@ -3430,6 +3431,7 @@
 *://*.fwq120.com/*
 *://*.fwqzdm.com/*
 *://*.fwtd.cn/*
+*://*.fwvv.net/*
 *://*.fx047.com/*
 *://*.fx2l5.com/*
 *://*.fx361.com/*
@@ -9155,6 +9157,7 @@
 *://*.youxwli.com/*
 *://*.youyaling.com/*
 *://*.youyelishi.com/*
+*://*.youzix.com/*
 *://*.yoyomob.com/*
 *://*.ypg666.com/*
 *://*.ypj5f6m.cn/*
