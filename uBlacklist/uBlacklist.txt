@@ -9782,6 +9782,7 @@
 *://it-swarm.dev/*
 *://it-swarm.net/*
 *://it-swarm.xyz/*
+*://it.in-jpn.com/*
 *://itdaan.com/*
 *://itecnote.com/*
 *://itecnotes.com/*
