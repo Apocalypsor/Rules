@@ -7737,6 +7737,7 @@
 *://*.tgoykuq.cn/*
 *://*.tgwlcg.com/*
 *://*.th2p.com/*
+*://*.thaicarvingknife.com/*
 *://*.thaigraphicdesign.com/*
 *://*.thcc.cc/*
 *://*.thebmovierats.buzz/*
