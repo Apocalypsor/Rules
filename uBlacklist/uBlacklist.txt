@@ -9735,6 +9735,7 @@
 *://donolik.com/*
 *://doraprojects.net/*
 *://e-learn.cn/*
+*://eloutput.com/*
 *://emanuelosc.org/*
 *://errorsfixing.com/*
 *://eu.fwbdl.com/*
