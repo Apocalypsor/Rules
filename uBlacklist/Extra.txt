@@ -339,3 +339,4 @@
 *://*.youzix.com/*
 *://*.fwvv.net/*
 *://*.3733.com/*
+*://eloutput.com/*
