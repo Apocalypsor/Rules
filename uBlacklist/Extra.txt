@@ -340,3 +340,4 @@
 *://*.fwvv.net/*
 *://*.3733.com/*
 *://eloutput.com/*
+*://ps5youxizhinan.com/*
