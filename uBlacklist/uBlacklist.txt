@@ -2297,6 +2297,7 @@
 *://*.chinadmd.com/*
 *://*.chinafix.com/*
 *://*.chinapentapur.com/*
+*://*.chinaquest.com/*
 *://*.chinatolink.cn/*
 *://*.chinawebonline.buzz/*
 *://*.chineseinla.com/*
