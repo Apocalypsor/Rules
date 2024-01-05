@@ -378,3 +378,4 @@
 *://*.tiqianhuandai.cc/*
 *://*.dianjingfeng.com/*
 *://*.ji-cloud.cn/*
+*://*.chinaquest.com/*
