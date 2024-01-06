@@ -1847,6 +1847,7 @@
 *://*.benmujiang.com/*
 *://*.bentbpi.com/*
 *://*.beqve.cn/*
+*://*.berlin-links.com/*
 *://*.bertonerimarble.buzz/*
 *://*.besetsod.com/*
 *://*.bessca.com/*
@@ -2614,6 +2615,7 @@
 *://*.czsjsb.com/*
 *://*.czssd.com/*
 *://*.czstar.cn/*
+*://*.cztlsl.com/*
 *://*.czxinwen.com/*
 *://*.czxmmj.com/*
 *://*.czzrui.com/*
@@ -3664,6 +3666,7 @@
 *://*.golfguidetovirgina.buzz/*
 *://*.golvyouu.com/*
 *://*.gonganjz.com/*
+*://*.gonglve.net/*
 *://*.gongyige.com/*
 *://*.gongyiluntan.org/*
 *://*.goodsucai.com/*
