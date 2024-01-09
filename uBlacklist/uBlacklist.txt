@@ -4978,6 +4978,7 @@
 *://*.kedecity.com/*
 *://*.kediyamall.com/*
 *://*.kefu111.cn/*
+*://*.keicode.com/*
 *://*.kelly99.buzz/*
 *://*.kemicloud.com/*
 *://*.kenneltbob.buzz/*
