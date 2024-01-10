@@ -1380,6 +1380,7 @@
 *://*.abstriction.buzz/*
 *://*.ac590.com/*
 *://*.academyagent.buzz/*
+*://*.acceler8x.space/*
 *://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
@@ -1557,6 +1558,7 @@
 *://*.androidcookie.com/*
 *://*.androidwd.cc/*
 *://*.anercn.com/*
+*://*.anewhpworld.com/*
 *://*.angelalbum.buzz/*
 *://*.angiefans.com/*
 *://*.anhuijuxin.com/*
@@ -1689,6 +1691,7 @@
 *://*.autonetonline.buzz/*
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
+*://*.auxilia.space/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avzwbiv.cn/*
@@ -2088,6 +2091,7 @@
 *://*.businesspointnews.com/*
 *://*.businesstagtw.com/*
 *://*.buwoline.buzz/*
+*://*.buxcodes.org/*
 *://*.buyhomehub.cn/*
 *://*.buylun.com/*
 *://*.buzzhollowrailroad.com/*
@@ -2318,6 +2322,7 @@
 *://*.chq88.cn/*
 *://*.chqonline.com/*
 *://*.chromes.cn/*
+*://*.chromo.cfd/*
 *://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
@@ -2502,6 +2507,7 @@
 *://*.cqzxi9f.cn/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
+*://*.creatv.cfd/*
 *://*.creditnavi.buzz/*
 *://*.crf8.cn/*
 *://*.crgsne3.cn/*
@@ -3494,6 +3500,7 @@
 *://*.galleri50.com/*
 *://*.gameboys.net/*
 *://*.gamejs123.com/*
+*://*.gameonmac.com/*
 *://*.gamesxfp.cn/*
 *://*.gametalk.site/*
 *://*.gan-ren.com/*
@@ -4438,6 +4445,7 @@
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
 *://*.innofthedovedallas.com/*
+*://*.innovanti.online/*
 *://*.innxm.com/*
 *://*.insideabritishmumskitchen.com/*
 *://*.insitedesigns.net/*
@@ -5967,6 +5975,7 @@
 *://*.newsflashtv.buzz/*
 *://*.newtoday.cc/*
 *://*.newyimin.com/*
+*://*.nexellia.online/*
 *://*.nexteer.cc/*
 *://*.nextnets.buzz/*
 *://*.nf91.cn/*
@@ -6301,6 +6310,7 @@
 *://*.passionss.buzz/*
 *://*.passwordrecovery.cn/*
 *://*.patriknorstrom.buzz/*
+*://*.pavlovadoco.com/*
 *://*.paw7c6j.cn/*
 *://*.paypernude.buzz/*
 *://*.pbcpm.com/*
@@ -6916,6 +6926,7 @@
 *://*.roism.cn/*
 *://*.roldanmc.buzz/*
 *://*.romancestop.buzz/*
+*://*.romonitorstats.com/*
 *://*.ronaproject.com/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
@@ -6951,6 +6962,7 @@
 *://*.rtmj.net/*
 *://*.rtpslpa.cn/*
 *://*.rtr8.cn/*
+*://*.rtrack.social/*
 *://*.rtufyc.cn/*
 *://*.rtz8.cn/*
 *://*.rtzt114.cn/*
@@ -7534,6 +7546,7 @@
 *://*.storewes.com/*
 *://*.structcalc.buzz/*
 *://*.stx160.com/*
+*://*.stylesprzedazy.pl/*
 *://*.subaidajs.com/*
 *://*.subversionromance.com/*
 *://*.success666.com/*
