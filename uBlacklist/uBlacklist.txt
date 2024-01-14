@@ -6246,6 +6246,7 @@
 *://*.ouliandianqi.cn/*
 *://*.ouqin2018.com/*
 *://*.ourmercado.buzz/*
+*://*.ourplay.net/*
 *://*.ours2008.com/*
 *://*.oustv.com/*
 *://*.outshine.cn/*
