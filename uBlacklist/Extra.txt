@@ -382,3 +382,4 @@
 *://*.gonglve.net/*
 *://*.berlin-links.com/*
 *://*.cztlsl.com/*
+*://*.ourplay.net/*
