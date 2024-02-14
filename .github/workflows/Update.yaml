@@ -26,17 +26,6 @@ jobs:
           sed -i -e "/^interface.*/d" -e "s/address=\//DOMAIN,/g" -e "s/DOMAIN,\./DOMAIN-SUFFIX,/g" -e "s/\/127.0.0.1/,REJECT/g" -e "s/\/[0-9].*/,DIRECT/g" /tmp/dnsmasq.conf
           grep ".*DIRECT" /tmp/dnsmasq.conf | sed -e "s/^DOMAIN,/  - '/g" -e "s/^DOMAIN-SUFFIX,/  - '+./g" -e "s/$/'/g" -e "s/,DIRECT//g" -e "1i\payload:" > ./Clash/90dns_direct_provider.yml
           grep ".*REJECT" /tmp/dnsmasq.conf | sed -e "s/^DOMAIN,/  - '/g" -e "s/^DOMAIN-SUFFIX,/  - '+./g" -e "s/$/'/g" -e "s/,REJECT//g" -e "1i\payload:" > ./Clash/90dns_reject_provider.yml
-      - name: Update China IP
-        run: |
-          curl -sS https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt > /tmp/china_ipv4.txt
-          curl -sSL https://bgp.space/china6.html | grep "^[0-9a-z:\/]*<br>" | sed "s/<br>//g" > /tmp/china_ipv6.txt
-          echo "" > /tmp/blank && cat /tmp/china_ipv4.txt /tmp/blank /tmp/china_ipv6.txt > /tmp/china_ip.txt
-          sed -e "s/^/  - '/g" -e "s/$/'/g" -e "1i\payload:" /tmp/china_ipv4.txt > ./Clash/china_ipv4.yml
-          sed -e "s/^/  - '/g" -e "s/$/'/g" -e "1i\payload:" /tmp/china_ipv6.txt > ./Clash/china_ipv6.yml
-          sed -e "s/^/  - '/g" -e "s/$/'/g" -e "1i\payload:" /tmp/china_ip.txt > ./Clash/china_ip.yml
-          sed -e "s/^/IP-CIDR,/g" /tmp/china_ipv4.txt > ./Surge/IPDB/china_ipv4.list
-          sed -e "s/^/IP-CIDR,/g" /tmp/china_ipv6.txt > ./Surge/IPDB/china_ipv6.list
-          sed -e "s/^/IP-CIDR,/g" /tmp/china_ip.txt > ./Surge/IPDB/china_ip.list
       - name: Update uBlacklist
         run: |
           curl -sS https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt > /tmp/list && echo "" >> /tmp/list
