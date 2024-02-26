@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,schwab.com
 
 # UCU
-DOMAIN-SUFFIX,ucu.org
+# DOMAIN-SUFFIX,ucu.org
 
 # Citadel
 DOMAIN-SUFFIX,citadelbanking.com
