@@ -1,7 +1,63 @@
-# Wells Fargo
-DOMAIN-SUFFIX,wellsfargo.com
-DOMAIN-SUFFIX,wellsfargomedia.com
+# HSBC US
+DOMAIN-SUFFIX,us.hsbc.com
+
+# Amex
+DOMAIN-SUFFIX,americanexpress.com
 
 # Chase
 DOMAIN-SUFFIX,chase.com
-DOMAIN-SUFFIX,chasecdn.com
+
+# BofA
+DOMAIN-SUFFIX,bankofamerica.com
+
+# Discover
+DOMAIN-SUFFIX,discover.com
+
+# Marcus
+DOMAIN-SUFFIX,marcus.com
+
+# Wells Fargo
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,biltrewards.com
+
+# Citi
+DOMAIN-SUFFIX,citi.com
+
+# Alliant
+DOMAIN-SUFFIX,alliantcreditunion.com
+
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
+
+# Charles Schwab
+DOMAIN-SUFFIX,schwab.com
+
+# UCU
+DOMAIN-SUFFIX,ucu.org
+
+# Citadel
+DOMAIN-SUFFIX,citadelbanking.com
+
+# Juno
+DOMAIN-SUFFIX,juno.finance
+DOMAIN-SUFFIX,onjuno.com
+
+# CauseCard/PrideCard
+DOMAIN-SUFFIX,causecard.co
+DOMAIN-SUFFIX,pridecard.co
+DOMAIN-SUFFIX,liquidity.cc
+
+# Deserve
+DOMAIN-SUFFIX,deserve.com
+
+# CashApp
+DOMAIN-SUFFIX,cash.app
+
+# PayPal
+DOMAIN-SUFFIX,paypal.com
+
+# Venmo
+DOMAIN-SUFFIX,venmo.com
+
+# Plaid
+DOMAIN-SUFFIX,plaid.com
