@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,schwab.com
 # DOMAIN-SUFFIX,ucu.org
 
 # Citadel
-DOMAIN-SUFFIX,citadelbanking.com
+# DOMAIN-SUFFIX,citadelbanking.com
 
 # Juno
 # DOMAIN-SUFFIX,juno.finance
