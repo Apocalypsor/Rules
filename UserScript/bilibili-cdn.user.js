@@ -17,24 +17,24 @@
     'use strict';
 
     // 预定义CDN列表
-    const cdnOptions = [
-        'upos-sz-mirrorali.bilivideo.com(推荐)',
-        'upos-sz-mirroralib.bilivideo.com(推荐)',
-        'upos-sz-mirrorhw.bilivideo.com(推荐)',
-        'upos-sz-mirrorhwb.bilivideo.com(推荐)',
-        'upos-sz-upcdnbda2.bilivideo.com(推荐)',
-        'upos-sz-mirrorcos.bilivideo.com',
-        'upos-sz-mirrorcosb.bilivideo.com',
-        'upos-sz-mirrorbos.bilivideo.com',
-        'upos-sz-upcdnws.bilivideo.com',
-        'upos-sz-mirroraliov.bilivideo.com',
-        'upos-hz-mirrorakam.akamaized.net'
-    ];
+    const cdnOptions = {
+        'ali(推荐)': 'upos-sz-mirrorali.bilivideo.com',
+        'alib(推荐)': 'upos-sz-mirroralib.bilivideo.com',
+        'hw(推荐)': 'upos-sz-mirrorhw.bilivideo.com',
+        'hwb(推荐)': 'upos-sz-mirrorhwb.bilivideo.com',
+        'bda2(推荐)': 'upos-sz-upcdnbda2.bilivideo.com',
+        'cos': 'upos-sz-mirrorcos.bilivideo.com',
+        'cosb': 'upos-sz-mirrorcosb.bilivideo.com',
+        'bos': 'upos-sz-mirrorbos.bilivideo.com',
+        'ws': 'upos-sz-upcdnws.bilivideo.com',
+        'aliov': 'upos-sz-mirroraliov.bilivideo.com',
+        'akamai': 'upos-hz-mirrorakam.akamaized.net',
+    };
 
     // 为每个CDN注册一个菜单命令
-    cdnOptions.forEach(cdn => {
+    Object.keys(cdnOptions).forEach(cdn => {
         GM_registerMenuCommand(`切换CDN为${cdn}`, () => {
-            GM_setValue('selectedCDN', cdn.split("(")[0]);
+            GM_setValue('selectedCDN', cdnOptions[cdn]);
             alert(`CDN切换为${cdn}(不会在视频信息中显示)，请刷新界面`);
             location.reload();
         });
