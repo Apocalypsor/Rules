@@ -1,48 +1,66 @@
 // ==UserScript==
 // @name         BiliBili CDN Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      1.4
 // @description  Optimize BiliBili CDN
 // @author       Apocalypsor
 // @match        https://*.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @run-at       document-start
 // @grant        unsafeWindow
+// @grant        GM_registerMenuCommand
+// @grant        GM_setValue
+// @grant        GM_getValue
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    // 去 P2P CDN
-    if (location.href.startsWith('https://www.bilibili.com/video/') || location.href.startsWith('https://www.bilibili.com/bangumi/play/')) {
-        let cdnDomain;
+    // 预定义CDN列表
+    const cdnOptions = {
+        'ali(推荐)': 'upos-sz-mirrorali.bilivideo.com',
+        'alib(推荐)': 'upos-sz-mirroralib.bilivideo.com',
+        'hw(推荐)': 'upos-sz-mirrorhw.bilivideo.com',
+        'hwb(推荐)': 'upos-sz-mirrorhwb.bilivideo.com',
+        'bda2(推荐)': 'upos-sz-upcdnbda2.bilivideo.com',
+        'cos': 'upos-sz-mirrorcos.bilivideo.com',
+        'cosb': 'upos-sz-mirrorcosb.bilivideo.com',
+        'bos': 'upos-sz-mirrorbos.bilivideo.com',
+        'ws': 'upos-sz-upcdnws.bilivideo.com',
+        'aliov': 'upos-sz-mirroraliov.bilivideo.com',
+        'akamai': 'upos-hz-mirrorakam.akamaized.net',
+    };
 
-        [ cdnDomain ] = document.head.innerHTML.match(/up[\w-]+\.akamaized\.net/);
-        if (!cdnDomain) {
-            [ cdnDomain ] = document.head.innerHTML.match(/up[\w-]+\.bilivideo\.com/);
+    // 为每个CDN注册一个菜单命令
+    Object.keys(cdnOptions).forEach(cdn => {
+        let selected = '';
+        if (GM_getValue('selectedCDN', cdnOptions[0]) === cdnOptions[cdn]) {
+            selected = '[当前]'
         }
+
+        GM_registerMenuCommand(`${selected}切换CDN为${cdn}`, () => {
+            GM_setValue('selectedCDN', cdnOptions[cdn]);
+            alert(`CDN切换为${cdn.split('(')[0]}(不会在视频信息中显示)，请刷新界面`);
+            location.reload();
+        });
+    });
+
+    if (location.href.startsWith('https://www.bilibili.com/video/') || location.href.startsWith('https://www.bilibili.com/bangumi/play/')) {
+        // 获取用户选择的CDN，如果没有则使用第一个
+        const cdnDomain = GM_getValue('selectedCDN', cdnOptions[0]);
 
         (function(open) {
             unsafeWindow.XMLHttpRequest.prototype.open = function() {
                 try {
                     const urlObj = new URL(arguments[1]);
-                    if (urlObj.hostname.endsWith(".mcdn.bilivideo.cn")) {
-                        urlObj.host = cdnDomain || 'upos-hz-mirrorakam.akamaized.net'
-                        urlObj.port = 443
-                        console.warn(`更换源: ${urlObj.host}`);
-                        arguments[1] = urlObj.toString()
-                    } else if (urlObj.hostname.endsWith(".bilivideo.com") && cdnDomain) {
+                    if (urlObj.hostname.endsWith('.mcdn.bilivideo.cn') || urlObj.hostname.endsWith(".bilivideo.com") || urlObj.hostname === "upos-hz-mirrorakam.akamaized.net") {
                         urlObj.host = cdnDomain;
-                        console.warn(`更换源: ${urlObj.host}`);
-                        arguments[1] = urlObj.toString()
-                    } else if (urlObj.hostname.endsWith(".szbdyd.com")) {
-                        urlObj.host = urlObj.searchParams.get('xy_usource');
                         urlObj.port = 443;
                         console.warn(`更换源: ${urlObj.host}`);
                         arguments[1] = urlObj.toString();
                     }
                 } finally {
-                    return open.apply(this, arguments)
+                    return open.apply(this, arguments);
                 }
             };
         })(unsafeWindow.XMLHttpRequest.prototype.open);
