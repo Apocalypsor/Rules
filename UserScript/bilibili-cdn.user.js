@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BiliBili CDN Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Optimize BiliBili CDN
 // @author       Apocalypsor
 // @match        https://*.bilibili.com/*
@@ -33,7 +33,12 @@
 
     // 为每个CDN注册一个菜单命令
     Object.keys(cdnOptions).forEach(cdn => {
-        GM_registerMenuCommand(`切换CDN为${cdn}`, () => {
+        let selected = '';
+        if (GM_getValue('selectedCDN', cdnOptions[0]) === cdnOptions[cdn]) {
+            selected = '[当前]'
+        }
+        
+        GM_registerMenuCommand(`${selected}切换CDN为${cdn}`, () => {
             GM_setValue('selectedCDN', cdnOptions[cdn]);
             alert(`CDN切换为${cdn}(不会在视频信息中显示)，请刷新界面`);
             location.reload();
