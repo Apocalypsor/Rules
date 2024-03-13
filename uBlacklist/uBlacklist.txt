@@ -9732,6 +9732,7 @@
 *://angularfixing.com/*
 *://answer-id.com/*
 *://answeright.com/*
+*://apphot.cc/*
 *://appmedia.jp/*
 *://ask-dev.ru/*
 *://ask-ubuntu.ru/*
