@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BiliBili CDN Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.4
 // @description  Optimize BiliBili CDN
 // @author       Apocalypsor
 // @match        https://*.bilibili.com/*
@@ -37,10 +37,10 @@
         if (GM_getValue('selectedCDN', cdnOptions[0]) === cdnOptions[cdn]) {
             selected = '[当前]'
         }
-        
+
         GM_registerMenuCommand(`${selected}切换CDN为${cdn}`, () => {
             GM_setValue('selectedCDN', cdnOptions[cdn]);
-            alert(`CDN切换为${cdn}(不会在视频信息中显示)，请刷新界面`);
+            alert(`CDN切换为${cdn.split('(')[0]}(不会在视频信息中显示)，请刷新界面`);
             location.reload();
         });
     });
