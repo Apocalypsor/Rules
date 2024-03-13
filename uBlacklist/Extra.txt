@@ -383,3 +383,4 @@
 *://*.berlin-links.com/*
 *://*.cztlsl.com/*
 *://*.ourplay.net/*
+*://apphot.cc/*
