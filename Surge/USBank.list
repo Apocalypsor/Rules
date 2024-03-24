@@ -33,14 +33,14 @@ DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,schwab.com
 
 # UCU
-# DOMAIN-SUFFIX,ucu.org
+DOMAIN-SUFFIX,ucu.org
 
 # Citadel
-# DOMAIN-SUFFIX,citadelbanking.com
+DOMAIN-SUFFIX,citadelbanking.com
 
 # Juno
-# DOMAIN-SUFFIX,juno.finance
-# DOMAIN-SUFFIX,onjuno.com
+DOMAIN-SUFFIX,juno.finance
+DOMAIN-SUFFIX,onjuno.com
 
 # CauseCard/PrideCard
 DOMAIN-SUFFIX,causecard.co
