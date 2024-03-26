@@ -1,3 +1,5 @@
+// ^https?:\/\/api-ios\.slickdeals\.net\/sdapi\/screen-view\/2\/screen.+
+
 const data = $response.body;
 const obj = JSON.parse(data);
 
