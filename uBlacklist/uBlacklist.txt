@@ -3058,6 +3058,7 @@
 *://*.eia6.com/*
 *://*.eicho.cn/*
 *://*.ej2ho8g.cn/*
+*://*.ejdz.cn/*
 *://*.ejfjsw.cn/*
 *://*.ejiaonet.com/*
 *://*.ejie520.com/*
