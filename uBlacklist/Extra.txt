@@ -385,3 +385,4 @@
 *://*.ourplay.net/*
 *://apphot.cc/*
 *://*.ejdz.cn/*
+*://*.xuebaunion.com/*
