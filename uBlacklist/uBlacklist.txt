@@ -3726,6 +3726,7 @@
 *://*.gszsc.net/*
 *://*.gszyksqzj.com/*
 *://*.gtd8.cn/*
+*://*.gtdibms.com/*
 *://*.gtgycrc.cn/*
 *://*.gtnvs.cn/*
 *://*.gtzlbj.com/*
@@ -8930,6 +8931,7 @@
 *://*.xuanyiqq.com/*
 *://*.xue59.cn/*
 *://*.xuebaosan.com/*
+*://*.xuebaunion.com/*
 *://*.xuehua.us/*
 *://*.xuejingjia.com/*
 *://*.xuesai.cn/*
