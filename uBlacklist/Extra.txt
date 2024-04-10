@@ -386,3 +386,4 @@
 *://apphot.cc/*
 *://*.ejdz.cn/*
 *://*.xuebaunion.com/*
+*://*.gtdibms.com/*
