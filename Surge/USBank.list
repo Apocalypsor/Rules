@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,alliantcreditunion.com
 # Fidelity
 DOMAIN-SUFFIX,fidelity.com
 
+# SoFi
+DOMAIN-SUFFIX,sofi.com
+
 # Charles Schwab
 DOMAIN-SUFFIX,schwab.com
 
@@ -38,9 +41,11 @@ DOMAIN-SUFFIX,ucu.org
 # Citadel
 DOMAIN-SUFFIX,citadelbanking.com
 
-# Juno
-DOMAIN-SUFFIX,juno.finance
-DOMAIN-SUFFIX,onjuno.com
+# Axos Bank
+axosbank.com
+
+# M&T Bank
+DOMAIN-SUFFIX,mtb.com
 
 # CauseCard/PrideCard
 DOMAIN-SUFFIX,causecard.co
@@ -50,6 +55,9 @@ DOMAIN-SUFFIX,liquidity.cc
 # Deserve
 DOMAIN-SUFFIX,deserve.com
 
+# Wise
+DOMAIN-SUFFIX,wise.com
+
 # CashApp
 DOMAIN-SUFFIX,cash.app
 
@@ -58,6 +66,9 @@ DOMAIN-SUFFIX,paypal.com
 
 # Venmo
 DOMAIN-SUFFIX,venmo.com
+
+# Bluedot
+DOMAIN-SUFFIX,thebluedot.co
 
 # Plaid
 DOMAIN-SUFFIX,plaid.com
