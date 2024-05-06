@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,ucu.org
 DOMAIN-SUFFIX,citadelbanking.com
 
 # Axos Bank
-axosbank.com
+DOMAIN-SUFFIX,axosbank.com
 
 # M&T Bank
 DOMAIN-SUFFIX,mtb.com
