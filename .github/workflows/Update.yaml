@@ -15,11 +15,13 @@ jobs:
   update:
     name: Update
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.REPO_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Update 90DNS
         run: |
           curl -sS https://gitlab.com/a/90dns/-/raw/master/dnsmasq/dnsmasq.conf > /tmp/dnsmasq.conf
