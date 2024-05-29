@@ -1,83 +1,91 @@
-# HSBC US
-DOMAIN-SUFFIX,us.hsbc.com
+# Alliant
+DOMAIN-SUFFIX,alliantcreditunion.com
 
 # Amex
 DOMAIN-SUFFIX,americanexpress.com
 
-# Chase
-DOMAIN-SUFFIX,chase.com
+# Axos Bank
+DOMAIN-SUFFIX,axosbank.com
+
+# Bilt
+DOMAIN-SUFFIX,biltrewards.com
+
+# Bluedot
+DOMAIN-SUFFIX,thebluedot.co
 
 # BofA
 DOMAIN-SUFFIX,bankofamerica.com
 
-# Discover
-DOMAIN-SUFFIX,discover.com
-
-# Marcus
-DOMAIN-SUFFIX,marcus.com
-
-# Wells Fargo
-DOMAIN-SUFFIX,wellsfargo.com
-DOMAIN-SUFFIX,biltrewards.com
-
-# Citi
-DOMAIN-SUFFIX,citi.com
-
-# Alliant
-DOMAIN-SUFFIX,alliantcreditunion.com
-
-# Fidelity
-DOMAIN-SUFFIX,fidelity.com
-
-# SoFi
-DOMAIN-SUFFIX,sofi.com
-
-# Charles Schwab
-DOMAIN-SUFFIX,schwab.com
-
-# UCU
-DOMAIN-SUFFIX,ucu.org
-
-# Citadel
-DOMAIN-SUFFIX,citadelbanking.com
-
-# Axos Bank
-DOMAIN-SUFFIX,axosbank.com
-
-# M&T Bank
-DOMAIN-SUFFIX,mtb.com
+# CashApp
+DOMAIN-SUFFIX,cash.app
 
 # CauseCard/PrideCard
 DOMAIN-SUFFIX,causecard.co
 DOMAIN-SUFFIX,pridecard.co
 DOMAIN-SUFFIX,liquidity.cc
 
-# Deserve
-DOMAIN-SUFFIX,deserve.com
+# Charles Schwab
+DOMAIN-SUFFIX,schwab.com
 
-# Wise
-DOMAIN-SUFFIX,wise.com
+# Chase
+DOMAIN-SUFFIX,chase.com
 
-# CashApp
-DOMAIN-SUFFIX,cash.app
+# Citadel
+DOMAIN-SUFFIX,citadelbanking.com
 
-# PayPal
-DOMAIN-SUFFIX,paypal.com
-
-# Venmo
-DOMAIN-SUFFIX,venmo.com
-
-# Bluedot
-DOMAIN-SUFFIX,thebluedot.co
-
-# Plaid
-DOMAIN-SUFFIX,plaid.com
+# Citi
+DOMAIN-SUFFIX,citi.com
 
 # Credit
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-SUFFIX,experian.com
+DOMAIN-SUFFIX,experiancs.com
 DOMAIN-SUFFIX,transunion.com
 DOMAIN-SUFFIX,equifax.com
 
+# Deserve
+DOMAIN-SUFFIX,deserve.com
+
+# Discover
+DOMAIN-SUFFIX,discover.com
+
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
+
 # Fluz Power
 DOMAIN-SUFFIX,power.fluz.app
+
+# HSBC US
+DOMAIN-SUFFIX,us.hsbc.com
+
+# Marcus
+DOMAIN-SUFFIX,marcus.com
+
+# M&T Bank
+DOMAIN-SUFFIX,mtb.com
+
+# PayPal
+DOMAIN-SUFFIX,paypal.com
+
+# Plaid
+DOMAIN-SUFFIX,plaid.com
+
+# SoFi
+DOMAIN-SUFFIX,sofi.com
+
+# UCU
+DOMAIN-SUFFIX,ucu.org
+
+# Venmo
+DOMAIN-SUFFIX,venmo.com
+
+# Wells Fargo
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,biltrewards.com
+
+# Wise
+DOMAIN-SUFFIX,wise.com
+
+# Zelle
+DOMAIN-SUFFIX,zellepay.com
+DOMAIN-SUFFIX,earlywarning.com
