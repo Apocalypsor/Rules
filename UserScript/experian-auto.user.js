@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Experian AutoClicker
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Automatically clicks on the "No, Keep My Current Membership" button on Experian/Equifax.
 // @author       dov
-// @downloadURL  https://git.dov.moe/dov/Scripts/raw/branch/main/UserScript/experian-auto.user.js
-// @updateURL    https://git.dov.moe/dov/Scripts/raw/branch/main/UserScript/experian-auto.user.js
+// @downloadURL  https://raw.githubusercontent.com/Apocalypsor/Rules/master/UserScript/experian-auto.user.js
+// @updateURL    https://raw.githubusercontent.com/Apocalypsor/Rules/master/UserScript/experian-auto.user.js
 // @match        https://usa.experian.com/mfe/member/preload
 // @match        https://usa.experian.com/mfe/member/loginInterstitial
 // @match        https://www.equifax.com/myequifax/loginsplashl/ecc
