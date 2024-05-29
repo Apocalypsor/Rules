@@ -1,28 +1,28 @@
+# Advcash
+DOMAIN-SUFFIX,advcash.com
+
+# imToken
+DOMAIN-SUFFIX,token.im
+
+# Nexo
+DOMAIN-SUFFIX,nexo.io
+
+# Nuri
+DOMAIN-SUFFIX,nuri.com
+
 # N26
 DOMAIN-SUFFIX,tech26.de
 DOMAIN-SUFFIX,n26.com
 
-# Nuri
-DOMAIN-SUFFIX,nuri.com
+# Plutus
+DOMAIN-SUFFIX,plutus.it
 
 # Vivid
 DOMAIN-SUFFIX,vivid.money
 DOMAIN-SUFFIX,group-ib.com
 
-# Nexo
-DOMAIN-SUFFIX,nexo.io
-
-# Plutus
-DOMAIN-SUFFIX,plutus.it
-
-# Advcash
-DOMAIN-SUFFIX,advcash.com
-
-# Vodafone
+# Vodafone DE
 DOMAIN-SUFFIX,vodafone.de
 
 # ZEN
 DOMAIN-SUFFIX,zen.com
-
-# imToken
-DOMAIN-SUFFIX,token.im
