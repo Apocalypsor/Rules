@@ -73,5 +73,11 @@ DOMAIN-SUFFIX,thebluedot.co
 # Plaid
 DOMAIN-SUFFIX,plaid.com
 
+# Credit
+DOMAIN-SUFFIX,creditkarma.com
+DOMAIN-SUFFIX,experian.com
+DOMAIN-SUFFIX,transunion.com
+DOMAIN-SUFFIX,equifax.com
+
 # Fluz Power
 DOMAIN-SUFFIX,power.fluz.app
