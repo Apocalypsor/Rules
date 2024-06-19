@@ -4987,6 +4987,7 @@
 *://*.kyidu.com/*
 *://*.kyotohana.com/*
 *://*.kyqzjx.com/*
+*://*.kzen.dev/*
 *://*.kzfripi.cn/*
 *://*.l3x3.cn/*
 *://*.l4ryrow.cn/*
