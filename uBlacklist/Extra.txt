@@ -387,3 +387,4 @@
 *://*.ejdz.cn/*
 *://*.xuebaunion.com/*
 *://*.gtdibms.com/*
+*://*.epochtimes.com/*
