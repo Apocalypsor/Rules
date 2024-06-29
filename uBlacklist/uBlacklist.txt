@@ -3021,6 +3021,7 @@
 *://*.eoncon.com/*
 *://*.eooele.com/*
 *://*.epcrs1j.cn/*
+*://*.epochtimes.com/*
 *://*.epx75vk.cn/*
 *://*.eq-laboratories.buzz/*
 *://*.eqisou.net/*
