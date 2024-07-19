@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,hsbc.com.hk
 
 # inMotion
-DOMAIN-SUFFIX,cncbinternational.com:443
+DOMAIN-SUFFIX,cncbinternational.com
 
 # livi Bank
 DOMAIN-SUFFIX,livibank.com
