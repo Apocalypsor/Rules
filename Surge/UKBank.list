@@ -40,6 +40,9 @@ DOMAIN-SUFFIX,tandem.co.uk
 # Tide
 DOMAIN-SUFFIX,tide.co
 
+# Trading212
+DOMAIN-SUFFIX,trading212.com
+
 # Tred
 DOMAIN-SUFFIX,tred.earth
 DOMAIN-SUFFIX,tredearth.cloud
