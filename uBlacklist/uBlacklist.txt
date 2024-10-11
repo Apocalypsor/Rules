@@ -6169,6 +6169,7 @@
 *://*.midjourney.com/*
 *://*.midjourneyai.ai/*
 *://*.midlibrary.io/*
+*://*.midprompteria.com/*
 *://*.miiqznp.cn/*
 *://*.milacms.com/*
 *://*.millermall.com.tw/*
