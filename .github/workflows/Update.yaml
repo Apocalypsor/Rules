@@ -36,6 +36,7 @@ jobs:
           curl -sS https://raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt >> /tmp/list && echo "" >> /tmp/list
           curl -sS https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt >> /tmp/list && echo "" >> /tmp/list
           curl -sS https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt >> /tmp/list && echo "" >> /tmp/list
+          curl -sS https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt >> /tmp/list && echo "" >> /tmp/list
           cat uBlacklist/Extra.txt >> /tmp/list
           cat /tmp/list | sed -e "s/^!.*//g" -e "s/^ *Update.*//g" -e "s/^#.*//g" -e "s/\*\.www\./*./g" -e "/^$/d" | sort -u > uBlacklist/uBlacklist.txt
       - name: Push
