@@ -11110,4 +11110,3 @@
 /qastack\.(com\.)?\w+/
 /stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
 /vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
-404: Not Found
