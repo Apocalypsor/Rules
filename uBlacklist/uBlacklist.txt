@@ -3293,7 +3293,6 @@
 *://*.eberhard-gienger.buzz/*
 *://*.ebikeyun.com/*
 *://*.ebook123.cc/*
-*://*.ebsynth.com/*
 *://*.ebtworld.com/*
 *://*.ebziyus.cn/*
 *://*.ec-n.net/*
@@ -3698,6 +3697,7 @@
 *://*.freeaiavatargenerator.pro/*
 *://*.freeflo.ai/*
 *://*.freeguo.com/*
+*://*.freepik.com/ai/*
 *://*.freepik.com/author/smmstore773/*
 *://*.freepik.com/premium-ai-image/*
 *://*.freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
@@ -6167,6 +6167,7 @@
 *://*.midjourney.co.in/*
 *://*.midjourney.co/*
 *://*.midjourney.com/*
+*://*.midjourney9.com/*
 *://*.midjourneyai.ai/*
 *://*.midlibrary.io/*
 *://*.midprompteria.com/*
@@ -7054,6 +7055,7 @@
 *://*.pmtt.cc/*
 *://*.pmyx.net/*
 *://*.pnelwjz.cn/*
+*://*.pngmaker.ai/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
 *://*.pny555.com/*
@@ -7146,6 +7148,7 @@
 *://*.promeai.pro/*
 *://*.promoworksnow.buzz/*
 *://*.prompt.quel.jp/*
+*://*.promptalot.com/*
 *://*.promptbase.com/*
 *://*.promptchan.ai/*
 *://*.promptden.com/*
@@ -7565,6 +7568,7 @@
 *://*.reddit.com/r/bard/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/civitai/*
+*://*.reddit.com/r/cursedAIpics/*
 *://*.reddit.com/r/dalle2/*
 *://*.reddit.com/r/deepdream/*
 *://*.reddit.com/r/deeplearning/*
@@ -9027,6 +9031,7 @@
 *://*.universalusbinstallerdownload.com/*
 *://*.unleash.so/*
 *://*.unlimited-results.buzz/*
+*://*.unpod.ai/*
 *://*.unprompt.ai/*
 *://*.unsfunnfifxa.buzz/*
 *://*.unzx.cc/*
@@ -9525,6 +9530,7 @@
 *://*.wqzx.cc/*
 *://*.writehuman.ai/*
 *://*.writelyai.com/*
+*://*.writesonic.com/*
 *://*.wrq6ljg.cn/*
 *://*.wrr8.cn/*
 *://*.wsb8.cn/*
@@ -11041,6 +11047,7 @@
 /amazon.+\/.+\/dp\/B0CVTYD34P/
 /amazon.+\/.+\/dp\/B0CVVJQP39/
 /amazon.+\/.+\/dp\/B0CZP35QWQ/
+/freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
 /pinterest.+\/0ccmbkgxrcqh40h/
 /pinterest.+\/Aiartanime/
 /pinterest.+\/Artify_ai/
@@ -11108,6 +11115,7 @@
 /pinterest.+\/tonnyfroyen/
 /pinterest.+\/wangxu3409720947/
 /pinterest.+\/warking999999/
+/pixabay\.com\/.*(ai(-|%20)generated|\/ai%20anime|\/ai-creation)/
 /qastack\.(com\.)?\w+/
 /stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
 /vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
