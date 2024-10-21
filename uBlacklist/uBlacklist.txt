@@ -500,6 +500,7 @@
 *://*.2match2.buzz/*
 *://*.2mikes.buzz/*
 *://*.2moons.ai/*
+*://*.2moonsai.com/*
 *://*.2optrip.com/*
 *://*.2p79j9v.cn/*
 *://*.2p8doar.cn/*
@@ -1478,6 +1479,7 @@
 *://*.aiartgenerator.us/*
 *://*.aiartists.org/*
 *://*.aiartmaster.co/*
+*://*.aiartpromptslist.com/*
 *://*.aiartshop.com/*
 *://*.aiartstock.com/*
 *://*.aiava.art/*
@@ -1520,6 +1522,7 @@
 *://*.ainude.porn/*
 *://*.aioli.ai/*
 *://*.aipassportphotos.com/*
+*://*.aiphotos123.art/*
 *://*.aipicasso.app/*
 *://*.aipicasso.studio.site/*
 *://*.aipictors.com/*
@@ -3869,6 +3872,7 @@
 *://*.gdzyt007.com/*
 *://*.gear88.com/*
 *://*.gebvrl0.cn/*
+*://*.gecdesigns.com/*
 *://*.gedixinxi.com/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
@@ -4792,6 +4796,7 @@
 *://*.imagine.art/*
 *://*.imagineme.ai/*
 *://*.imagineme.app/*
+*://*.imaginewithrashid.com/*
 *://*.imajinn.ai/*
 *://*.imake.porn/*
 *://*.imccar.com/*
@@ -5201,6 +5206,7 @@
 *://*.josephmagazine.buzz/*
 *://*.jouhom.com/*
 *://*.jounce.ai/*
+*://*.journeyaiart.com/*
 *://*.journeyart.ai/*
 *://*.joy-life.cn/*
 *://*.joyfulcelebrationsinc.buzz/*
@@ -6554,6 +6560,7 @@
 *://*.nnpq8dx.cn/*
 *://*.nntianhai.com/*
 *://*.no54hagleyroad.buzz/*
+*://*.nobleshapes.com/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
 *://*.nolo.ai/*
@@ -7151,6 +7158,7 @@
 *://*.promptalot.com/*
 *://*.promptbase.com/*
 *://*.promptchan.ai/*
+*://*.promptcow.com/*
 *://*.promptden.com/*
 *://*.promptforum.com/*
 *://*.prompthero.ai/*
@@ -7158,6 +7166,7 @@
 *://*.prompthunt.com/*
 *://*.prompti.ai/*
 *://*.promptle.art/*
+*://*.promptlibrary.org/*
 *://*.promptomania.com/*
 *://*.promptpal.net/*
 *://*.promptsideas.com/*
@@ -8550,6 +8559,7 @@
 *://*.tasarikurkmod.buzz/*
 *://*.tatcdz.com/*
 *://*.tatest.cn/*
+*://*.tattoosgenerator.ai/*
 *://*.tauckbridges.buzz/*
 *://*.tauckvacations4less.buzz/*
 *://*.tauferer-ahrntal.eu/*
@@ -8623,6 +8633,7 @@
 *://*.thataicollection.com/*
 *://*.thcc.cc/*
 *://*.the-cuties.com/*
+*://*.theaipromptshop.com/*
 *://*.thebmovierats.buzz/*
 *://*.thebowhuntersjournal.com/*
 *://*.thecluelesscrafter.com/*
@@ -8657,6 +8668,7 @@
 *://*.thnmjjrxh.com/*
 *://*.thooinc.com/*
 *://*.threeooo.com/*
+*://*.threwthelookingglass.com/*
 *://*.thruo2r.cn/*
 *://*.thxdtsx.cn/*
 *://*.thy2jk.cn/*
@@ -9177,6 +9189,7 @@
 *://*.visitnetherland.buzz/*
 *://*.visla.us/*
 *://*.visualxxx.buzz/*
+*://*.vitalentum.net/*
 *://*.vitality-spirit.buzz/*
 *://*.vivi158.com/*
 *://*.viwxhj3.cn/*
@@ -9431,6 +9444,7 @@
 *://*.whynnn.com/*
 *://*.whysw88.com/*
 *://*.whytcf.com/*
+*://*.whytryai.com/*
 *://*.whyzbr.com/*
 *://*.wienfm.com/*
 *://*.wihvf3.cn/*
