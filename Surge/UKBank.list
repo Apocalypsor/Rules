@@ -1,64 +1,59 @@
-# HyperJar
-DOMAIN-SUFFIX,hyperjar.com
-
-# MyAhmed
-DOMAIN-SUFFIX,myahmed.com
-
-# Monzo
-DOMAIN-SUFFIX,monzo.com
-
-# Chase UK
-DOMAIN-SUFFIX,chase.co.uk
-
-# Experian
-DOMAIN-SUFFIX,experian.co.uk
-
-# Tide
-DOMAIN-SUFFIX,tide.co
-
 # Algbra
 DOMAIN-SUFFIX,algbra.com
 DOMAIN-SUFFIX,prod-algbra.com
 DOMAIN-SUFFIX,devops-algbra.com
 
-# Tred
-DOMAIN-SUFFIX,tred.earth
-DOMAIN-SUFFIX,tredearth.cloud
-
-# Keebo
-DOMAIN-SUFFIX,keebo.com
-
-# TotallyMoney
-DOMAIN-SUFFIX,totallymoney.com
-
 # cashplus
 DOMAIN-SUFFIX,cashplus.com
 
-# Vodafone
-DOMAIN-SUFFIX,vodafone.co.uk
+# Chase UK
+DOMAIN-SUFFIX,chase.co.uk
 
-# Stripe
-DOMAIN-SUFFIX,stripe.com
-
-# Virgin Money
-DOMAIN-SUFFIX,virginmoney.com
-
-# Credit Club
+# Credit
+DOMAIN-SUFFIX,experian.co.uk
+DOMAIN-SUFFIX,creditkarma.co.uk
+DOMAIN-SUFFIX,totallymoney.com
+DOMAIN-SUFFIX,clearscore.com
 DOMAIN-SUFFIX,moneysavingexpert.com
 
 # HSBC UK
 DOMAIN-SUFFIX,hsbc.co.uk
 
-# Tandem
-DOMAIN-SUFFIX,tandem.co.uk
-
-# MSE
-DOMAIN-SUFFIX,moneysavingexpert.com
+# HyperJar
+DOMAIN-SUFFIX,hyperjar.com
 
 # iFAST Global Bank
 DOMAIN-SUFFIX,ifastgb.com
 
-# Other
+# Keebo
+DOMAIN-SUFFIX,keebo.com
+
+# Monzo
+DOMAIN-SUFFIX,monzo.com
+
+# MyAhmed
+DOMAIN-SUFFIX,myahmed.com
+
+# Tandem
+DOMAIN-SUFFIX,tandem.co.uk
+
+# Tide
+DOMAIN-SUFFIX,tide.co
+
+# Trading212
+DOMAIN-SUFFIX,trading212.com
+
+# Tred
+DOMAIN-SUFFIX,tred.earth
+DOMAIN-SUFFIX,tredearth.cloud
+
+# Virgin Money
+DOMAIN-SUFFIX,virginmoney.com
+
+# Vodafone UK
+DOMAIN-SUFFIX,vodafone.co.uk
+
+# Zilch
 DOMAIN-SUFFIX,zilch.com
 DOMAIN-SUFFIX,payzilch.com
 DOMAIN-SUFFIX,zbook.lol

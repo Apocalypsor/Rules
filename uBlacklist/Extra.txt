@@ -384,3 +384,7 @@
 *://*.cztlsl.com/*
 *://*.ourplay.net/*
 *://apphot.cc/*
+*://*.ejdz.cn/*
+*://*.xuebaunion.com/*
+*://*.gtdibms.com/*
+*://*.epochtimes.com/*
