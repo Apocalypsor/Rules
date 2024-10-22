@@ -6096,6 +6096,7 @@
 *://*.media.io/*
 *://*.mediatagtw.com/*
 *://*.medistaryn.com/*
+*://*.medium.com/@SLover/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/@inchristiely/*
 *://*.medium.com/generative-ai/*
@@ -6612,6 +6613,7 @@
 *://*.ntzhonglin.com/*
 *://*.nuanzhu100.com/*
 *://*.nubee.ai/*
+*://*.nucleovisual.com/*
 *://*.nudeai.com/*
 *://*.nudeai.de/*
 *://*.nudefusion.com/*
@@ -7076,6 +7078,7 @@
 *://*.poiui.top/*
 *://*.pokeit.ai/*
 *://*.poketoys.buzz/*
+*://*.polyai.ai/*
 *://*.pomdapi-shoes.buzz/*
 *://*.pond-view.buzz/*
 *://*.ponvn.cn/*
@@ -7987,6 +7990,7 @@
 *://*.shdaisy.com/*
 *://*.shdisheng.cn/*
 *://*.shdsn118.com/*
+*://*.shecodes.io/athena/*
 *://*.shedevrum.ai/*
 *://*.shegiveshead.buzz/*
 *://*.shehuiwenhua.com/*
