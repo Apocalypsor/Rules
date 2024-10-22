@@ -1747,6 +1747,7 @@
 *://*.art2008.net/*
 *://*.art4you.art/*
 *://*.artachodelpino-abogados.buzz/*
+*://*.artaigallery.com/*
 *://*.artaroundtheglobe.buzz/*
 *://*.artbikinis.buzz/*
 *://*.artbot.ai/*
@@ -2317,6 +2318,7 @@
 *://*.cangzhou8.cn/*
 *://*.canterbury.ai/*
 *://*.canva.com/ai-art-generator/*
+*://*.capcut.com/tools/ai-art-generator/*
 *://*.capitalretro.buzz/*
 *://*.captions.ai/*
 *://*.captivamortgage.buzz/*
@@ -2701,6 +2703,7 @@
 *://*.cre8tiveai.com/*
 *://*.creaitor.ai/*
 *://*.createporn.com/*
+*://*.creativefabrica.com/spark/*
 *://*.creativitywith.ai/*
 *://*.creatixai.com/*
 *://*.creator.nightcafe.studio/*
@@ -2897,6 +2900,7 @@
 *://*.dauphinislandcondos.com/*
 *://*.davidarielszauder.com/*
 *://*.davidsonandrade.buzz/*
+*://*.davinci.ai/*
 *://*.davinciai.art/*
 *://*.davinciface.com/*
 *://*.davy.ai/*
@@ -2941,6 +2945,7 @@
 *://*.debug8.com/*
 *://*.debugcn.com/*
 *://*.deca.art/*
+*://*.decohere.ai/*
 *://*.decouhome.com/*
 *://*.dedexiche.com/*
 *://*.deep-image.ai/*
@@ -3001,8 +3006,10 @@
 *://*.deviantart.com/dendyh7/*
 *://*.deviantart.com/instaai/*
 *://*.deviantart.com/jaredsyn/*
+*://*.deviantart.com/krzychumen/*
 *://*.deviantart.com/lizzyrascal/*
 *://*.deviantart.com/rasooliartworks/*
+*://*.deviantart.com/selosai/*
 *://*.deviantart.com/vyerran/*
 *://*.deviantart.com/zerofourai/*
 *://*.deviantart.com/zkreations/*
@@ -3255,6 +3262,7 @@
 *://*.dzgjy.com/*
 *://*.dzim.net
 *://*.dzim.net/*
+*://*.dzine.ai/*
 *://*.dzkjxxjc.com/*
 *://*.dztmsg.com/*
 *://*.e-c-a-t.buzz/*
@@ -3658,6 +3666,7 @@
 *://*.fluffyfables.com/*
 *://*.flux-ai.io/*
 *://*.flux-ai.net/*
+*://*.flux-image.com/*
 *://*.fluxai.dev/*
 *://*.fluxai.studio/*
 *://*.flx4.com/*
@@ -5448,6 +5457,7 @@
 *://*.kitelinef.com/*
 *://*.kits.ai/*
 *://*.kittiss.cn/*
+*://*.kittl.com/feature/ai-text-to-vector/*
 *://*.kjdzd.com/*
 *://*.kjg8.cn/*
 *://*.kjk8.cn/*
@@ -5459,6 +5469,7 @@
 *://*.kkrxc15.cn/*
 *://*.kkth.xj.cn/*
 *://*.kkup.cc/*
+*://*.klingai.com/*
 *://*.kliwei.com/*
 *://*.kljfgj.com/*
 *://*.klk8.cn/*
@@ -6358,6 +6369,7 @@
 *://*.myatlasexpress.com/*
 *://*.mybootic.com/*
 *://*.myd188.com/*
+*://*.myedit.online/*
 *://*.mygolfsky.com/*
 *://*.myhaikou.cn/*
 *://*.myifreinds.buzz/*
@@ -6366,6 +6378,7 @@
 *://*.mylovesy.com/*
 *://*.mymyjtf.com/*
 *://*.mynameinlights.buzz/*
+*://*.myninja.ai/*
 *://*.myperfecttan.buzz/*
 *://*.myprint.ai/*
 *://*.myqianfengdq.com/*
@@ -6465,6 +6478,7 @@
 *://*.netspew.buzz/*
 *://*.neuf.tv/*
 *://*.neural.love/*
+*://*.neuralframes.com/*
 *://*.neuralstyle.art/*
 *://*.neuro-flash.com/*
 *://*.new0059.com/*
@@ -6562,6 +6576,7 @@
 *://*.nntianhai.com/*
 *://*.no54hagleyroad.buzz/*
 *://*.nobleshapes.com/*
+*://*.nocodingai.com/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
 *://*.nolo.ai/*
@@ -6954,6 +6969,7 @@
 *://*.picciutofamily.buzz/*
 *://*.picfinder.ai/*
 *://*.picis.cn/*
+*://*.piclumen.com/*
 *://*.picsart.com/*
 *://*.picsart.com/ai-image-generator/*
 *://*.picso.ai/*
@@ -6993,6 +7009,7 @@
 *://*.pixels.com/profiles/lm2kone/*
 *://*.pixelz.ai/*
 *://*.pixlr.com/*
+*://*.pixverse.ai/*
 *://*.pjcq8.com/*
 *://*.pjen34r.cn/*
 *://*.pjfpf0f.cn/*
@@ -7043,6 +7060,7 @@
 *://*.play.google.com/store/apps/details?id=lava.aesthetic.art.anime.wallpapers.com/*
 *://*.play.ht/*
 *://*.playarti.com/*
+*://*.playbook.com/ai/*
 *://*.player96.buzz/*
 *://*.playform.ai/*
 *://*.playform.io/*
@@ -11065,6 +11083,8 @@
 /amazon.+\/.+\/dp\/B0CVTYD34P/
 /amazon.+\/.+\/dp\/B0CVVJQP39/
 /amazon.+\/.+\/dp\/B0CZP35QWQ/
+/deviantart\.com\/.*(-generative-ai|ai-generat(ive|ed)|-ai-art)/i
+/dreamstime\.com\/.*(generat(ed|ive)-(ai|art)|ai-generat(ive|ed))/
 /freepik\.com\/.*(ai-generat(ed|or)|generative-ai)/
 /pinterest.+\/0ccmbkgxrcqh40h/
 /pinterest.+\/Aiartanime/
