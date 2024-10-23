@@ -4855,6 +4855,7 @@
 *://*.instagram.com/kapibagi/*
 *://*.instagram.com/kenz.esther/*
 *://*.instagram.com/ladyphoenix.ai/*
+*://*.instagram.com/launchdsigns/p/Ctg9hxcA6Lj/*
 *://*.instagram.com/michaelstories/*
 *://*.instagram.com/misaki.aiart/*
 *://*.instagram.com/missfidonyoart/*
@@ -4862,7 +4863,9 @@
 *://*.instagram.com/nijimoemon/*
 *://*.instagram.com/novaborngaming/*
 *://*.instagram.com/oliviotutorials/*
+*://*.instagram.com/percipietro/p/DAhljhFOZU8/*
 *://*.instagram.com/picso_ai/*
+*://*.instagram.com/quran_makes_me_smile/p/CsRO1YpPCAX/*
 *://*.instagram.com/raymur.art/*
 *://*.instagram.com/reel/*
 *://*.instagram.com/sentientmuppetfactory/*
@@ -8713,6 +8716,7 @@
 *://*.tigresounds.com/*
 *://*.tihaofree.com/*
 *://*.tiinon.com/*
+*://*.tiktok.com/@ku_13js/*
 *://*.tiku.link/*
 *://*.tile-factory.buzz/*
 *://*.tingguqinapp.com/*
@@ -11140,6 +11144,7 @@
 /pinterest.+\/pin\/563018696976219/
 /pinterest.+\/pin\/594967800804194444/
 /pinterest.+\/pin\/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076/
+/pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/quick-saves--1041879695027157288/
 /pinterest.+\/racingtff/
