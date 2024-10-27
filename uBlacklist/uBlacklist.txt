@@ -3831,6 +3831,7 @@
 *://*.gallery-ai.art/*
 *://*.gamejs123.com/*
 *://*.gameonmac.com/*
+*://*.gamer.se/*
 *://*.gamesxfp.cn/*
 *://*.gametalk.site/*
 *://*.gan-ren.com/*
