@@ -4841,6 +4841,7 @@
 *://*.incj1ce.cn/*
 *://*.inf.news/*
 *://*.infinite-visions.buzz/*
+*://*.infiniteworlds.app/*
 *://*.infonerve.com/*
 *://*.inglisheking.com/*
 *://*.inkworker.com/*
