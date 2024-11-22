@@ -6503,6 +6503,7 @@
 *://*.nengajou.buzz/*
 *://*.nenjiaren.com/*
 *://*.neon-pet.com/*
+*://*.neoprompt.ai/*
 *://*.net-auction.buzz/*
 *://*.net-stakes.buzz/*
 *://*.netspew.buzz/*
@@ -7113,6 +7114,7 @@
 *://*.pmyx.net/*
 *://*.pnelwjz.cn/*
 *://*.pngmaker.ai/*
+*://*.pngtree.com/so/cel-shading/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
 *://*.pny555.com/*
@@ -9028,6 +9030,7 @@
 *://*.turbo.art/*
 *://*.turf-seed-china.buzz/*
 *://*.tusfam.com/*
+*://*.tusiart.com/*
 *://*.tuvanduhoc.buzz/*
 *://*.tuwends.com/*
 *://*.tvbyulee.com/*
@@ -9186,6 +9189,7 @@
 *://*.umrhyqo.cn/*
 *://*.un2dn07.cn/*
 *://*.unboundml.com/*
+*://*.underonethousand.com/p/poetry-for-machines/*
 *://*.undetectable.ai/*
 *://*.undetectablecontent.ai/*
 *://*.undress-ai.app/*
@@ -11283,6 +11287,7 @@
 /pinterest.+\/pin\/idleturtle85-a-very-cute-baby-peacock--482518547589787278/
 /pinterest.+\/pin\/mulher-fatal/
 /pinterest.+\/pin\/quick-saves--1041879695027157288/
+/pinterest.+\/pin\/reference--13088655160761671/
 /pinterest.+\/racingtff/
 /pinterest.+\/radsamkat/
 /pinterest.+\/raj5hajong/
@@ -11296,5 +11301,6 @@
 /pinterest.+\/warking999999/
 /pixabay\.com\/.*(ai(-|%20)generated|\/ai%20anime|\/ai-creation)/
 /qastack\.(com\.)?\w+/
+/shutterstock\.com\/.*(image-generated|generated-by-ai|ai-image-generator|image_type=generated)/
 /stock\.adobe\.com\/.*(generat(ed|(ive))-ai|ai-generated)/
 /vecteezy\.com\/.*(ai-generat((ed)|(ive))|generat(ed?|(ive))-ai)/
