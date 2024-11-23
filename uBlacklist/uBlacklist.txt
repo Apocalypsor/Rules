@@ -4827,6 +4827,7 @@
 *://*.imagefap.com/*
 *://*.imageinfo.cn/*
 *://*.imagekraft.ai/*
+*://*.imagella.com/*
 *://*.images.ai/*
 *://*.imagina-tech.buzz/*
 *://*.imagine.art/*
@@ -5855,6 +5856,7 @@
 *://*.lksds20.cn/*
 *://*.lksmaae.cn/*
 *://*.ll138.com/*
+*://*.llamagen.ai/*
 *://*.lldn.net/*
 *://*.llibertatidemocracia.buzz/*
 *://*.llillianvernon.buzz/*
@@ -9344,6 +9346,7 @@
 *://*.vigge.cn/*
 *://*.vigge.net/*
 *://*.vigges.net/*
+*://*.viggle.ai/*
 *://*.viicm.com/*
 *://*.vijpnmu.cn/*
 *://*.viltd.com/*
