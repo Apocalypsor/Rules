@@ -1762,6 +1762,7 @@
 *://*.arthemy.ai/*
 *://*.arthub.ai/*
 *://*.article24hours.buzz/*
+*://*.artificialpaintings.com/*
 *://*.artificialpro.buzz/*
 *://*.artifylabs.io/*
 *://*.artimator.ai/*
@@ -3232,6 +3233,7 @@
 *://*.duhuimall.com/*
 *://*.duield.cn/*
 *://*.dumoba.com/*
+*://*.dungeonsanddragonsfan.com/*
 *://*.dunimd.com/*
 *://*.dunstanhardcastle.com/*
 *://*.duoduohelp.com/*
@@ -3771,6 +3773,7 @@
 *://*.fubd4ur.cn/*
 *://*.fuheis.net/*
 *://*.fuligou8.com/*
+*://*.fullbloomclub.net/*
 *://*.fulsx.com/*
 *://*.fulucaijing.com/*
 *://*.fundaciondaniloperez.com/*
@@ -4853,6 +4856,7 @@
 *://*.innofthedovedallas.com/*
 *://*.innovanti.online/*
 *://*.innxm.com/*
+*://*.insertface.com/*
 *://*.insideabritishmumskitchen.com/*
 *://*.insidr.ai/*
 *://*.insitedesigns.net/*
@@ -8800,6 +8804,7 @@
 *://*.thebmovierats.buzz/*
 *://*.thebowhuntersjournal.com/*
 *://*.thecluelesscrafter.com/*
+*://*.thedream.ai/*
 *://*.thedreamkeeper.co/*
 *://*.thefile.org/*
 *://*.thefreesummit.com/*
@@ -9052,6 +9057,7 @@
 *://*.twitter.com/Ai99gAmi/*
 *://*.twitter.com/AiDesignSA/*
 *://*.twitter.com/AonekoSS/*
+*://*.twitter.com/AyakonArts/*
 *://*.twitter.com/Clie_X/*
 *://*.twitter.com/DeviantArt/*
 *://*.twitter.com/EMostaque/*
@@ -9809,6 +9815,7 @@
 *://*.x.com/Ai99gAmi/*
 *://*.x.com/AiDesignSA/*
 *://*.x.com/AonekoSS/*
+*://*.x.com/AyakonArts/*
 *://*.x.com/Clie_X/*
 *://*.x.com/DeviantArt/*
 *://*.x.com/EMostaque/*
