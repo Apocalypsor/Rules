@@ -2534,6 +2534,7 @@
 *://*.civbvh.cn/*
 *://*.civit.ai/*
 *://*.civitai.com/*
+*://*.civitaic.com/*
 *://*.cizsjedx.cn/*
 *://*.cj0n93c.cn/*
 *://*.cjegnvd.cn/*
