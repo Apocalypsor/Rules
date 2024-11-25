@@ -3106,6 +3106,7 @@
 *://*.disneyfans.cn/*
 *://*.disnnai.com.tw/*
 *://*.disnock.com/*
+*://*.distinctplugins.io/*
 *://*.ditexas.cn/*
 *://*.dittin.ai/*
 *://*.divcss5.com/*
