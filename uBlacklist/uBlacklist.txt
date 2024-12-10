@@ -8407,6 +8407,7 @@
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
 *://*.sop5fzr.cn/*
+*://*.sora.com/*
 *://*.sorapix.ai/*
 *://*.sosnboutique.com/*
 *://*.sosocp.cn/*
