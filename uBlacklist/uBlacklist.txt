@@ -3190,6 +3190,7 @@
 *://*.draeno.io/*
 *://*.draffinenterprises.buzz/*
 *://*.draftlab.ai/*
+*://*.drawever.com/*
 *://*.drawgpt.ai/*
 *://*.drawnudes.io/*
 *://*.dream.ai/*
