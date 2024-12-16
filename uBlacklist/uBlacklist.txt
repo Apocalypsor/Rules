@@ -1488,6 +1488,7 @@
 *://*.aicameo.com/*
 *://*.aichatting.net/*
 *://*.aichi-kasugai.buzz/*
+*://*.aicreate.com/*
 *://*.aidehouse.com/*
 *://*.aidungeon.com/*
 *://*.aieasypic.com/*
@@ -1718,6 +1719,7 @@
 *://*.applicationsbuilder.buzz/*
 *://*.appqianbao.com/*
 *://*.appsloveworld.com/*
+*://*.appypie.com/*
 *://*.apsd360.com/*
 *://*.apshengdun.com/*
 *://*.aptvgo.com/*
@@ -2434,6 +2436,7 @@
 *://*.cfpsf.com/*
 *://*.cfyuele.com/*
 *://*.cgdbior.cn/*
+*://*.cgdream.ai/*
 *://*.cgeas.org.cn/*
 *://*.cglhl.com/*
 *://*.cgshw.net/*
@@ -6060,6 +6063,7 @@
 *://*.mage.space/*
 *://*.magelinesc.com/*
 *://*.magicalcn.com/*
+*://*.magichour.ai/*
 *://*.magicstudio.com/*
 *://*.magnific.ai/*
 *://*.maguro.cn/*
@@ -6967,6 +6971,7 @@
 *://*.perchance.org/*
 *://*.perfectcorp.com/*
 *://*.perhu.com/*
+*://*.perplexity.ai/*
 *://*.persarea.com/*
 *://*.personalcreatiions.buzz/*
 *://*.personbiler.buzz/*
@@ -8334,6 +8339,7 @@
 *://*.smartwriter.ai/*
 *://*.smexy.ai/*
 *://*.smf7.com/*
+*://*.smiletemplates.com/search/images/*
 *://*.smiseo.com/*
 *://*.smokingrobot.ai/*
 *://*.smszh.com/*
@@ -8954,6 +8960,7 @@
 *://*.tongxinylw.com/*
 *://*.tool.jqhnt.com.cn/*
 *://*.toolai.io/*
+*://*.toolbaz.com/*
 *://*.tooldirectory.ai/*
 *://*.toolify.ai/*
 *://*.toolpilot.ai/*
@@ -9014,6 +9021,7 @@
 *://*.trycatchdebug.net/*
 *://*.tryellie.com/*
 *://*.tryhologram.art/*
+*://*.tryleap.ai/*
 *://*.trynectar.ai/*
 *://*.tsfx.cc/*
 *://*.tsltw.com/*
