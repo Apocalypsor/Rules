@@ -47,6 +47,10 @@ DOMAIN-SUFFIX,experiancs.com
 DOMAIN-SUFFIX,transunion.com
 DOMAIN-SUFFIX,equifax.com
 
+# Delta Community Credit Union
+DOMAIN-SUFFIXdeltacommunitycu.com
+DOMAIN-SUFFIX,digitalinsight.com
+
 # Deserve
 DOMAIN-SUFFIX,deserve.com
 
@@ -56,11 +60,20 @@ DOMAIN-SUFFIX,discover.com
 # Fidelity
 DOMAIN-SUFFIX,fidelity.com
 
+# Fifth Third
+DOMAIN-SUFFIX,53.com
+
+# First Horizon
+DOMAIN-SUFFIX,firsthorizon.com
+
 # Fluz Power
 DOMAIN-SUFFIX,power.fluz.app
 
 # HSBC US
 DOMAIN-SUFFIX,us.hsbc.com
+
+# LGE Community Credit Union
+DOMAIN-SUFFIX,lgeccu.org
 
 # Marcus
 DOMAIN-SUFFIX,marcus.com
@@ -74,6 +87,9 @@ DOMAIN-SUFFIX,paypal.com
 # Plaid
 DOMAIN-SUFFIX,plaid.com
 
+# Regions
+DOMAIN-SUFFIX,regions.com
+
 # Revolut
 DOMAIN-SUFFIX,revolut.com
 
@@ -82,6 +98,9 @@ DOMAIN-SUFFIX,sofi.com
 
 # UCU
 DOMAIN-SUFFIX,ucu.org
+
+# US Bank
+DOMAIN-SUFFIX,usbank.com
 
 # Venmo
 DOMAIN-SUFFIX,venmo.com
