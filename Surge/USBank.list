@@ -115,6 +115,9 @@ DOMAIN-SUFFIX,venmo.com
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,biltrewards.com
 
+# Wings CU
+DOMAIN-SUFFIX,wingscu.com
+
 # Wise
 DOMAIN-SUFFIX,wise.com
 
