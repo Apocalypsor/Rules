@@ -34,6 +34,11 @@ DOMAIN-SUFFIX,schwab.com
 # Chase
 DOMAIN-SUFFIX,chase.com
 
+# ChexSystems
+DOMAIN-SUFFIX,fisglobal.com
+DOMAIN-SUFFIX,chexsystems.eto.fiscloudservices.com
+DOMAIN-SUFFIX,chexsystems.com
+
 # Citadel
 DOMAIN-SUFFIX,citadelbanking.com
 
