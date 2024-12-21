@@ -34,6 +34,12 @@ DOMAIN-SUFFIX,schwab.com
 # Chase
 DOMAIN-SUFFIX,chase.com
 
+# ChexSystems
+DOMAIN-SUFFIX,fisglobal.com
+DOMAIN-SUFFIX,chexsystems.eto.fiscloudservices.com
+DOMAIN-SUFFIX,chexsystems.com
+DOMAIN-SUFFIX,aa.online-metrix.net
+
 # Citadel
 DOMAIN-SUFFIX,citadelbanking.com
 
@@ -114,6 +120,10 @@ DOMAIN-SUFFIX,venmo.com
 # Wells Fargo
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,biltrewards.com
+
+# Wings CU
+DOMAIN-SUFFIX,wingscu.com
+DOMAIN-SUFFIX,wingsfinancial.com
 
 # Wise
 DOMAIN-SUFFIX,wise.com
