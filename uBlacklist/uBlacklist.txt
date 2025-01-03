@@ -1975,6 +1975,7 @@
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
 *://*.beaniebiz.buzz/*
+*://*.beatcoynz-artwork.com/*
 *://*.beatoven.ai/*
 *://*.beauty-flowers.buzz/*
 *://*.beauty-katsura.buzz/*
@@ -6159,6 +6160,7 @@
 *://*.medium.com/@SLover/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/@inchristiely/*
+*://*.medium.com/@queenskisivuli/*
 *://*.medium.com/generative-ai/*
 *://*.medium.com/mlearning-ai/*
 *://*.meeting.ai/*
@@ -6628,6 +6630,7 @@
 *://*.nobleshapes.com/*
 *://*.nocodingai.com/*
 *://*.nodep2p.com/*
+*://*.nohat.cc/*
 *://*.noiseofmax.net/*
 *://*.nolo.ai/*
 *://*.nomar.cn/*
@@ -8539,7 +8542,9 @@
 *://*.sthuaguan.com/*
 *://*.sticky.cool/*
 *://*.stiqsxf.cn/*
+*://*.stl.team/*
 *://*.stl24.com/*
+*://*.stlmax.com/*
 *://*.stmhxqs.com/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986/*
