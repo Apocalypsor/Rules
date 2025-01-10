@@ -1550,6 +1550,7 @@
 *://*.aistickr.com/*
 *://*.aistyle.art/*
 *://*.aitable.ai/*
+*://*.aitoolhunt.com/*
 *://*.aitoolmall.com/*
 *://*.aitools.fyi/*
 *://*.aitoolskit.ai/*
@@ -2207,6 +2208,7 @@
 *://*.boschgl.com/*
 *://*.bossiercountry.buzz/*
 *://*.bot3.ai/*
+*://*.bottr.me/*
 *://*.bountysource.com/issues/*
 *://*.boyaclean.com/*
 *://*.boyajyzs.cn/*
@@ -3334,6 +3336,7 @@
 *://*.eberhard-gienger.buzz/*
 *://*.ebikeyun.com/*
 *://*.ebook123.cc/*
+*://*.ebsynth.com/*
 *://*.ebtworld.com/*
 *://*.ebziyus.cn/*
 *://*.ec-n.net/*
@@ -3853,6 +3856,7 @@
 *://*.g8gbsq2.cn/*
 *://*.g8q9699.cn/*
 *://*.gaaf.klvgb.loan/*
+*://*.gab.ai/*
 *://*.gachax.com/anime/*
 *://*.gacuqg.cn/*
 *://*.gadgetarq.com/*
@@ -4783,6 +4787,7 @@
 *://*.idaote.com/*
 *://*.idecap.cn/*
 *://*.ideogram.ai/*
+*://*.idesigns.shop/*
 *://*.idfn.cn/*
 *://*.iditect.com/how-to/*
 *://*.idomoo.ai/*
@@ -4951,6 +4956,7 @@
 *://*.irmoai.com/*
 *://*.ironbuffalocomics.com/*
 *://*.isdce.com/*
+*://*.ishencai.com/*
 *://*.iskeke.com/*
 *://*.isky.ltd/*
 *://*.island-magic.buzz/*
@@ -6117,6 +6123,7 @@
 *://*.marriedgames.com.br/*
 *://*.marybethhouse.buzz/*
 *://*.maryellenmacke.buzz/*
+*://*.mascots.ai/*
 *://*.massillonmotors.buzz/*
 *://*.masterpiecestudio.com/*
 *://*.maszfdp.com/*
@@ -6200,6 +6207,7 @@
 *://*.meshow100.com/*
 *://*.meshy.ai/*
 *://*.meta.ai/*
+*://*.metademolab.com/*
 *://*.metal-wire.net/*
 *://*.metaphysic.ai/*
 *://*.metaroids.com/*
@@ -8396,6 +8404,7 @@
 *://*.soca.ai/*
 *://*.socialdraft.com/*
 *://*.sodocs.net/*
+*://*.softgist.com/*
 *://*.softwarebrother.com/*
 *://*.softwaresex.buzz/*
 *://*.softwareuser.asklobster.com/*
@@ -9421,6 +9430,7 @@
 *://*.voidcn.com/*
 *://*.voidsynth.art/*
 *://*.volprixreduit.buzz/*
+*://*.vondy.com/*
 *://*.vonkalm.com/*
 *://*.voorp.com/*
 *://*.voycn.com/*
@@ -10421,6 +10431,7 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/@SHAD_AI/*
+*://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@enigmatic_e/*
 *://*.youtube.com/@sebastiankamph/*
 *://*.youtube.com/@shadiversity/*
