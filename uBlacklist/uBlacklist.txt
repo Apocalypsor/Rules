@@ -6308,6 +6308,7 @@
 *://*.moe.am/*
 *://*.moeblog.top/*
 *://*.moemate.io/*
+*://*.moescape.ai/*
 *://*.mofish.work/*
 *://*.mokegod.com/*
 *://*.moktime.com/*
