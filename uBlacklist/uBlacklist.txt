@@ -2656,6 +2656,7 @@
 *://*.com.sinoextruder.net.cn/*
 *://*.comdevtech.buzz/*
 *://*.comfy.icu/*
+*://*.comfy.org/*
 *://*.comicsmaker.ai/*
 *://*.compmemory.buzz/*
 *://*.compozi.com/*
