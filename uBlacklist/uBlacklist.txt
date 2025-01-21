@@ -2827,6 +2827,7 @@
 *://*.cy938.com/*
 *://*.cybei.com/*
 *://*.cybermedicine2000.com/*
+*://*.cybersecguide.com/*
 *://*.cyclesurfstudio.com/*
 *://*.cyhjjc.com/*
 *://*.cyhs888.com/*
@@ -3656,6 +3657,7 @@
 *://*.findmyaitool.com/*
 *://*.fine-titania.com/*
 *://*.fire-club.cn/*
+*://*.fireflies.ai/*
 *://*.firstcp.cn/*
 *://*.fiscusseamlessguttering.com/*
 *://*.fish996.com/*
@@ -5580,6 +5582,7 @@
 *://*.krea.ai/*
 *://*.kreaai.net/*
 *://*.kreadoai.com/*
+*://*.krisp.ai/*
 *://*.ks316.cn/*
 *://*.ks745.com/*
 *://*.ksa-boy.com/*
@@ -6867,6 +6870,7 @@
 *://*.otcrong.com/*
 *://*.otminteriors.com/*
 *://*.otrjobmatch.com/*
+*://*.otter.ai/*
 *://*.otu80jn.cn/*
 *://*.oudebaosw.com/*
 *://*.ouiot.com/*
@@ -8544,6 +8548,7 @@
 *://*.stclairsupply.buzz/*
 *://*.stcymy.cn/*
 *://*.steamcuba.com/*
+*://*.steelefortress.com/*
 *://*.stellavingzeinternational.com/*
 *://*.stephenmiao.cn/*
 *://*.steve.ai/*
