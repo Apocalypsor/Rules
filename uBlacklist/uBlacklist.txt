@@ -9491,6 +9491,7 @@
 *://*.wadbeijing.com/*
 *://*.wahahamima.cn/*
 *://*.wai1.cn/*
+*://*.waifu.com.mx/*
 *://*.waifulabs.com/*
 *://*.waiybl.com/*
 *://*.wakiga-takan.buzz/*
