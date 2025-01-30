@@ -6248,6 +6248,7 @@
 *://*.midjourney.co.in/*
 *://*.midjourney.co/*
 *://*.midjourney.com/*
+*://*.midjourney.fm/*
 *://*.midjourney9.com/*
 *://*.midjourneyai.ai/*
 *://*.midlibrary.io/*
@@ -6270,6 +6271,7 @@
 *://*.mirrorize.ai/*
 *://*.mississippifaithinaction.org/*
 *://*.misterzeng.com/*
+*://*.mistral.ai/*
 *://*.mitchsmotorcycles.com/*
 *://*.mittagongmultimedia.com/*
 *://*.mituang.com/*
