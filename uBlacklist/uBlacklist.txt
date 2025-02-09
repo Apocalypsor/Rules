@@ -5927,6 +5927,7 @@
 *://*.louewer.com/*
 *://*.lovegraco.cn/*
 *://*.lovelines.xyz/*
+*://*.loverse.ai/*
 *://*.lovesan33.cn/*
 *://*.loveuherbs.com/*
 *://*.loveyou521.com/*
@@ -10441,6 +10442,7 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/@SHAD_AI/*
+*://*.youtube.com/@TheDebugZone/*
 *://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@enigmatic_e/*
 *://*.youtube.com/@sebastiankamph/*
