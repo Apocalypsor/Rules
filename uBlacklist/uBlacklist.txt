@@ -1490,6 +1490,7 @@
 *://*.aichi-kasugai.buzz/*
 *://*.aicreate.com/*
 *://*.aidehouse.com/*
+*://*.aidrivenrecipes.com/*
 *://*.aidungeon.com/*
 *://*.aieasypic.com/*
 *://*.aier0917.com/*
@@ -1938,6 +1939,7 @@
 *://*.barcode.so/*
 *://*.bare.club/*
 *://*.bargcoz.cn/*
+*://*.bargpt.app/*
 *://*.barsch-marktforschung.buzz/*
 *://*.basedlabs.ai/*
 *://*.bashable.art/*
@@ -2068,6 +2070,7 @@
 *://*.big-tits-and-round-asses.com/*
 *://*.bigdatabuy.com/*
 *://*.bigeunion.com/*
+*://*.bigshadows.net/*
 *://*.bijnchr.cn/*
 *://*.bikerschallenge.com/*
 *://*.bikinidomains.buzz/*
@@ -2196,6 +2199,7 @@
 *://*.bomei007.com/*
 *://*.bongnao.cn/*
 *://*.bonne-table.buzz/*
+*://*.boodlebox.ai/*
 *://*.book-sales.buzz/*
 *://*.booksheji.com/*
 *://*.bookstack.cn/*
@@ -4115,6 +4119,7 @@
 *://*.grinstreet.ru/*
 *://*.grizwood.buzz/*
 *://*.grosse-chatte.buzz/*
+*://*.groundabout.coffee/*
 *://*.growinglove.cn/*
 *://*.grs8.cn/*
 *://*.gsevents.cn/*
@@ -4807,6 +4812,7 @@
 *://*.igazone.com/*
 *://*.igdjvjf.cn/*
 *://*.igdmcwn.cn/*
+*://*.igot.coffee/*
 *://*.igrapoker.buzz/*
 *://*.igservizi.buzz/*
 *://*.iguomu.com/*
@@ -4858,6 +4864,7 @@
 *://*.imccar.com/*
 *://*.imengstar.com/*
 *://*.img2go.com/*
+*://*.imiprompt.com/*
 *://*.immo-logis.net/*
 *://*.imooc.com/*
 *://*.impossibleimages.ai/*
@@ -4951,6 +4958,7 @@
 *://*.ipic.ai/*
 *://*.ipolarstar.cn/*
 *://*.ips8cz.com/*
+*://*.ipv6.rs/*
 *://*.iqnkooc.cn/*
 *://*.iqzbj.cn/*
 *://*.irc3mr0.cn/*
@@ -5694,6 +5702,7 @@
 *://*.lawtagtw.com/*
 *://*.layer.ai/*
 *://*.layla-network.ai/*
+*://*.lazyriverdesignworks.com/*
 *://*.lb060.com/*
 *://*.lbbaptist.com/*
 *://*.lbc-services.buzz/*
@@ -6278,6 +6287,7 @@
 *://*.mituang.com/*
 *://*.miudang.cn/*
 *://*.mixcomfy.com/*
+*://*.mixologyai.com/*
 *://*.miyil.com/*
 *://*.mjg8.cn/*
 *://*.mjhhx0i.cn/*
@@ -6436,6 +6446,7 @@
 *://*.myatlasexpress.com/*
 *://*.mybootic.com/*
 *://*.myd188.com/*
+*://*.mydotprompt.com/*
 *://*.myedit.online/*
 *://*.mygolfsky.com/*
 *://*.myhaikou.cn/*
@@ -7252,6 +7263,7 @@
 *://*.promptalot.com/*
 *://*.promptbase.com/*
 *://*.promptchan.ai/*
+*://*.promptcombo.com/*
 *://*.promptcow.com/*
 *://*.promptden.com/*
 *://*.promptforum.com/*
@@ -7595,6 +7607,7 @@
 *://*.rakugaki-taro.com/*
 *://*.ran2000.buzz/*
 *://*.ranjgzo.cn/*
+*://*.rareconnections.io/*
 *://*.rate-movie.com/*
 *://*.rattaprofid.ee/*
 *://*.raven-industries.buzz/*
@@ -9096,6 +9109,7 @@
 *://*.twgjy.com/*
 *://*.twgreatdaily.com/*
 *://*.twikor.cn/*
+*://*.twistedalchemy.com/pages/ai-cocktail-recipes/*
 *://*.twitter.com/21xfour/*
 *://*.twitter.com/AI_ART__/*
 *://*.twitter.com/AI_Art_Gura/*
@@ -9175,6 +9189,7 @@
 *://*.typecast.ai/*
 *://*.typedream.com/*
 *://*.typeface.ai/*
+*://*.typli.ai/*
 *://*.tysjky.com/*
 *://*.tyxhjj.com/*
 *://*.tz137.com/*
@@ -9664,6 +9679,7 @@
 *://*.whynnn.com/*
 *://*.whysw88.com/*
 *://*.whytcf.com/*
+*://*.whythealgarve.com/*
 *://*.whytryai.com/*
 *://*.whyzbr.com/*
 *://*.wienfm.com/*
@@ -9743,6 +9759,7 @@
 *://*.wordford.com/*
 *://*.wordspilot.com/*
 *://*.workhard.guru/*
+*://*.worldfrogday.org/*
 *://*.worldphim.com/*
 *://*.worldseries13.buzz/*
 *://*.worldtradeglobal.buzz/*
@@ -10294,6 +10311,7 @@
 *://*.yeddaxuan.com/*
 *://*.yeeed.com/*
 *://*.yehua9519.cn/*
+*://*.yeschat.ai/*
 *://*.yesterdaysapples.com/*
 *://*.yfdhw.com/*
 *://*.yfpy3yj.cn/*
