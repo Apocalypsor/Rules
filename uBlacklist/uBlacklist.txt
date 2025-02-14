@@ -4536,6 +4536,7 @@
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
 *://*.home.ai/*
+*://*.homediningkitchen.com/*
 *://*.homefindernow.buzz/*
 *://*.homefindersint.buzz/*
 *://*.homeliva.com/*
