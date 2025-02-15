@@ -2364,6 +2364,7 @@
 *://*.casinopier-waterworks.buzz/*
 *://*.caspa.ai/*
 *://*.castle-cctv.cn/*
+*://*.catsaroundtheglobe.com/*
 *://*.cb728.com/*
 *://*.cbbxk.com/*
 *://*.cbsshg.com/*
