@@ -7768,6 +7768,7 @@
 *://*.reddit.com/r/bard/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/civitai/*
+*://*.reddit.com/r/comfyui/*
 *://*.reddit.com/r/craiyon/*
 *://*.reddit.com/r/cursedAIpics/*
 *://*.reddit.com/r/dalle2/*
