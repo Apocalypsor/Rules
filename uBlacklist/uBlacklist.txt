@@ -7948,6 +7948,7 @@
 *://*.ruby-china.org/*
 *://*.ruigejgj.cn/*
 *://*.ruiqs.com/*
+*://*.runcomfy.com/*
 *://*.rundiffusion.com/*
 *://*.runronger.com/*
 *://*.runwayml.com/*
