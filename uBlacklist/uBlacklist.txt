@@ -11081,6 +11081,7 @@
 *://iask.sina.com.cn/*
 *://ichi.pro/*
 *://icode9.com/*
+*://iifx.dev/*
 *://intellipaat.com/*
 *://iquestion.pro/*
 *://isolution.pro/*
