@@ -3513,6 +3513,7 @@
 *://*.extends.run/*
 *://*.exthe247.com/*
 *://*.extreme-mac.buzz/*
+*://*.eyecandy.net/*
 *://*.eyuth.com/*
 *://*.eyxgwpt.cn/*
 *://*.ezerm.cn/*
@@ -5831,7 +5832,6 @@
 *://*.linhwaa.com/*
 *://*.link4399.cn/*
 *://*.linkchic.com/*
-*://*.linkedin.com/in/justmaier/*
 *://*.linksou.cc/*
 *://*.linksure.cn/*
 *://*.linqq.net/*
@@ -7285,6 +7285,7 @@
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
 *://*.psgy.qqabf.download/*
+*://*.psichologyanswers.com/*
 *://*.psimoon.buzz/*
 *://*.psjia.com/*
 *://*.pspfvw.cn/*
