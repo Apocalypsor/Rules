@@ -1533,6 +1533,7 @@
 *://*.aipornhub.net/*
 *://*.aiprofilepic.art/*
 *://*.aipromptpalettes.art/*
+*://*.aipromptsdirectory.com/*
 *://*.aiqq8.cn/*
 *://*.air-ballon.buzz/*
 *://*.air-travel-card.buzz/*
