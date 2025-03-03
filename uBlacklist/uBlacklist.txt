@@ -3729,6 +3729,7 @@
 *://*.forenose.com/*
 *://*.forensicpsychologysussex.co.uk/*
 *://*.forgerynet.buzz/*
+*://*.forkful.ai/*
 *://*.forthewall.art/*
 *://*.forum.vi-mm.eu/*
 *://*.fotor.com/*
@@ -4376,6 +4377,7 @@
 *://*.healths120.com/*
 *://*.healthtagtw.com/*
 *://*.healthy-resources.buzz/*
+*://*.heatware.net/*
 *://*.hebeiguosu.com/*
 *://*.hebergementwebs.com/*
 *://*.hebfanghuom.com/*
@@ -9256,6 +9258,7 @@
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
 *://*.ulkhmiim.cn/*
+*://*.umatechnology.org/*
 *://*.umd5eld.cn/*
 *://*.umonmall.com/*
 *://*.umrhyqo.cn/*
@@ -10470,7 +10473,7 @@
 *://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@enigmatic_e/*
 *://*.youtube.com/@sebastiankamph/*
-*://*.youtube.com/@shadiversity/*
+*://*.youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
 *://*.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/*
 *://*.youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ/*
