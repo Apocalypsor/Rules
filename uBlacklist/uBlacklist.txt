@@ -7264,6 +7264,7 @@
 *://*.promeai.com/*
 *://*.promeai.pro/*
 *://*.promoworksnow.buzz/*
+*://*.prompt-com.com/*
 *://*.prompt.quel.jp/*
 *://*.promptalot.com/*
 *://*.promptbase.com/*
@@ -8455,6 +8456,7 @@
 *://*.songkran2015.com/*
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
+*://*.songtell.com/*
 *://*.sop5fzr.cn/*
 *://*.sora.com/*
 *://*.sorapix.ai/*
