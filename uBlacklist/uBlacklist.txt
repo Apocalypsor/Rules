@@ -1541,6 +1541,7 @@
 *://*.airflowonline.buzz/*
 *://*.airgeorgian.buzz/*
 *://*.airoomplanner.com/*
+*://*.airportcalgary.com/*
 *://*.airsatddt.com/*
 *://*.airtimeaudio.buzz/*
 *://*.aisatoyscn.com/*
@@ -3006,6 +3007,7 @@
 *://*.deepnude.cc/*
 *://*.deepnudenow.com/*
 *://*.deepnudify.com/*
+*://*.deepseek.com/*
 *://*.deepsukebe.io/*
 *://*.deepswap.ai/*
 *://*.defelsko.net.cn/*
@@ -3170,6 +3172,7 @@
 *://*.docway.net/*
 *://*.doczj.com/*
 *://*.dodsonfineart.buzz/*
+*://*.dogbreedadvice.com/*
 *://*.dokry.com/*
 *://*.dolchul.buzz/*
 *://*.domihp.com/*
@@ -5101,6 +5104,7 @@
 *://*.jdwsj.com/*
 *://*.je52.cn/*
 *://*.jeda.ai/*
+*://*.jeddahairport.net/*
 *://*.jeepxie.net/*
 *://*.jeepyurongfu.net/*
 *://*.jeffhildebrand.buzz/*
@@ -7003,6 +7007,7 @@
 *://*.peiyige.com/*
 *://*.penly.ai/*
 *://*.penzai.com/*
+*://*.peopleai.com/*
 *://*.pephop.ai/*
 *://*.peppababy.com/*
 *://*.perchance.org/*
@@ -8078,6 +8083,7 @@
 *://*.sclxys.com/*
 *://*.scmjgene.com/*
 *://*.scorui.com/*
+*://*.scpa.education/*
 *://*.scptol.com/*
 *://*.scqsnc.com/*
 *://*.scriptcult.com/*
