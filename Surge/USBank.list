@@ -1,6 +1,9 @@
 # Alliant
 DOMAIN-SUFFIX,alliantcreditunion.com
 
+# Ally
+DOMAIN-SUFFIX,ally.com
+
 # Amex
 DOMAIN-SUFFIX,americanexpress.com
 
@@ -111,6 +114,9 @@ DOMAIN-SUFFIX,regions.com
 
 # Revolut
 DOMAIN-SUFFIX,revolut.com
+
+# Robinhood
+DOMAIN-SUFFIX,robinhood.com
 
 # SoFi
 DOMAIN-SUFFIX,sofi.com
