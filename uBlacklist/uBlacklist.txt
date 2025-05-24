@@ -1325,7 +1325,6 @@
 *://*.9xt399i.cn/*
 *://*.9yyu.com/*
 *://*.Sunoai.ai/*
-*://*.Sunoai.asia/*
 *://*.a0300.cn/*
 *://*.a1fz.com/*
 *://*.a372.cn/*
@@ -2264,6 +2263,7 @@
 *://*.bubuko.com/*
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
+*://*.buddhaweekly.com/*
 *://*.bugelun.com/*
 *://*.bugshoot.cn/*
 *://*.buitragonotaria.buzz/*
@@ -3099,6 +3099,7 @@
 *://*.didibeile.com/*
 *://*.didong100.com/*
 *://*.differentsplit.com/*
+*://*.diffus.me/*
 *://*.diffusion.land/*
 *://*.diffusion.to/*
 *://*.diffusionai.art/*
@@ -8638,6 +8639,7 @@
 *://*.sunnynana.com/*
 *://*.suno.ai/*
 *://*.suno.com/*
+*://*.sunoai.asia/*
 *://*.sunyuanxx.com/*
 *://*.suoluowan.com/*
 *://*.supagruen.github.io/StableDiffusion-CheatSheet/*
