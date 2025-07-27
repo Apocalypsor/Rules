@@ -6556,6 +6556,7 @@
 *://*.orifqqi.cn/*
 *://*.ork8t2.cn/*
 *://*.orsoft.cn/*
+*://*.oryoy.com/*
 *://*.os8d0f.cn/*
 *://*.oschina.net/*
 *://*.ose.cc/*
@@ -7948,6 +7949,7 @@
 *://*.st89.cn/*
 *://*.stackallflow.com/*
 *://*.stackanswers.net/*
+*://*.stackbox.org/*
 *://*.stackfault.net/*
 *://*.stackfinder.jp.net/*
 *://*.stackfinder.ru/*
