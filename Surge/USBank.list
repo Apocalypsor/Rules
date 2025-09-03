@@ -85,6 +85,10 @@ DOMAIN-SUFFIX,firsthorizon.com
 # Fluz Power
 DOMAIN-SUFFIX,power.fluz.app
 
+# Future
+DOMAIN-SUFFIX,thefutureapi.com
+DOMAIN-SUFFIX,future.green
+
 # HSBC US
 DOMAIN-SUFFIX,us.hsbc.com
 
@@ -109,6 +113,9 @@ DOMAIN-SUFFIX,paypal.com
 # Plaid
 DOMAIN-SUFFIX,plaid.com
 
+# PNC
+DOMAIN-SUFFIX,pnc.com
+
 # Regions
 DOMAIN-SUFFIX,regions.com
 
@@ -120,6 +127,9 @@ DOMAIN-SUFFIX,robinhood.com
 
 # SoFi
 DOMAIN-SUFFIX,sofi.com
+
+# Sunward
+DOMAIN-SUFFIX,banking-slfcu.org
 
 # UCU
 DOMAIN-SUFFIX,ucu.org
@@ -133,6 +143,9 @@ DOMAIN-SUFFIX,venmo.com
 # Wells Fargo
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,biltrewards.com
+
+# Western Union
+DOMAIN-SUFFIX,westernunion.com
 
 # Wings CU
 DOMAIN-SUFFIX,wingscu.com
