@@ -10330,6 +10330,7 @@
 *://coderquestion.ru/*
 *://codesti.com/*
 *://codeutility.org/*
+*://comate.baidu.com/*
 *://configlinux.com/*
 *://copyprogramming.com/*
 *://daijoubu-hai.osyaberiina.com/*
