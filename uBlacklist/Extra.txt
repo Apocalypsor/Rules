@@ -388,3 +388,4 @@
 *://*.xuebaunion.com/*
 *://*.gtdibms.com/*
 *://*.epochtimes.com/*
+*://comate.baidu.com/*
