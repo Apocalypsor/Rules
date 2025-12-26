@@ -73,6 +73,9 @@ DOMAIN-SUFFIX,empower-retirement.com
 # E*Trafe
 DOMAIN-SUFFIX,etrade.com
 
+# Extend
+DOMAIN-SUFFIX,paywithextend.com
+
 # Fidelity
 DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,fidelitydebitcard.com
@@ -174,9 +177,10 @@ DOMAIN-SUFFIX,statefarm.com
 DOMAIN-SUFFIX,progressive.com
 DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,tello.com
-DOMAIN-SUFFIX,statefarm.com
 DOMAIN-SUFFIX,mobileapi.keepcalling.net
+DOMAIN-SUFFIX,statefarm.com
 DOMAIN-SUFFIX,fluz.app
+DOMAIN-SUFFIX,fluzapp.com
 DOMAIN-SUFFIX,hellohelium.com
 DOMAIN-SUFFIX,helium.io
 DOMAIN-SUFFIX,att.com
