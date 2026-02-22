@@ -5385,6 +5385,7 @@
 *://*.kuaizix.com/*
 *://*.kuandaile.com/*
 *://*.kuangxiangkeji.cn/*
+*://*.kuazhi.com/*
 *://*.kubh.lkcpz.download/*
 *://*.kubwljw.cn/*
 *://*.kuenstlerring.buzz/*
