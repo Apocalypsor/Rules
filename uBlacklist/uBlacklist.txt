@@ -6396,7 +6396,6 @@
 *://*.novascotiascott.com/*
 *://*.novbox.buzz/*
 *://*.npidjma.cn/*
-*://*.npmmirror.com/*
 *://*.npx85.com/*
 *://*.nqf8.cn/*
 *://*.nqg8.cn/*
