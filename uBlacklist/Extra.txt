@@ -389,3 +389,4 @@
 *://*.gtdibms.com/*
 *://*.epochtimes.com/*
 *://comate.baidu.com/*
+*://zuowangdao.com/*
