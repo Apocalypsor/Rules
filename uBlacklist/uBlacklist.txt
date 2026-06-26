@@ -10399,6 +10399,7 @@
 *://itectec.com/*
 *://itigic.com/*
 *://itranslater.com/*
+*://ittrip.xyz/*
 *://iwhqa.lostbooks.net/*
 *://ja.coder.work/*
 *://jis520.com/*
@@ -10474,6 +10475,7 @@
 *://rnazzy.question2answer.website/*
 *://routinepanic.com/*
 *://rstopup.com/*
+*://saiteki-ai.com/*
 *://search.zonealarm.com/*
 *://shangdixinxi.com/*
 *://shenghuobao.net/*
