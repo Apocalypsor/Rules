@@ -10346,7 +10346,6 @@
 *://emanuelosc.org/*
 *://errorsfixing.com/*
 *://eu.fwbdl.com/*
-*://exceptionshub.com/*
 *://exchangetuts.com/*
 *://extension.info/*
 *://fes.wiki/*
@@ -10389,7 +10388,6 @@
 *://issueexplorer.com/*
 *://issuehunt.io/*
 *://it-swarm.asia/*
-*://it-swarm.dev/*
 *://it-swarm.net/*
 *://it-swarm.xyz/*
 *://it.in-jpn.com/*
@@ -10410,7 +10408,6 @@
 *://kotaeta.com/*
 *://kzen.dev/*
 *://legkovopros.ru/*
-*://lifesaver.codes/*
 *://living-sun.com/*
 *://m.enkj.com/*
 *://m.toutiao.com/search?keyword=*
@@ -10549,13 +10546,13 @@
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
-*://www.it-swarm.dev/*
 *://www.it-swarm.jp.net/*
 *://www.javaer101.com/*
 *://www.javafixing.com/*
 *://www.ksyun.com/developer/article/*
 *://www.kutombawewe.net/*
 *://www.linuxfixes.com/*
+*://www.living-sun.com/*
 *://www.ma173.com/*
 *://www.maishuini.com/news/*
 *://www.manyanu.com/*
@@ -10566,6 +10563,7 @@
 *://www.sohu.com/*
 *://www.solveforum.com/*
 *://www.stackfinder.ru/*
+*://www.stackoverrun.com/*
 *://www.taodudu.cc/*
 *://www.ucloud.cn/yun/*
 *://www.uxahz.com/*
