@@ -3,3 +3,6 @@
 @@||api-iam.intercom.io^
 @@||ak-d.tripcdn.com^
 @@||js.braintreegateway.com^
+@@||cfa.fidelity.com^
+@@||www.kqzyfj.com^
+@@||www.emjcd.com^
