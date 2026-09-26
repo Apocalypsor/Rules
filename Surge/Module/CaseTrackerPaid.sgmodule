@@ -1,0 +1,8 @@
+#!name=Case Tracker Local Paid Status
+#!desc=Sets isPaid to true and supplies simulated subscription dates in getUserMetadata responses. Requires MITM and a trusted CA certificate. Not yet verified in the app.
+
+[Script]
+CaseTrackerPaid = type=http-response, pattern=^https://api\.immivision\.net/v1/getUserMetadata/?(\?.*)?$, requires-body=true, max-size=262144, script-path=https://raw.githubusercontent.com/Apocalypsor/Rules/master/Surge/Script/case-tracker-paid.js, timeout=10
+
+[MITM]
+hostname = %APPEND% api.immivision.net
