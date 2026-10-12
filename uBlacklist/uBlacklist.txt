@@ -1431,6 +1431,7 @@
 *://*.adzna.com/*
 *://*.aeg6.com/*
 *://*.aeo.com.cn/*
+*://*.aetheria.jp/*
 *://*.aew-sdn.com/*
 *://*.af009.com/*
 *://*.afcc.cc/*
@@ -2853,6 +2854,7 @@
 *://*.dedexiche.com/*
 *://*.defelsko.net.cn/*
 *://*.deiniu.com/*
+*://*.delftstack.com/*
 *://*.delinvip.com/*
 *://*.delxypx.cn/*
 *://*.demonxx.com/*
@@ -7805,6 +7807,7 @@
 *://*.snhsoft.com/*
 *://*.snippmate.com/*
 *://*.snjiaoyu.com/*
+*://*.snowsystem.net/*
 *://*.snplw.cn/*
 *://*.snwz.cn.com/*
 *://*.so.100lw.com/*
@@ -10387,6 +10390,7 @@
 *://issueantenna.com/*
 *://issueexplorer.com/*
 *://issuehunt.io/*
+*://it-notes.stylemap.co.jp/*
 *://it-swarm.asia/*
 *://it-swarm.net/*
 *://it-swarm.xyz/*
@@ -10416,6 +10420,7 @@
 *://mexstroda.blogspot.com/*
 *://microeducate.tech/*
 *://mjjcpu.com/*
+*://mobiletechlead.com/*
 *://mos86.com/*
 *://myht.ru/*
 *://nagasaki-noc.ne.jp/*
@@ -10472,6 +10477,7 @@
 *://rnazzy.question2answer.website/*
 *://routinepanic.com/*
 *://rstopup.com/*
+*://runebook.dev/*
 *://saiteki-ai.com/*
 *://search.zonealarm.com/*
 *://shangdixinxi.com/*
